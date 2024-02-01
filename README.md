@@ -6,7 +6,8 @@ Este projeto acadêmico tem como objetivo extrair informações de arquivos em P
 
 ## Dowload dos Arquivos com dados extraidos
 
-Baixe os arquivos mais recentes na [página de releases](https://github.com/MtheusR/parse-py/releases).
+Para baixar apenas os dados mais recentes para serem analisados, baixe o arquivo "Aquivo.zip" na [página de releases](https://github.com/MtheusR/parse-py/releases).
+
 
 ## Funcionalidades Principais
 
