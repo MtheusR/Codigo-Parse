@@ -4,6 +4,10 @@
 
 Este projeto acadêmico tem como objetivo extrair informações de arquivos em PDFs que foram convertidos em Planilhas, realizar análises e armazenar os resultados em arquivos CSV. Atualmente, o projeto abrange a extração de dados referentes a alunos, grades curriculares, históricos e status acadêmico.
 
+## Dowload dos Arquivos com dados extraidos
+
+Baixe os arquivos mais recentes na [página de releases](https://github.com/MtheusR/parse-py/releases).
+
 ## Funcionalidades Principais
 
 ### 1. Extração de Dados dos Alunos
