@@ -1,1401 +1,1277 @@
-ano,nome,codigo,disciplina,nota,situacao
-2020,Gabriel Enzo,DOMK5241,Design de Aprendizado,,DISPENSADO
-2012,Gabriel Enzo,OCRQ3517,Storytelling Visual,3.91,REPROVADO
-2012,Gabriel Enzo,RJGL2456,Design Colaborativo,1.85,REPROVADO
-2012,Gabriel Enzo,QBWW6998,Computacao Grafica,7.53,APROVADO
-2012,Gabriel Enzo,UFMQ0127,Design para Longevidade,7.5,APROVADO POR MÉDIA
-2012,Gabriel Enzo,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2012,Gabriel Enzo,BKII1063,Design de Visualizacao de Informacoes,7.0,APROVADO POR MÉDIA
-2012,Gabriel Enzo,RJYZ5864,Identidade Visual,7.25,APROVADO POR MÉDIA
-2013,Gabriel Enzo,OCRQ3517,Storytelling Visual,5.0,APROVADO
-2013,Gabriel Enzo,RJGL2456,Design Colaborativo,3.97,REPROVADO
-2013,Gabriel Enzo,JGDZ1333,Gamificacao,7.75,APROVADO POR MÉDIA
-2013,Gabriel Enzo,NRYN3294,Design de Interfaces Neuromorficas,6.5,APROVADO
-2013,Gabriel Enzo,NRCI1107,Design de Experiencia em Museus,5.75,APROVADO
-2013,Gabriel Enzo,MXMO8868,Cultura Visual,7.0,APROVADO POR MÉDIA
-2013,Gabriel Enzo,AAZN5771,Ergonomia,5.0,APROVADO
-2013,Gabriel Enzo,RJGL2456,Design Colaborativo,6.18,APROVADO
-2013,Gabriel Enzo,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2013,Gabriel Enzo,TPYC6338,Design Thinking,7.0,APROVADO POR MÉDIA
-2013,Gabriel Enzo,TSYB3211,Impressao 3D,,REPROVADO POR FALTA
-2013,Gabriel Enzo,VOQA5582,Tipografia,2.15,REPROVADO
-2013,Gabriel Enzo,BLDG0260,Design de Joias,,REPROVADO POR FALTA
-2013,Gabriel Enzo,KAWV5083,Branding,5.0,APROVADO
-2014,Gabriel Enzo,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2014,Gabriel Enzo,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2014,Gabriel Enzo,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.0,APROVADO POR MÉDIA
-2014,Gabriel Enzo,TSYB3211,Impressao 3D,7.5,APROVADO POR MÉDIA
-2014,Gabriel Enzo,BLDG0260,Design de Joias,4.03,REPROVADO
-2014,Gabriel Enzo,NGVU3526,Ecodesign,7.0,APROVADO POR MÉDIA
-2014,Gabriel Enzo,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2014,Gabriel Enzo,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2014,Gabriel Enzo,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2014,Gabriel Enzo,JVFQ7338,Design de Interacao Cultural,2.5,REPROVADO
-2014,Gabriel Enzo,BLDG0260,Design de Joias,2.8,REPROVADO
-2014,Gabriel Enzo,QVGO0107,Prototipagem em Papel,7.5,APROVADO POR MÉDIA
-2015,Gabriel Enzo,VFBH8799,Design Cibernetico,6.38,APROVADO
-2015,Gabriel Enzo,SATJ7970,Design de Narrativa Espacial,9.0,APROVADO POR MÉDIA
-2015,Gabriel Enzo,JVFQ7338,Design de Interacao Cultural,5.13,APROVADO
-2015,Gabriel Enzo,LLKP8902,Design Digital,8.5,APROVADO POR MÉDIA
-2015,Gabriel Enzo,BLDG0260,Design de Joias,5.13,APROVADO
-2015,Gabriel Enzo,LERH6635,Design de Produto,7.75,APROVADO POR MÉDIA
-2015,Gabriel Enzo,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2015,Gabriel Enzo,COOQ5695,Design de Interacao em Tempo Real,5.38,APROVADO
-2015,Gabriel Enzo,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2015,Gabriel Enzo,ZULH9584,Projeto Integrado,3.8,REPROVADO
-2015,Gabriel Enzo,TWIP0018,Teoria da Cor,8.0,APROVADO POR MÉDIA
-ANO,Gabriel Enzo,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2015,Gabriel Enzo,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2015,Gabriel Enzo,VNBQ5535,Design de Moda,8.5,APROVADO POR MÉDIA
-2016,Gabriel Enzo,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2016,Gabriel Enzo,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2016,Gabriel Enzo,UXMU2899,Interacao Tangivel,7.0,APROVADO POR MÉDIA
-2016,Gabriel Enzo,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2016,Gabriel Enzo,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2016,Gabriel Enzo,TOZF3011,SemiÃ³tica,,REPROVADO POR FALTA
-2016,Gabriel Enzo,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2016,Gabriel Enzo,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2016,Gabriel Enzo,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2016,Gabriel Enzo,TRQX5862,Etica em Design,8.0,APROVADO POR MÉDIA
-2017,Gabriel Enzo,HQDD9963,Design Sonoro,5.75,APROVADO
-2017,Gabriel Enzo,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2017,Gabriel Enzo,KZBU0327,Design de Interacao Corporal,,REPROVADO POR FALTA
-2017,Gabriel Enzo,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2017,Gabriel Enzo,TOZF3011,SemiÃ³tica,7.0,APROVADO POR MÉDIA
-2017,Gabriel Enzo,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),7.0,APROVADO POR MÉDIA
-2017,Gabriel Enzo,ZULH9584,Projeto Integrado,5.97,APROVADO
-2017,Gabriel Enzo,VMGY1151,Design de Interacao Tangivel,5.2,APROVADO
-2017,Gabriel Enzo,PBCQ5148,Design de Impressao e Publicacao,,REPROVADO POR FALTA
-2018,Gabriel Enzo,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",,REPROVADO POR FALTA
-2018,Gabriel Enzo,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2018,Gabriel Enzo,FZLO1427,"Marketing de Produto
-DOCENTE(S): Carla Souza",5.86,APROVADO
-2018,Gabriel Enzo,KZBU0327,Design de Interacao Corporal,7.0,APROVADO POR MÉDIA
-2018,Gabriel Enzo,RRME1020,"Design Parametrico
-DOCENTE(S): Juliana Rodrigues",5.0,APROVADO
-2018,Gabriel Enzo,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",,REPROVADO POR FALTA
-2018,Gabriel Enzo,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",5.88,APROVADO
-2018,Gabriel Enzo,XERB6119,"Gestao de Marcas
-DOCENTE(S): Maria Santos",7.0,APROVADO POR MÉDIA
-2018,Gabriel Enzo,PBCQ5148,"Design de Impressao e Publicacao
-DOCENTE(S): Gustavo Martins",7.41,APROVADO POR MÉDIA
-2019,Gabriel Enzo,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",5.63,APROVADO
-2019,Gabriel Enzo,IENT5068,"Design Experimental
-DOCENTE(S): Rafaela Gomes",7.0,APROVADO POR MÉDIA
-2019,Gabriel Enzo,VOQA5582,"Tipografia
-DOCENTE(S): Joao Silva",3.35,REPROVADO
-2019,Gabriel Enzo,DQUN5124,"Comunicacao Visual
-DOCENTE(S): Luiz Pereira",7.5,APROVADO POR MÉDIA
-2019,Gabriel Enzo,LSHL3127,"Design de Redes Sociais
-DOCENTE(S): Larissa Vieira",5.63,APROVADO
-2019,Gabriel Enzo,AOXV5438,"Design de Espacos Virtuais
-DOCENTE(S): Pedro Oliveira",9.75,APROVADO POR MÉDIA
-2019,Gabriel Enzo,DOMK5241,"Design de Aprendizado
-DOCENTE(S): Ana Costa",3.88,REPROVADO
-ANO,Gabriel Enzo,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2019,Gabriel Enzo,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",,RENOVAÇÃO DE ESTÁGIO
-2019,Gabriel Enzo,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",6.59,APROVADO
-2019,Gabriel Enzo,WWGS2880,"Design de Realidade Hibrida
-DOCENTE(S): Pedro Oliveira",7.0,APROVADO POR MÉDIA
-2019,Gabriel Enzo,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",9.0,APROVADO POR MÉDIA
-2020,Gabriel Enzo,JJNT2088,"Manipulacao de Imagem
-DOCENTE(S): Diego Cardoso",9.85,APROVADO POR MÉDIA
-2020,Gabriel Enzo,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",9.0,APROVADO POR MÉDIA
-2020,Gabriel Enzo,VOQA5582,"Tipografia
-DOCENTE(S): Joao Silva",8.75,APROVADO POR MÉDIA
-2020,Gabriel Enzo,,INTEGRALIZADO,,
-2020,Gabriel Enzo,,FORMADO,,
-2009,Juliana Luca,OCRQ3517,Storytelling Visual,8.9,APROVADO POR MÉDIA
-2009,Juliana Luca,RJGL2456,Design Colaborativo,5.3,APROVADO
-2009,Juliana Luca,QBWW6998,Computacao Grafica,9.5,APROVADO POR MÉDIA
-2009,Juliana Luca,UFMQ0127,Design para Longevidade,7.5,APROVADO POR MÉDIA
-2009,Juliana Luca,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2009,Juliana Luca,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2009,Juliana Luca,RJYZ5864,Identidade Visual,8.25,APROVADO POR MÉDIA
-2009,Juliana Luca,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2009,Juliana Luca,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2009,Juliana Luca,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.35,APROVADO POR MÉDIA
-2009,Juliana Luca,JGDZ1333,Gamificacao,8.25,APROVADO POR MÉDIA
-2009,Juliana Luca,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2009,Juliana Luca,MXMO8868,Cultura Visual,9.75,APROVADO POR MÉDIA
-2009,Juliana Luca,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2010,Juliana Luca,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2010,Juliana Luca,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2010,Juliana Luca,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2010,Juliana Luca,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2010,Juliana Luca,NGVU3526,Ecodesign,9.75,APROVADO POR MÉDIA
-2010,Juliana Luca,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2010,Juliana Luca,TPYC6338,Design Thinking,9.0,APROVADO POR MÉDIA
-2011,Juliana Luca,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2011,Juliana Luca,BLDG0260,Design de Joias,,REPROVADO POR FALTA
-2011,Juliana Luca,KAWV5083,Branding,,REPROVADO POR FALTA
-2012,Juliana Luca,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-2012,Juliana Luca,,DESVINCULADO,,
-2006,Lara Joao,OCRQ3517,Storytelling Visual,9.25,APROVADO POR MÉDIA
-2006,Lara Joao,RJGL2456,Design Colaborativo,8.1,APROVADO POR MÉDIA
-2006,Lara Joao,QBWW6998,Computacao Grafica,8.0,APROVADO POR MÉDIA
-2006,Lara Joao,UFMQ0127,Design para Longevidade,5.75,APROVADO
-2006,Lara Joao,MKUB0718,Design de Mobiliario,10.0,APROVADO POR MÉDIA
-2006,Lara Joao,BKII1063,Design de Visualizacao de Informacoes,8.0,APROVADO POR MÉDIA
-2006,Lara Joao,RJYZ5864,Identidade Visual,8.0,APROVADO POR MÉDIA
-2007,Lara Joao,DOMK5241,Design de Aprendizado,8.0,APROVADO POR MÉDIA
-2007,Lara Joao,ZULH9584,Projeto Integrado,4.02,REPROVADO
-2007,Lara Joao,WPUV3332,Design de Tecnologia Vestivel (Wearable),9.13,APROVADO POR MÉDIA
-2007,Lara Joao,NRYN3294,Design de Interfaces Neuromorficas,8.0,APROVADO POR MÉDIA
-2007,Lara Joao,NRCI1107,Design de Experiencia em Museus,10.0,APROVADO POR MÉDIA
-2007,Lara Joao,AAZN5771,Ergonomia,8.1,APROVADO POR MÉDIA
-2007,Lara Joao,NGVU3526,Ecodesign,8.9,APROVADO POR MÉDIA
-2007,Lara Joao,JJNT2088,Manipulacao de Imagem,7.25,APROVADO POR MÉDIA
-2007,Lara Joao,ZULH9584,Projeto Integrado,6.88,APROVADO
-2007,Lara Joao,TPYC6338,Design Thinking,7.75,APROVADO POR MÉDIA
-2007,Lara Joao,TSYB3211,Impressao 3D,6.0,APROVADO
-2007,Lara Joao,VOQA5582,Tipografia,8.5,APROVADO POR MÉDIA
-2007,Lara Joao,BLDG0260,Design de Joias,7.5,APROVADO POR MÉDIA
-2008,Lara Joao,COOQ5695,Design de Interacao em Tempo Real,,CANCELADO COM ONUS
-2008,Lara Joao,VFBH8799,Design Cibernetico,9.0,APROVADO POR MÉDIA
-2008,Lara Joao,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),7.17,APROVADO POR MÉDIA
-2008,Lara Joao,JVFQ7338,Design de Interacao Cultural,7.75,APROVADO POR MÉDIA
-2008,Lara Joao,JGDZ1333,Gamificacao,,CANCELADO COM ONUS
-2008,Lara Joao,QVGO0107,Prototipagem em Papel,7.65,APROVADO POR MÉDIA
-2008,Lara Joao,FZLO1427,Marketing de Produto,8.15,APROVADO POR MÉDIA
-2008,Lara Joao,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2008,Lara Joao,MAEY1044,Design Computacional,7.85,APROVADO POR MÉDIA
-2008,Lara Joao,SATJ7970,Design de Narrativa Espacial,8.2,APROVADO POR MÉDIA
-2008,Lara Joao,IENT5068,Design Experimental,8.5,APROVADO POR MÉDIA
-2008,Lara Joao,KZBU0327,Design de Interacao Corporal,9.0,APROVADO POR MÉDIA
-2008,Lara Joao,KAWV5083,Branding,9.5,APROVADO POR MÉDIA
-2008,Lara Joao,AOXV5438,Design de Espacos Virtuais,8.4,APROVADO POR MÉDIA
-2009,Lara Joao,COOQ5695,Design de Interacao em Tempo Real,8.35,APROVADO POR MÉDIA
-2009,Lara Joao,RVMF0745,Design Biomimetico,8.5,APROVADO POR MÉDIA
-2009,Lara Joao,LLKP8902,Design Digital,8.8,APROVADO POR MÉDIA
-2009,Lara Joao,JGDZ1333,Gamificacao,8.5,APROVADO POR MÉDIA
-2009,Lara Joao,MXMO8868,Cultura Visual,7.25,APROVADO POR MÉDIA
-2009,Lara Joao,RMDE3651,Teoria do Design,8.75,APROVADO POR MÉDIA
-2009,Lara Joao,XERB6119,Gestao de Marcas,8.0,APROVADO POR MÉDIA
-2009,Lara Joao,LERH6635,Design de Produto,9.05,APROVADO POR MÉDIA
-2009,Lara Joao,RRME1020,Design Parametrico,7.5,APROVADO POR MÉDIA
-2009,Lara Joao,VNBQ5535,Design de Moda,5.3,APROVADO
-2009,Lara Joao,TOZF3011,SemiÃ³tica,9.0,APROVADO POR MÉDIA
-2009,Lara Joao,HQDD9963,Design Sonoro,7.0,APROVADO POR MÉDIA
-ANO,Lara Joao,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2009,Lara Joao,BMDH7993,Design de Apresentacoes,8.75,APROVADO POR MÉDIA
-2009,Lara Joao,TWIP0018,Teoria da Cor,8.25,APROVADO POR MÉDIA
-2009,Lara Joao,DZNQ4989,Design Cenico,8.65,APROVADO POR MÉDIA
-2009,Lara Joao,DQUN5124,Comunicacao Visual,10.0,APROVADO POR MÉDIA
-2009,Lara Joao,LSHL3127,Design de Redes Sociais,9.32,APROVADO POR MÉDIA
-2009,Lara Joao,TRQX5862,Etica em Design,7.25,APROVADO POR MÉDIA
-2010,Lara Joao,OJNV9272,Fotografia,7.72,APROVADO POR MÉDIA
-2010,Lara Joao,NVRL4030,Materiais e Processos,8.5,APROVADO POR MÉDIA
-2010,Lara Joao,VMGY1151,Design de Interacao Tangivel,9.0,APROVADO POR MÉDIA
-2010,Lara Joao,XYOT5349,Tecnicas de Iluminacao,8.0,APROVADO POR MÉDIA
-2010,Lara Joao,,INTEGRALIZADO,,
-2010,Lara Joao,,FORMADO,,
-2020,Luciana Luca,OCRQ3517,"Storytelling Visual
-DOCENTE(S): Maria Santos",,REPROVADO POR FALTA
-2020,Luciana Luca,RJGL2456,"Design Colaborativo
-DOCENTE(S): Fernanda Lima",,REPROVADO POR FALTA
-2020,Luciana Luca,QBWW6998,"Computacao Grafica
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2020,Luciana Luca,UFMQ0127,"Design para Longevidade
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2020,Luciana Luca,MKUB0718,"Design de Mobiliario
-DOCENTE(S): Fernanda Lima",,REPROVADO POR FALTA
-2020,Luciana Luca,BKII1063,"Design de Visualizacao de Informacoes
-DOCENTE(S): Andre Almeida",,REPROVADO POR FALTA
-2020,Luciana Luca,RJYZ5864,"Identidade Visual
-DOCENTE(S): Joao Silva",,REPROVADO POR FALTA
-2020,Luciana Luca,,DESVINCULADO,,
-2007,Melissa Gustavo,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2007,Melissa Gustavo,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2007,Melissa Gustavo,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2007,Melissa Gustavo,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2007,Melissa Gustavo,MKUB0718,Design de Mobiliario,8.25,APROVADO POR MÉDIA
-2007,Melissa Gustavo,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2007,Melissa Gustavo,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2007,Melissa Gustavo,OCRQ3517,Storytelling Visual,5.13,APROVADO
-2007,Melissa Gustavo,RJGL2456,Design Colaborativo,5.0,APROVADO
-2007,Melissa Gustavo,QBWW6998,Computacao Grafica,9.0,APROVADO POR MÉDIA
-2007,Melissa Gustavo,UFMQ0127,Design para Longevidade,5.5,APROVADO
-2007,Melissa Gustavo,BKII1063,Design de Visualizacao de Informacoes,7.0,APROVADO POR MÉDIA
-2007,Melissa Gustavo,RJYZ5864,Identidade Visual,7.45,APROVADO POR MÉDIA
-2008,Melissa Gustavo,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2008,Melissa Gustavo,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2008,Melissa Gustavo,WPUV3332,Design de Tecnologia Vestivel (Wearable),,REPROVADO POR FALTA
-2008,Melissa Gustavo,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2008,Melissa Gustavo,NRCI1107,Design de Experiencia em Museus,2.75,REPROVADO
-2008,Melissa Gustavo,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2008,Melissa Gustavo,,TRANCAMENTO,,
-2010,Melissa Gustavo,,DESVINCULADO,,
-2010,Diego Vitoria,OCRQ3517,Storytelling Visual,3.7,REPROVADO
-2010,Diego Vitoria,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2010,Diego Vitoria,QBWW6998,Computacao Grafica,5.22,APROVADO
-2010,Diego Vitoria,UFMQ0127,Design para Longevidade,2.5,REPROVADO
-2010,Diego Vitoria,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2010,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,1.5,REPROVADO
-2010,Diego Vitoria,RJYZ5864,Identidade Visual,8.0,APROVADO POR MÉDIA
-2010,Diego Vitoria,OCRQ3517,Storytelling Visual,5.0,APROVADO
-2010,Diego Vitoria,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2010,Diego Vitoria,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2010,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2010,Diego Vitoria,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2011,Diego Vitoria,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2011,Diego Vitoria,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2011,Diego Vitoria,TPYC6338,Design Thinking,5.0,APROVADO
-2011,Diego Vitoria,JGDZ1333,Gamificacao,9.0,APROVADO POR MÉDIA
-2011,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2011,Diego Vitoria,BLDG0260,Design de Joias,,REPROVADO POR FALTA
-2011,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2011,Diego Vitoria,BLDG0260,Design de Joias,3.88,REPROVADO
-2011,Diego Vitoria,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2011,Diego Vitoria,KAWV5083,Branding,6.35,APROVADO
-2012,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2012,Diego Vitoria,MXMO8868,Cultura Visual,5.4,APROVADO
-2012,Diego Vitoria,BLDG0260,Design de Joias,5.13,APROVADO
-2012,Diego Vitoria,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2012,Diego Vitoria,LERH6635,Design de Produto,7.5,APROVADO POR MÉDIA
-2012,Diego Vitoria,COOQ5695,Design de Interacao em Tempo Real,,REPROVADO POR FALTA
-2012,Diego Vitoria,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2012,Diego Vitoria,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2012,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2012,Diego Vitoria,TRQX5862,Etica em Design,7.0,APROVADO POR MÉDIA
-2013,Diego Vitoria,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2013,Diego Vitoria,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2013,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2013,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2014,Diego Vitoria,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2014,Diego Vitoria,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2014,Diego Vitoria,COOQ5695,Design de Interacao em Tempo Real,,REPROVADO POR FALTA
-2014,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2015,Diego Vitoria,COOQ5695,Design de Interacao em Tempo Real,,REPROVADO POR FALTA
-2015,Diego Vitoria,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-ANO,Diego Vitoria,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2015,Diego Vitoria,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2015,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2015,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2015,Diego Vitoria,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-2016,Diego Vitoria,TOZF3011,SemiÃ³tica,,REPROVADO POR FALTA
-2016,Diego Vitoria,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-2016,Diego Vitoria,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2016,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2016,Diego Vitoria,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2016,Diego Vitoria,TOZF3011,SemiÃ³tica,8.0,APROVADO POR MÉDIA
-2016,Diego Vitoria,HQDD9963,Design Sonoro,7.0,APROVADO POR MÉDIA
-2016,Diego Vitoria,BMDH7993,Design de Apresentacoes,8.0,APROVADO POR MÉDIA
-2016,Diego Vitoria,AAZN5771,Ergonomia,10.0,APROVADO POR MÉDIA
-2016,Diego Vitoria,UXMU2899,Interacao Tangivel,7.0,APROVADO POR MÉDIA
-2016,Diego Vitoria,VMGY1151,Design de Interacao Tangivel,7.0,APROVADO POR MÉDIA
-2017,Diego Vitoria,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2017,Diego Vitoria,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2017,Diego Vitoria,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2017,Diego Vitoria,,TRANCAMENTO,,
-2018,Diego Vitoria,RJGL2456,"Design Colaborativo
-DOCENTE(S): Fernanda Lima",,REPROVADO POR FALTA
-2018,Diego Vitoria,COOQ5695,"Design de Interacao em Tempo Real
-DOCENTE(S): Pedro Oliveira",,REPROVADO POR FALTA
-2018,Diego Vitoria,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",,REPROVADO POR FALTA
-2018,Diego Vitoria,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",,REPROVADO POR FALTA
-2018,Diego Vitoria,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2018,Diego Vitoria,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",,REPROVADO POR FALTA
-2019,Diego Vitoria,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2019,Diego Vitoria,,DESVINCULADO,,
-2011,Mauricio Paula,OCRQ3517,Storytelling Visual,5.95,APROVADO
-2011,Mauricio Paula,RJGL2456,Design Colaborativo,8.75,APROVADO POR MÉDIA
-2011,Mauricio Paula,QBWW6998,Computacao Grafica,7.0,APROVADO POR MÉDIA
-2011,Mauricio Paula,UFMQ0127,Design para Longevidade,8.0,APROVADO POR MÉDIA
-2011,Mauricio Paula,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2011,Mauricio Paula,BKII1063,Design de Visualizacao de Informacoes,2.25,REPROVADO
-2011,Mauricio Paula,RJYZ5864,Identidade Visual,7.0,APROVADO POR MÉDIA
-2011,Mauricio Paula,DOMK5241,Design de Aprendizado,6.13,APROVADO
-2011,Mauricio Paula,ZULH9584,Projeto Integrado,7.05,APROVADO
-2011,Mauricio Paula,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.35,APROVADO POR MÉDIA
-2011,Mauricio Paula,JGDZ1333,Gamificacao,8.5,APROVADO POR MÉDIA
-2011,Mauricio Paula,BKII1063,Design de Visualizacao de Informacoes,7.63,APROVADO
-2011,Mauricio Paula,AAZN5771,Ergonomia,7.5,APROVADO POR MÉDIA
-2012,Mauricio Paula,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),7.05,APROVADO POR MÉDIA
-2012,Mauricio Paula,NRYN3294,Design de Interfaces Neuromorficas,5.4,APROVADO
-2012,Mauricio Paula,NRCI1107,Design de Experiencia em Museus,5.28,APROVADO
-2012,Mauricio Paula,BLDG0260,Design de Joias,7.25,APROVADO POR MÉDIA
-2012,Mauricio Paula,FZLO1427,Marketing de Produto,10.0,APROVADO POR MÉDIA
-2012,Mauricio Paula,KAWV5083,Branding,7.75,APROVADO POR MÉDIA
-2012,Mauricio Paula,JJNT2088,Manipulacao de Imagem,3.75,REPROVADO
-2012,Mauricio Paula,TSYB3211,Impressao 3D,4.09,REPROVADO
-2012,Mauricio Paula,VOQA5582,Tipografia,4.2,REPROVADO
-2012,Mauricio Paula,VMGY1151,Design de Interacao Tangivel,7.75,APROVADO POR MÉDIA
-2013,Mauricio Paula,JJNT2088,Manipulacao de Imagem,2.85,REPROVADO
-2013,Mauricio Paula,TSYB3211,Impressao 3D,,REPROVADO POR FALTA
-2013,Mauricio Paula,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2013,Mauricio Paula,,TRANCAMENTO,,
-2014,Mauricio Paula,,DESVINCULADO,,
-2005,Fernando Eduarda,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2005,Fernando Eduarda,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2005,Fernando Eduarda,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2005,Fernando Eduarda,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2005,Fernando Eduarda,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2005,Fernando Eduarda,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2005,Fernando Eduarda,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2008,Fernando Eduarda,,DESLIGAMENTO,,
-2006,Fernando Eduarda,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2006,Fernando Eduarda,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2006,Fernando Eduarda,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2006,Fernando Eduarda,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2006,Fernando Eduarda,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2006,Fernando Eduarda,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2006,Fernando Eduarda,RJYZ5864,Identidade Visual,,APROVADO POR FREQÜÊNCIA
-2009,Fernando Eduarda,,DESLIGAMENTO,,
-2011,Fernando Eduarda,,DESLIGAMENTO,,
-2017,Thiago Eduardo,OCRQ3517,Storytelling Visual,8.75,APROVADO POR MÉDIA
-2017,Thiago Eduardo,RJGL2456,Design Colaborativo,,DISPENSADO
-2017,Thiago Eduardo,QBWW6998,Computacao Grafica,,DISPENSADO
-2017,Thiago Eduardo,UFMQ0127,Design para Longevidade,9.1,APROVADO POR MÉDIA
-2017,Thiago Eduardo,MKUB0718,Design de Mobiliario,,DISPENSADO
-2017,Thiago Eduardo,BKII1063,Design de Visualizacao de Informacoes,9.0,APROVADO POR MÉDIA
-2017,Thiago Eduardo,RJYZ5864,Identidade Visual,8.75,APROVADO POR MÉDIA
-2017,Thiago Eduardo,DOMK5241,Design de Aprendizado,8.25,APROVADO POR MÉDIA
-2017,Thiago Eduardo,ZULH9584,Projeto Integrado,10.0,APROVADO POR MÉDIA
-2017,Thiago Eduardo,WPUV3332,Design de Tecnologia Vestivel (Wearable),8.75,APROVADO POR MÉDIA
-2017,Thiago Eduardo,NRYN3294,Design de Interfaces Neuromorficas,8.25,APROVADO POR MÉDIA
-2017,Thiago Eduardo,NRCI1107,Design de Experiencia em Museus,7.5,APROVADO POR MÉDIA
-2017,Thiago Eduardo,AAZN5771,Ergonomia,9.5,APROVADO POR MÉDIA
-2018,Thiago Eduardo,JJNT2088,Manipulacao de Imagem,8.15,APROVADO POR MÉDIA
-2018,Thiago Eduardo,JGDZ1333,"Gamificacao
-DOCENTE(S): Luiz Pereira",8.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,TSYB3211,"Impressao 3D
-DOCENTE(S): Marcos Ferreira",9.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,VOQA5582,"Tipografia
-DOCENTE(S): Joao Silva",7.1,APROVADO POR MÉDIA
-2018,Thiago Eduardo,BLDG0260,"Design de Joias
-DOCENTE(S): Gustavo Martins",8.85,APROVADO POR MÉDIA
-2018,Thiago Eduardo,FZLO1427,"Marketing de Produto
-DOCENTE(S): Carla Souza",9.5,APROVADO POR MÉDIA
-2018,Thiago Eduardo,KAWV5083,"Branding
-DOCENTE(S): Rafaela Gomes",7.5,APROVADO POR MÉDIA
-2018,Thiago Eduardo,NGVU3526,"Ecodesign
-DOCENTE(S): Diego Cardoso",9.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,COOQ5695,"Design de Interacao em Tempo Real
-DOCENTE(S): Pedro Oliveira",10.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,VFBH8799,"Design Cibernetico
-DOCENTE(S): Joao Silva",8.35,APROVADO POR MÉDIA
-2018,Thiago Eduardo,UCTK5222,"Design de Realidade Aumentada (AR) e Virtual (VR)
-DOCENTE(S): Juliana Rodrigues",7.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,JVFQ7338,"Design de Interacao Cultural
-DOCENTE(S): Gustavo Martins",7.5,APROVADO POR MÉDIA
-2018,Thiago Eduardo,QVGO0107,"Prototipagem em Papel
-DOCENTE(S): Juliana Rodrigues",8.0,APROVADO POR MÉDIA
-2018,Thiago Eduardo,LERH6635,"Design de Produto
-DOCENTE(S): Carla Souza",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,SATJ7970,"Design de Narrativa Espacial
-DOCENTE(S): Ana Costa",8.5,APROVADO POR MÉDIA
-2019,Thiago Eduardo,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",,REPROVADO POR FALTA
-2019,Thiago Eduardo,TPYC6338,"Design Thinking
-DOCENTE(S): Joao Silva",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,IENT5068,"Design Experimental
-DOCENTE(S): Rafaela Gomes",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,KZBU0327,"Design de Interacao Corporal
-DOCENTE(S): Fernanda Lima",9.75,APROVADO POR MÉDIA
-2019,Thiago Eduardo,AOXV5438,"Design de Espacos Virtuais
-DOCENTE(S): Pedro Oliveira",9.75,APROVADO POR MÉDIA
-2019,Thiago Eduardo,RRME1020,"Design Parametrico
-DOCENTE(S): Juliana Rodrigues",7.7,APROVADO POR MÉDIA
-2019,Thiago Eduardo,TOZF3011,"SemiÃ³tica
-DOCENTE(S): Luiz Pereira",8.0,APROVADO POR MÉDIA
-ANO,Thiago Eduardo,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2019,Thiago Eduardo,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",9.5,APROVADO POR MÉDIA
-2019,Thiago Eduardo,LLKP8902,"Design Digital
-DOCENTE(S): Patricia Nunes",8.95,APROVADO POR MÉDIA
-2019,Thiago Eduardo,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,MXMO8868,"Cultura Visual
-DOCENTE(S): Patricia Nunes",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,XERB6119,"Gestao de Marcas
-DOCENTE(S): Maria Santos",8.57,APROVADO POR MÉDIA
-2019,Thiago Eduardo,UXMU2899,"Interacao Tangivel
-DOCENTE(S): Gustavo Martins",8.0,APROVADO POR MÉDIA
-2019,Thiago Eduardo,TRQX5862,Etica em Design,9.25,APROVADO POR MÉDIA
-2019,Thiago Eduardo,VNBQ5535,"Design de Moda
-DOCENTE(S): Fernanda Lima",9.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,BMDH7993,"Design de Apresentacoes
-DOCENTE(S): Diego Cardoso",9.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,TWIP0018,"Teoria da Cor
-DOCENTE(S): Ana Costa",9.3,APROVADO POR MÉDIA
-2020,Thiago Eduardo,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",9.5,APROVADO POR MÉDIA
-2020,Thiago Eduardo,DQUN5124,"Comunicacao Visual
-DOCENTE(S): Luiz Pereira",10.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,NVRL4030,"Materiais e Processos
-DOCENTE(S): Juliana Rodrigues",10.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,LSHL3127,"Design de Redes Sociais
-DOCENTE(S): Larissa Vieira",7.8,APROVADO POR MÉDIA
-2020,Thiago Eduardo,WWGS2880,"Design de Realidade Hibrida
-DOCENTE(S): Pedro Oliveira",9.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,MDQZ6072,"Design de Jogos
-DOCENTE(S): Joao Silva",10.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,VMGY1151,"Design de Interacao Tangivel
-DOCENTE(S): Rafaela Gomes",10.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",9.0,APROVADO POR MÉDIA
-2020,Thiago Eduardo,,INTEGRALIZADO,,
-2021,Thiago Eduardo,,FORMADO,,
-2005,DOCENTE(S): -----------.,OCRQ3517,Storytelling Visual,9.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,RJGL2456,Design Colaborativo,7.55,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,QBWW6998,Computacao Grafica,10.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,UFMQ0127,Design para Longevidade,8.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,MKUB0718,Design de Mobiliario,10.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,BKII1063,Design de Visualizacao de Informacoes,10.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,RJYZ5864,Identidade Visual,,APROVADO POR FREQÜÊNCIA
-2005,DOCENTE(S): -----------.,DOMK5241,Design de Aprendizado,7.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,ZULH9584,Projeto Integrado,5.55,APROVADO
-2005,DOCENTE(S): -----------.,WPUV3332,Design de Tecnologia Vestivel (Wearable),9.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,NRYN3294,Design de Interfaces Neuromorficas,10.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,NRCI1107,Design de Experiencia em Museus,7.0,APROVADO POR MÉDIA
-2005,DOCENTE(S): -----------.,AAZN5771,Ergonomia,8.5,APROVADO POR MÉDIA
-2006,DOCENTE(S): -----------.,JJNT2088,Manipulacao de Imagem,5.28,APROVADO
-2006,DOCENTE(S): -----------.,JGDZ1333,Gamificacao,9.0,APROVADO POR MÉDIA
-2006,DOCENTE(S): -----------.,TSYB3211,Impressao 3D,8.5,APROVADO POR MÉDIA
-2006,DOCENTE(S): -----------.,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,BLDG0260,Design de Joias,8.25,APROVADO POR MÉDIA
-2006,DOCENTE(S): -----------.,FZLO1427,Marketing de Produto,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,KAWV5083,Branding,7.0,APROVADO POR MÉDIA
-2006,DOCENTE(S): -----------.,NGVU3526,Ecodesign,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,COOQ5695,Design de Interacao em Tempo Real,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,VFBH8799,Design Cibernetico,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,JVFQ7338,Design de Interacao Cultural,,REPROVADO POR FALTA
-2006,DOCENTE(S): -----------.,LERH6635,Design de Produto,,REPROVADO POR FALTA
-2007,DOCENTE(S): -----------.,,DESVINCULADO,,
-2005,Vitoria Isadora,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2005,Vitoria Isadora,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2005,Vitoria Isadora,QBWW6998,Computacao Grafica,10.0,APROVADO POR MÉDIA
-2005,Vitoria Isadora,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2005,Vitoria Isadora,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2005,Vitoria Isadora,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2005,Vitoria Isadora,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2006,Vitoria Isadora,,DESLIGAMENTO,,
-2007,Lais Raul,OCRQ3517,Storytelling Visual,5.38,APROVADO
-2007,Lais Raul,RJGL2456,Design Colaborativo,7.0,APROVADO POR MÉDIA
-2007,Lais Raul,QBWW6998,Computacao Grafica,7.75,APROVADO POR MÉDIA
-2007,Lais Raul,UFMQ0127,Design para Longevidade,6.25,APROVADO
-2007,Lais Raul,MKUB0718,Design de Mobiliario,8.75,APROVADO POR MÉDIA
-2007,Lais Raul,BKII1063,Design de Visualizacao de Informacoes,2.88,REPROVADO
-2007,Lais Raul,RJYZ5864,Identidade Visual,8.0,APROVADO POR MÉDIA
-2007,Lais Raul,DOMK5241,Design de Aprendizado,5.75,APROVADO
-2007,Lais Raul,ZULH9584,Projeto Integrado,4.1,REPROVADO
-2007,Lais Raul,WPUV3332,Design de Tecnologia Vestivel (Wearable),6.82,APROVADO
-2007,Lais Raul,MXMO8868,Cultura Visual,5.88,APROVADO
-2007,Lais Raul,AAZN5771,Ergonomia,5.7,APROVADO
-2008,Lais Raul,NGVU3526,Ecodesign,,CANCELADO COM ONUS
-2008,Lais Raul,ZULH9584,Projeto Integrado,7.03,APROVADO
-2008,Lais Raul,TPYC6338,Design Thinking,5.5,APROVADO
-2008,Lais Raul,JGDZ1333,Gamificacao,,REPROVADO POR FALTA
-2008,Lais Raul,BKII1063,Design de Visualizacao de Informacoes,6.75,APROVADO
-2008,Lais Raul,BLDG0260,Design de Joias,7.32,APROVADO
-2008,Lais Raul,NGVU3526,Ecodesign,7.75,APROVADO POR MÉDIA
-2008,Lais Raul,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2008,Lais Raul,JGDZ1333,Gamificacao,8.5,APROVADO POR MÉDIA
-2008,Lais Raul,NRYN3294,Design de Interfaces Neuromorficas,7.05,APROVADO POR MÉDIA
-2008,Lais Raul,NRCI1107,Design de Experiencia em Museus,7.0,APROVADO POR MÉDIA
-2008,Lais Raul,FZLO1427,Marketing de Produto,8.0,APROVADO POR MÉDIA
-2008,Lais Raul,KAWV5083,Branding,6.25,APROVADO
-2009,Lais Raul,COOQ5695,Design de Interacao em Tempo Real,7.35,APROVADO POR MÉDIA
-2009,Lais Raul,JJNT2088,Manipulacao de Imagem,2.38,REPROVADO
-2009,Lais Raul,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),5.0,APROVADO
-2009,Lais Raul,IENT5068,Design Experimental,8.5,APROVADO POR MÉDIA
-2009,Lais Raul,TSYB3211,Impressao 3D,7.0,APROVADO POR MÉDIA
-2009,Lais Raul,VOQA5582,Tipografia,7.25,APROVADO POR MÉDIA
-2009,Lais Raul,RRME1020,Design Parametrico,7.0,APROVADO POR MÉDIA
-2009,Lais Raul,VFBH8799,Design Cibernetico,7.1,APROVADO POR MÉDIA
-2009,Lais Raul,JJNT2088,Manipulacao de Imagem,5.5,APROVADO
-2009,Lais Raul,JVFQ7338,Design de Interacao Cultural,5.0,APROVADO
-2009,Lais Raul,QVGO0107,Prototipagem em Papel,7.0,APROVADO POR MÉDIA
-2009,Lais Raul,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2009,Lais Raul,LERH6635,Design de Produto,8.75,APROVADO POR MÉDIA
-2009,Lais Raul,AOXV5438,Design de Espacos Virtuais,7.2,APROVADO POR MÉDIA
-2010,Lais Raul,MAEY1044,Design Computacional,8.86,APROVADO POR MÉDIA
-2010,Lais Raul,HQDD9963,Design Sonoro,,REPROVADO POR FALTA
-2010,Lais Raul,SATJ7970,Design de Narrativa Espacial,9.0,APROVADO POR MÉDIA
-2010,Lais Raul,RVMF0745,Design Biomimetico,7.3,APROVADO POR MÉDIA
-2010,Lais Raul,LLKP8902,Design Digital,7.0,APROVADO POR MÉDIA
-2010,Lais Raul,DZNQ4989,Design Cenico,7.4,APROVADO POR MÉDIA
-2010,Lais Raul,ADMT0013,METODOLOGIA DE PESQUISA,7.25,APROVADO POR MÉDIA
-ANO,Lais Raul,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2010,Lais Raul,KZBU0327,Design de Interacao Corporal,2.75,REPROVADO
-2010,Lais Raul,XERB6119,Gestao de Marcas,7.0,APROVADO POR MÉDIA
-2010,Lais Raul,TRQX5862,Etica em Design,8.25,APROVADO POR MÉDIA
-2010,Lais Raul,TOZF3011,SemiÃ³tica,5.0,APROVADO
-2010,Lais Raul,TWIP0018,Teoria da Cor,8.25,APROVADO POR MÉDIA
-2010,Lais Raul,KZBU0327,Design de Interacao Corporal,8.0,APROVADO POR MÉDIA
-2010,Lais Raul,DQUN5124,Comunicacao Visual,7.5,APROVADO POR MÉDIA
-2010,Lais Raul,LSHL3127,Design de Redes Sociais,6.45,APROVADO
-2011,Lais Raul,HQDD9963,Design Sonoro,5.7,APROVADO
-2011,Lais Raul,HILN2052,Design de Impacto Social,7.0,APROVADO POR MÉDIA
-2011,Lais Raul,WWGS2880,Design de Realidade Hibrida,,REPROVADO POR FALTA
-2011,Lais Raul,BKYH9817,Design de Interacao Social,,REPROVADO POR FALTA
-2011,Lais Raul,MDQZ6072,Design de Jogos,,REPROVADO POR FALTA
-2011,Lais Raul,NVRL4030,Materiais e Processos,,CANCELADO COM ONUS
-2011,Lais Raul,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2011,Lais Raul,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2011,Lais Raul,WWGS2880,Design de Realidade Hibrida,,REPROVADO POR FALTA
-2011,Lais Raul,MDQZ6072,Design de Jogos,,REPROVADO POR FALTA
-2011,Lais Raul,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2011,Lais Raul,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2012,Lais Raul,OJNV9272,Fotografia,,REPROVADO POR FALTA
-2012,Lais Raul,WWGS2880,Design de Realidade Hibrida,,REPROVADO POR FALTA
-2012,Lais Raul,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2012,Lais Raul,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2012,Lais Raul,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2012,Lais Raul,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2012,Lais Raul,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2013,Lais Raul,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2013,Lais Raul,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2013,Lais Raul,,DESVINCULADO,,
-2008,Amanda Emilly,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2008,Amanda Emilly,RJGL2456,Design Colaborativo,1.65,REPROVADO
-2008,Amanda Emilly,QBWW6998,Computacao Grafica,5.88,APROVADO
-2008,Amanda Emilly,UFMQ0127,Design para Longevidade,1.75,REPROVADO
-2008,Amanda Emilly,MKUB0718,Design de Mobiliario,8.0,APROVADO POR MÉDIA
-2008,Amanda Emilly,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2008,Amanda Emilly,RJYZ5864,Identidade Visual,5.75,APROVADO
-2009,Amanda Emilly,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2009,Amanda Emilly,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2009,Amanda Emilly,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2009,Amanda Emilly,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2010,Amanda Emilly,,DESVINCULADO,,
-2007,Sophie Vinicius,OCRQ3517,Storytelling Visual,7.0,APROVADO
-2007,Sophie Vinicius,RJGL2456,Design Colaborativo,7.0,APROVADO POR MÉDIA
-2007,Sophie Vinicius,QBWW6998,Computacao Grafica,7.75,APROVADO POR MÉDIA
-2007,Sophie Vinicius,UFMQ0127,Design para Longevidade,7.5,APROVADO POR MÉDIA
-2007,Sophie Vinicius,MKUB0718,Design de Mobiliario,8.5,APROVADO POR MÉDIA
-2007,Sophie Vinicius,BKII1063,Design de Visualizacao de Informacoes,5.38,APROVADO
-2007,Sophie Vinicius,RJYZ5864,Identidade Visual,7.5,APROVADO POR MÉDIA
-2007,Sophie Vinicius,DOMK5241,Design de Aprendizado,7.25,APROVADO POR MÉDIA
-2007,Sophie Vinicius,ZULH9584,Projeto Integrado,5.38,APROVADO
-2007,Sophie Vinicius,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.0,APROVADO POR MÉDIA
-2007,Sophie Vinicius,NRYN3294,Design de Interfaces Neuromorficas,7.4,APROVADO POR MÉDIA
-2007,Sophie Vinicius,NRCI1107,Design de Experiencia em Museus,7.0,APROVADO POR MÉDIA
-2007,Sophie Vinicius,AAZN5771,Ergonomia,6.97,APROVADO
-2008,Sophie Vinicius,JJNT2088,Manipulacao de Imagem,8.5,APROVADO POR MÉDIA
-2008,Sophie Vinicius,JGDZ1333,Gamificacao,8.25,APROVADO POR MÉDIA
-2008,Sophie Vinicius,TSYB3211,Impressao 3D,7.63,APROVADO POR MÉDIA
-2008,Sophie Vinicius,VOQA5582,Tipografia,7.0,APROVADO POR MÉDIA
-2008,Sophie Vinicius,BLDG0260,Design de Joias,9.32,APROVADO POR MÉDIA
-2008,Sophie Vinicius,FZLO1427,Marketing de Produto,8.3,APROVADO POR MÉDIA
-2008,Sophie Vinicius,KAWV5083,Branding,8.0,APROVADO POR MÉDIA
-2008,Sophie Vinicius,NGVU3526,Ecodesign,9.25,APROVADO POR MÉDIA
-2008,Sophie Vinicius,COOQ5695,Design de Interacao em Tempo Real,5.38,APROVADO
-2008,Sophie Vinicius,VFBH8799,Design Cibernetico,7.0,APROVADO POR MÉDIA
-2008,Sophie Vinicius,JVFQ7338,Design de Interacao Cultural,7.0,APROVADO POR MÉDIA
-2008,Sophie Vinicius,MXMO8868,Cultura Visual,9.5,APROVADO POR MÉDIA
-2008,Sophie Vinicius,RMDE3651,Teoria do Design,8.25,APROVADO POR MÉDIA
-2008,Sophie Vinicius,QVGO0107,Prototipagem em Papel,8.5,APROVADO POR MÉDIA
-2008,Sophie Vinicius,LERH6635,Design de Produto,8.5,APROVADO POR MÉDIA
-2009,Sophie Vinicius,MAEY1044,Design Computacional,8.45,APROVADO POR MÉDIA
-2009,Sophie Vinicius,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),5.25,APROVADO
-2009,Sophie Vinicius,SATJ7970,Design de Narrativa Espacial,9.7,APROVADO POR MÉDIA
-2009,Sophie Vinicius,IENT5068,Design Experimental,5.5,APROVADO
-2009,Sophie Vinicius,KZBU0327,Design de Interacao Corporal,9.5,APROVADO POR MÉDIA
-2009,Sophie Vinicius,AOXV5438,Design de Espacos Virtuais,8.6,APROVADO POR MÉDIA
-2009,Sophie Vinicius,RRME1020,Design Parametrico,8.5,APROVADO POR MÉDIA
-2009,Sophie Vinicius,TPYC6338,Design Thinking,7.4,APROVADO POR MÉDIA
-2009,Sophie Vinicius,LLKP8902,Design Digital,7.1,APROVADO POR MÉDIA
-2009,Sophie Vinicius,DZNQ4989,Design Cenico,9.45,APROVADO POR MÉDIA
-2009,Sophie Vinicius,XERB6119,Gestao de Marcas,9.5,APROVADO POR MÉDIA
-2009,Sophie Vinicius,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2009,Sophie Vinicius,TRQX5862,Etica em Design,5.63,APROVADO
-2010,Sophie Vinicius,HILN2052,Design de Impacto Social,8.25,APROVADO POR MÉDIA
-2010,Sophie Vinicius,BMDH7993,Design de Apresentacoes,8.5,APROVADO POR MÉDIA
-2010,Sophie Vinicius,RVMF0745,Design Biomimetico,7.0,APROVADO POR MÉDIA
-2010,Sophie Vinicius,TWIP0018,Teoria da Cor,8.25,APROVADO POR MÉDIA
-2010,Sophie Vinicius,DQUN5124,Comunicacao Visual,7.75,APROVADO POR MÉDIA
-ANO,Sophie Vinicius,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2010,Sophie Vinicius,NVRL4030,Materiais e Processos,8.0,APROVADO POR MÉDIA
-2010,Sophie Vinicius,LSHL3127,Design de Redes Sociais,7.0,APROVADO
-2010,Sophie Vinicius,PBCQ5148,Design de Impressao e Publicacao,7.74,APROVADO POR MÉDIA
-2010,Sophie Vinicius,TOZF3011,SemiÃ³tica,7.25,APROVADO POR MÉDIA
-2010,Sophie Vinicius,HQDD9963,Design Sonoro,5.75,APROVADO
-2010,Sophie Vinicius,VMGY1151,Design de Interacao Tangivel,7.0,APROVADO POR MÉDIA
-2010,Sophie Vinicius,XYOT5349,Tecnicas de Iluminacao,8.0,APROVADO POR MÉDIA
-2010,Sophie Vinicius,,INTEGRALIZADO,,
-2010,Sophie Vinicius,,FORMADO,,
-2007,Mauricio Helena,OCRQ3517,Storytelling Visual,7.0,APROVADO POR MÉDIA
-2007,Mauricio Helena,RJGL2456,Design Colaborativo,7.0,APROVADO POR MÉDIA
-2007,Mauricio Helena,QBWW6998,Computacao Grafica,7.75,APROVADO POR MÉDIA
-2007,Mauricio Helena,UFMQ0127,Design para Longevidade,5.75,APROVADO
-2007,Mauricio Helena,MKUB0718,Design de Mobiliario,8.0,APROVADO POR MÉDIA
-2007,Mauricio Helena,BKII1063,Design de Visualizacao de Informacoes,3.97,REPROVADO
-2007,Mauricio Helena,RJYZ5864,Identidade Visual,7.7,APROVADO POR MÉDIA
-2008,Mauricio Helena,DOMK5241,Design de Aprendizado,7.0,APROVADO POR MÉDIA
-2008,Mauricio Helena,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2008,Mauricio Helena,WPUV3332,Design de Tecnologia Vestivel (Wearable),9.75,APROVADO POR MÉDIA
-2008,Mauricio Helena,BKII1063,Design de Visualizacao de Informacoes,8.0,APROVADO POR MÉDIA
-2008,Mauricio Helena,MXMO8868,Cultura Visual,9.15,APROVADO POR MÉDIA
-2008,Mauricio Helena,AAZN5771,Ergonomia,8.3,APROVADO POR MÉDIA
-2008,Mauricio Helena,NGVU3526,Ecodesign,8.75,APROVADO POR MÉDIA
-2008,Mauricio Helena,ZULH9584,Projeto Integrado,3.6,REPROVADO
-2008,Mauricio Helena,JGDZ1333,Gamificacao,9.25,APROVADO POR MÉDIA
-2008,Mauricio Helena,NRYN3294,Design de Interfaces Neuromorficas,7.55,APROVADO POR MÉDIA
-2008,Mauricio Helena,NRCI1107,Design de Experiencia em Museus,8.0,APROVADO POR MÉDIA
-2008,Mauricio Helena,BLDG0260,Design de Joias,8.75,APROVADO POR MÉDIA
-2008,Mauricio Helena,KAWV5083,Branding,9.25,APROVADO POR MÉDIA
-2009,Mauricio Helena,COOQ5695,Design de Interacao em Tempo Real,9.75,APROVADO POR MÉDIA
-2009,Mauricio Helena,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),8.0,APROVADO POR MÉDIA
-2009,Mauricio Helena,ZULH9584,Projeto Integrado,7.25,APROVADO POR MÉDIA
-2009,Mauricio Helena,TPYC6338,Design Thinking,7.0,APROVADO POR MÉDIA
-2009,Mauricio Helena,TSYB3211,Impressao 3D,8.38,APROVADO POR MÉDIA
-2009,Mauricio Helena,VOQA5582,Tipografia,8.5,APROVADO POR MÉDIA
-2009,Mauricio Helena,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2009,Mauricio Helena,RRME1020,Design Parametrico,8.5,APROVADO POR MÉDIA
-2009,Mauricio Helena,VFBH8799,Design Cibernetico,8.8,APROVADO POR MÉDIA
-2009,Mauricio Helena,JJNT2088,Manipulacao de Imagem,8.0,APROVADO POR MÉDIA
-2009,Mauricio Helena,JVFQ7338,Design de Interacao Cultural,7.25,APROVADO POR MÉDIA
-2009,Mauricio Helena,QVGO0107,Prototipagem em Papel,9.25,APROVADO POR MÉDIA
-2009,Mauricio Helena,FZLO1427,Marketing de Produto,9.5,APROVADO POR MÉDIA
-2009,Mauricio Helena,LERH6635,Design de Produto,8.5,APROVADO POR MÉDIA
-2009,Mauricio Helena,AOXV5438,Design de Espacos Virtuais,9.05,APROVADO POR MÉDIA
-2010,Mauricio Helena,MAEY1044,Design Computacional,9.44,APROVADO POR MÉDIA
-2010,Mauricio Helena,BMDH7993,Design de Apresentacoes,9.5,APROVADO POR MÉDIA
-2010,Mauricio Helena,SATJ7970,Design de Narrativa Espacial,9.3,APROVADO POR MÉDIA
-2010,Mauricio Helena,LLKP8902,Design Digital,9.1,APROVADO POR MÉDIA
-2010,Mauricio Helena,IENT5068,Design Experimental,7.75,APROVADO POR MÉDIA
-2010,Mauricio Helena,KZBU0327,Design de Interacao Corporal,9.0,APROVADO POR MÉDIA
-2010,Mauricio Helena,XERB6119,Gestao de Marcas,9.5,APROVADO POR MÉDIA
-2010,Mauricio Helena,TRQX5862,Etica em Design,8.5,APROVADO POR MÉDIA
-2010,Mauricio Helena,RVMF0745,Design Biomimetico,9.0,APROVADO POR MÉDIA
-2010,Mauricio Helena,TWIP0018,Teoria da Cor,9.0,APROVADO POR MÉDIA
-2010,Mauricio Helena,DZNQ4989,Design Cenico,9.25,APROVADO POR MÉDIA
-ANO,Mauricio Helena,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2010,Mauricio Helena,RMDE3651,Teoria do Design,9.0,APROVADO POR MÉDIA
-2010,Mauricio Helena,DQUN5124,Comunicacao Visual,8.75,APROVADO POR MÉDIA
-2010,Mauricio Helena,LSHL3127,Design de Redes Sociais,7.15,APROVADO POR MÉDIA
-2010,Mauricio Helena,PBCQ5148,Design de Impressao e Publicacao,9.25,APROVADO POR MÉDIA
-2010,Mauricio Helena,VNBQ5535,Design de Moda,6.9,APROVADO
-2011,Mauricio Helena,TOZF3011,SemiÃ³tica,10.0,APROVADO POR MÉDIA
-2011,Mauricio Helena,HQDD9963,Design Sonoro,8.3,APROVADO POR MÉDIA
-2011,Mauricio Helena,HILN2052,Design de Impacto Social,8.5,APROVADO POR MÉDIA
-2011,Mauricio Helena,NVRL4030,Materiais e Processos,,CANCELADO COM ONUS
-2011,Mauricio Helena,VMGY1151,Design de Interacao Tangivel,9.0,APROVADO POR MÉDIA
-2011,Mauricio Helena,XYOT5349,Tecnicas de Iluminacao,10.0,APROVADO POR MÉDIA
-2011,Mauricio Helena,,INTEGRALIZADO,,
-2011,Mauricio Helena,,FORMADO,,
-2011,Natalia Caroline,OCRQ3517,Storytelling Visual,7.0,APROVADO POR MÉDIA
-2011,Natalia Caroline,RJGL2456,Design Colaborativo,5.0,APROVADO
-2011,Natalia Caroline,QBWW6998,Computacao Grafica,5.25,APROVADO
-2011,Natalia Caroline,UFMQ0127,Design para Longevidade,5.5,APROVADO
-2011,Natalia Caroline,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2011,Natalia Caroline,BKII1063,Design de Visualizacao de Informacoes,7.25,APROVADO POR MÉDIA
-2011,Natalia Caroline,RJYZ5864,Identidade Visual,7.63,APROVADO
-2012,Natalia Caroline,DOMK5241,Design de Aprendizado,7.5,APROVADO POR MÉDIA
-2012,Natalia Caroline,ZULH9584,Projeto Integrado,3.4,REPROVADO
-2012,Natalia Caroline,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.4,APROVADO POR MÉDIA
-2012,Natalia Caroline,NRYN3294,Design de Interfaces Neuromorficas,6.23,APROVADO
-2012,Natalia Caroline,NRCI1107,Design de Experiencia em Museus,3.5,REPROVADO
-2012,Natalia Caroline,AAZN5771,Ergonomia,7.88,APROVADO POR MÉDIA
-2012,Natalia Caroline,JJNT2088,Manipulacao de Imagem,5.8,APROVADO
-2012,Natalia Caroline,ZULH9584,Projeto Integrado,6.5,APROVADO
-2012,Natalia Caroline,JGDZ1333,Gamificacao,8.75,APROVADO POR MÉDIA
-2012,Natalia Caroline,TSYB3211,Impressao 3D,7.0,APROVADO POR MÉDIA
-2012,Natalia Caroline,NRCI1107,Design de Experiencia em Museus,7.5,APROVADO POR MÉDIA
-2012,Natalia Caroline,MXMO8868,Cultura Visual,,REPROVADO POR FALTA
-2012,Natalia Caroline,BLDG0260,Design de Joias,7.65,APROVADO POR MÉDIA
-2012,Natalia Caroline,KAWV5083,Branding,8.75,APROVADO POR MÉDIA
-2013,Natalia Caroline,COOQ5695,Design de Interacao em Tempo Real,8.65,APROVADO POR MÉDIA
-2013,Natalia Caroline,VFBH8799,Design Cibernetico,7.13,APROVADO POR MÉDIA
-2013,Natalia Caroline,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),9.25,APROVADO POR MÉDIA
-2013,Natalia Caroline,JVFQ7338,Design de Interacao Cultural,5.13,APROVADO
-2013,Natalia Caroline,QVGO0107,Prototipagem em Papel,8.0,APROVADO POR MÉDIA
-2013,Natalia Caroline,LERH6635,Design de Produto,7.75,APROVADO POR MÉDIA
-2013,Natalia Caroline,MAEY1044,Design Computacional,9.3,APROVADO POR MÉDIA
-2013,Natalia Caroline,SATJ7970,Design de Narrativa Espacial,8.9,APROVADO POR MÉDIA
-2013,Natalia Caroline,TPYC6338,Design Thinking,9.0,APROVADO POR MÉDIA
-2013,Natalia Caroline,FZLO1427,Marketing de Produto,9.0,APROVADO POR MÉDIA
-2013,Natalia Caroline,KZBU0327,Design de Interacao Corporal,8.0,APROVADO POR MÉDIA
-2013,Natalia Caroline,AOXV5438,Design de Espacos Virtuais,7.0,APROVADO POR MÉDIA
-2013,Natalia Caroline,RRME1020,Design Parametrico,9.5,APROVADO POR MÉDIA
-2014,Natalia Caroline,NGVU3526,Ecodesign,7.5,APROVADO POR MÉDIA
-2014,Natalia Caroline,LLKP8902,Design Digital,8.2,APROVADO POR MÉDIA
-2014,Natalia Caroline,IENT5068,Design Experimental,2.75,REPROVADO
-2014,Natalia Caroline,DZNQ4989,Design Cenico,5.0,APROVADO
-2014,Natalia Caroline,MXMO8868,Cultura Visual,6.47,APROVADO
-2014,Natalia Caroline,VOQA5582,Tipografia,2.65,REPROVADO
-2014,Natalia Caroline,PPDN7220,Modelagem 3D,,REPROVADO POR FALTA
-2014,Natalia Caroline,XERB6119,Gestao de Marcas,5.65,APROVADO
-2014,Natalia Caroline,UXMU2899,Interacao Tangivel,7.0,APROVADO POR MÉDIA
-2014,Natalia Caroline,TRQX5862,Etica em Design,9.0,APROVADO POR MÉDIA
-2014,Natalia Caroline,HILN2052,Design de Impacto Social,7.25,APROVADO POR MÉDIA
-2014,Natalia Caroline,BMDH7993,Design de Apresentacoes,7.5,APROVADO POR MÉDIA
-ANO,Natalia Caroline,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2014,Natalia Caroline,RVMF0745,Design Biomimetico,8.5,APROVADO POR MÉDIA
-2014,Natalia Caroline,TWIP0018,Teoria da Cor,8.0,APROVADO POR MÉDIA
-2014,Natalia Caroline,IENT5068,Design Experimental,7.75,APROVADO POR MÉDIA
-2014,Natalia Caroline,RMDE3651,Teoria do Design,7.0,APROVADO POR MÉDIA
-2014,Natalia Caroline,DQUN5124,Comunicacao Visual,9.0,APROVADO POR MÉDIA
-2014,Natalia Caroline,LSHL3127,Design de Redes Sociais,7.52,APROVADO POR MÉDIA
-2015,Natalia Caroline,TOZF3011,SemiÃ³tica,7.0,APROVADO POR MÉDIA
-2015,Natalia Caroline,VOQA5582,Tipografia,7.0,APROVADO POR MÉDIA
-2015,Natalia Caroline,BKYH9817,Design de Interacao Social,5.75,APROVADO
-2015,Natalia Caroline,VMGY1151,Design de Interacao Tangivel,6.75,APROVADO
-2015,Natalia Caroline,PBCQ5148,Design de Impressao e Publicacao,9.5,APROVADO POR MÉDIA
-2015,Natalia Caroline,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2015,Natalia Caroline,VNBQ5535,Design de Moda,8.75,APROVADO POR MÉDIA
-2015,Natalia Caroline,XYOT5349,Tecnicas de Iluminacao,10.0,APROVADO POR MÉDIA
-2015,Natalia Caroline,,INTEGRALIZADO,,
-2016,Natalia Caroline,,FORMADO,,
-2011,Catarina Nicolas,OCRQ3517,Storytelling Visual,5.53,APROVADO
-2011,Catarina Nicolas,RJGL2456,Design Colaborativo,1.85,REPROVADO
-2011,Catarina Nicolas,QBWW6998,Computacao Grafica,7.0,APROVADO POR MÉDIA
-2011,Catarina Nicolas,UFMQ0127,Design para Longevidade,7.0,APROVADO POR MÉDIA
-2011,Catarina Nicolas,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2011,Catarina Nicolas,BKII1063,Design de Visualizacao de Informacoes,6.0,APROVADO
-2011,Catarina Nicolas,RJYZ5864,Identidade Visual,8.25,APROVADO POR MÉDIA
-2011,Catarina Nicolas,RJGL2456,Design Colaborativo,1.98,REPROVADO
-2011,Catarina Nicolas,TPYC6338,Design Thinking,7.0,APROVADO POR MÉDIA
-2011,Catarina Nicolas,NRCI1107,Design de Experiencia em Museus,5.0,APROVADO
-2011,Catarina Nicolas,MXMO8868,Cultura Visual,7.0,APROVADO POR MÉDIA
-2011,Catarina Nicolas,BLDG0260,Design de Joias,8.2,APROVADO POR MÉDIA
-2011,Catarina Nicolas,AAZN5771,Ergonomia,7.75,APROVADO POR MÉDIA
-2012,Catarina Nicolas,COOQ5695,Design de Interacao em Tempo Real,7.0,APROVADO POR MÉDIA
-2012,Catarina Nicolas,RJGL2456,Design Colaborativo,5.45,APROVADO
-2012,Catarina Nicolas,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2012,Catarina Nicolas,JGDZ1333,Gamificacao,7.5,APROVADO POR MÉDIA
-2012,Catarina Nicolas,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2012,Catarina Nicolas,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2012,Catarina Nicolas,DOMK5241,Design de Aprendizado,5.0,APROVADO
-2012,Catarina Nicolas,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2012,Catarina Nicolas,WPUV3332,Design de Tecnologia Vestivel (Wearable),4.5,REPROVADO
-2012,Catarina Nicolas,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2012,Catarina Nicolas,KAWV5083,Branding,4.0,REPROVADO
-2013,Catarina Nicolas,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2013,Catarina Nicolas,WPUV3332,Design de Tecnologia Vestivel (Wearable),8.0,APROVADO POR MÉDIA
-2013,Catarina Nicolas,NRYN3294,Design de Interfaces Neuromorficas,7.5,APROVADO POR MÉDIA
-2013,Catarina Nicolas,VOQA5582,Tipografia,3.53,REPROVADO
-2013,Catarina Nicolas,KAWV5083,Branding,7.0,APROVADO POR MÉDIA
-2013,Catarina Nicolas,RRME1020,Design Parametrico,7.75,APROVADO POR MÉDIA
-2013,Catarina Nicolas,NGVU3526,Ecodesign,7.0,APROVADO POR MÉDIA
-2013,Catarina Nicolas,JJNT2088,Manipulacao de Imagem,3.55,REPROVADO
-2013,Catarina Nicolas,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2013,Catarina Nicolas,TSYB3211,Impressao 3D,5.03,APROVADO
-2013,Catarina Nicolas,VOQA5582,Tipografia,2.5,REPROVADO
-2013,Catarina Nicolas,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2013,Catarina Nicolas,LERH6635,Design de Produto,8.0,APROVADO POR MÉDIA
-2014,Catarina Nicolas,VFBH8799,Design Cibernetico,4.68,REPROVADO
-2014,Catarina Nicolas,JJNT2088,Manipulacao de Imagem,2.85,REPROVADO
-2014,Catarina Nicolas,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),6.75,APROVADO
-2014,Catarina Nicolas,QVGO0107,Prototipagem em Papel,,REPROVADO POR FALTA
-2014,Catarina Nicolas,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2014,Catarina Nicolas,AOXV5438,Design de Espacos Virtuais,2.15,REPROVADO
-2014,Catarina Nicolas,TRQX5862,Etica em Design,7.75,APROVADO POR MÉDIA
-ANO,Catarina Nicolas,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2014,Catarina Nicolas,,TRANCAMENTO,,
-2015,Catarina Nicolas,,DESVINCULADO,,
-2012,Alice Eloah,OCRQ3517,Storytelling Visual,8.0,APROVADO POR MÉDIA
-2012,Alice Eloah,RJGL2456,Design Colaborativo,0.6,REPROVADO
-2012,Alice Eloah,QBWW6998,Computacao Grafica,7.0,APROVADO POR MÉDIA
-2012,Alice Eloah,UFMQ0127,Design para Longevidade,7.5,APROVADO POR MÉDIA
-2012,Alice Eloah,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2012,Alice Eloah,BKII1063,Design de Visualizacao de Informacoes,7.0,APROVADO POR MÉDIA
-2012,Alice Eloah,RJYZ5864,Identidade Visual,8.5,APROVADO POR MÉDIA
-2013,Alice Eloah,RJGL2456,Design Colaborativo,0.9,REPROVADO
-2013,Alice Eloah,TPYC6338,Design Thinking,7.75,APROVADO POR MÉDIA
-2013,Alice Eloah,JGDZ1333,Gamificacao,7.25,APROVADO POR MÉDIA
-2013,Alice Eloah,NRYN3294,Design de Interfaces Neuromorficas,7.5,APROVADO POR MÉDIA
-2013,Alice Eloah,NRCI1107,Design de Experiencia em Museus,8.5,APROVADO POR MÉDIA
-2013,Alice Eloah,BLDG0260,Design de Joias,9.25,APROVADO POR MÉDIA
-2013,Alice Eloah,AAZN5771,Ergonomia,7.0,APROVADO POR MÉDIA
-2013,Alice Eloah,COOQ5695,Design de Interacao em Tempo Real,8.5,APROVADO POR MÉDIA
-2013,Alice Eloah,JJNT2088,Manipulacao de Imagem,7.0,APROVADO POR MÉDIA
-2013,Alice Eloah,TSYB3211,Impressao 3D,7.45,APROVADO POR MÉDIA
-2013,Alice Eloah,MXMO8868,Cultura Visual,7.6,APROVADO POR MÉDIA
-2013,Alice Eloah,VOQA5582,Tipografia,2.5,REPROVADO
-2013,Alice Eloah,KAWV5083,Branding,7.0,APROVADO POR MÉDIA
-2014,Alice Eloah,VFBH8799,Design Cibernetico,,REPROVADO POR FALTA
-2014,Alice Eloah,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2014,Alice Eloah,JVFQ7338,Design de Interacao Cultural,,REPROVADO POR FALTA
-2014,Alice Eloah,QVGO0107,Prototipagem em Papel,,REPROVADO POR FALTA
-2014,Alice Eloah,LERH6635,Design de Produto,,REPROVADO POR FALTA
-2014,Alice Eloah,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-2014,Alice Eloah,JVFQ7338,Design de Interacao Cultural,,REPROVADO POR FALTA
-2015,Alice Eloah,BMDH7993,Design de Apresentacoes,,REPROVADO POR FALTA
-2015,Alice Eloah,,DESVINCULADO,,
-2012,Daniel Nathanael,,DESLIGAMENTO,,
-2009,Lorena Eloah,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2009,Lorena Eloah,RJGL2456,Design Colaborativo,1.25,REPROVADO
-2009,Lorena Eloah,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2009,Lorena Eloah,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2009,Lorena Eloah,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2009,Lorena Eloah,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2009,Lorena Eloah,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2009,Lorena Eloah,,DESLIGAMENTO,,
-2013,Maria Raul,OCRQ3517,Storytelling Visual,8.05,APROVADO POR MÉDIA
-2013,Maria Raul,RJGL2456,Design Colaborativo,8.75,APROVADO POR MÉDIA
-2013,Maria Raul,QBWW6998,Computacao Grafica,9.65,APROVADO POR MÉDIA
-2013,Maria Raul,UFMQ0127,Design para Longevidade,8.75,APROVADO POR MÉDIA
-2013,Maria Raul,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2013,Maria Raul,BKII1063,Design de Visualizacao de Informacoes,8.25,APROVADO
-2013,Maria Raul,RJYZ5864,Identidade Visual,8.75,APROVADO POR MÉDIA
-2014,Maria Raul,DOMK5241,Design de Aprendizado,2.4,REPROVADO
-2014,Maria Raul,ZULH9584,Projeto Integrado,1.85,REPROVADO
-2014,Maria Raul,WPUV3332,Design de Tecnologia Vestivel (Wearable),8.25,APROVADO POR MÉDIA
-2014,Maria Raul,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2014,Maria Raul,NRCI1107,Design de Experiencia em Museus,8.93,APROVADO POR MÉDIA
-2014,Maria Raul,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2014,Maria Raul,NGVU3526,Ecodesign,8.25,APROVADO POR MÉDIA
-2014,Maria Raul,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2014,Maria Raul,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2014,Maria Raul,JGDZ1333,Gamificacao,7.0,APROVADO POR MÉDIA
-2014,Maria Raul,NRYN3294,Design de Interfaces Neuromorficas,7.6,APROVADO POR MÉDIA
-2014,Maria Raul,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2014,Maria Raul,BLDG0260,Design de Joias,7.0,APROVADO POR MÉDIA
-2015,Maria Raul,COOQ5695,Design de Interacao em Tempo Real,7.75,APROVADO POR MÉDIA
-2015,Maria Raul,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2015,Maria Raul,TSYB3211,Impressao 3D,6.5,APROVADO
-2015,Maria Raul,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2015,Maria Raul,KAWV5083,Branding,7.0,APROVADO POR MÉDIA
-2015,Maria Raul,VFBH8799,Design Cibernetico,7.65,APROVADO POR MÉDIA
-2015,Maria Raul,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2015,Maria Raul,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2015,Maria Raul,TPYC6338,Design Thinking,7.65,APROVADO POR MÉDIA
-2015,Maria Raul,QVGO0107,Prototipagem em Papel,,REPROVADO POR FALTA
-2015,Maria Raul,AAZN5771,Ergonomia,5.0,APROVADO
-2015,Maria Raul,LERH6635,Design de Produto,7.0,APROVADO POR MÉDIA
-2015,Maria Raul,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2016,Maria Raul,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2016,Maria Raul,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2016,Maria Raul,MXMO8868,Cultura Visual,7.0,APROVADO POR MÉDIA
-2016,Maria Raul,VOQA5582,Tipografia,,REPROVADO POR FALTA
-2016,Maria Raul,UXMU2899,Interacao Tangivel,9.0,APROVADO POR MÉDIA
-2016,Maria Raul,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2016,Maria Raul,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2016,Maria Raul,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2016,Maria Raul,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2016,Maria Raul,BMDH7993,Design de Apresentacoes,7.5,APROVADO POR MÉDIA
-2016,Maria Raul,JVFQ7338,Design de Interacao Cultural,,REPROVADO POR FALTA
-2016,Maria Raul,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2016,Maria Raul,QVGO0107,Prototipagem em Papel,,REPROVADO POR FALTA
-ANO,Maria Raul,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2016,Maria Raul,TRQX5862,Etica em Design,8.0,APROVADO POR MÉDIA
-2017,Maria Raul,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2017,Maria Raul,HQDD9963,Design Sonoro,1.25,REPROVADO
-2017,Maria Raul,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2017,Maria Raul,VOQA5582,Tipografia,5.0,APROVADO
-2017,Maria Raul,RRME1020,Design Parametrico,6.49,APROVADO
-2017,Maria Raul,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2017,Maria Raul,ZULH9584,Projeto Integrado,3.91,REPROVADO
-2017,Maria Raul,JVFQ7338,Design de Interacao Cultural,5.0,APROVADO
-2017,Maria Raul,QVGO0107,Prototipagem em Papel,5.0,APROVADO
-2018,Maria Raul,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",3.25,REPROVADO
-2018,Maria Raul,HQDD9963,"Design Sonoro
-DOCENTE(S): Patricia Nunes",7.0,APROVADO POR MÉDIA
-2018,Maria Raul,JJNT2088,Manipulacao de Imagem,6.38,APROVADO
-2018,Maria Raul,SATJ7970,"Design de Narrativa Espacial
-DOCENTE(S): Ana Costa",8.5,APROVADO POR MÉDIA
-2018,Maria Raul,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2018,Maria Raul,KZBU0327,Design de Interacao Corporal,9.25,APROVADO POR MÉDIA
-2018,Maria Raul,DOMK5241,"Design de Aprendizado
-DOCENTE(S): Ana Costa",4.55,REPROVADO
-2018,Maria Raul,ZULH9584,"Projeto Integrado
-DOCENTE(S): Fernanda Lima",7.5,APROVADO POR MÉDIA
-2018,Maria Raul,LLKP8902,"Design Digital
-DOCENTE(S): Patricia Nunes",8.28,APROVADO POR MÉDIA
-2018,Maria Raul,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",,REPROVADO POR FALTA
-2018,Maria Raul,VMGY1151,"Design de Interacao Tangivel
-DOCENTE(S): Rafaela Gomes",1.55,REPROVADO
-2018,Maria Raul,PBCQ5148,"Design de Impressao e Publicacao
-DOCENTE(S): Gustavo Martins",8.18,APROVADO POR MÉDIA
-2018,Maria Raul,VNBQ5535,"Design de Moda
-DOCENTE(S): Fernanda Lima",8.5,APROVADO POR MÉDIA
-2019,Maria Raul,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",4.72,REPROVADO
-2019,Maria Raul,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",,RENOVAÇÃO DE ESTÁGIO
-2019,Maria Raul,TWIP0018,"Teoria da Cor
-DOCENTE(S): Ana Costa",8.75,APROVADO POR MÉDIA
-2019,Maria Raul,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2019,Maria Raul,FZLO1427,"Marketing de Produto
-DOCENTE(S): Carla Souza",7.5,APROVADO POR MÉDIA
-2019,Maria Raul,TOZF3011,"SemiÃ³tica
-DOCENTE(S): Luiz Pereira",8.0,APROVADO POR MÉDIA
-2019,Maria Raul,DOMK5241,"Design de Aprendizado
-DOCENTE(S): Ana Costa",5.53,APROVADO
-2019,Maria Raul,UCTK5222,"Design de Realidade Aumentada (AR) e Virtual (VR)
-DOCENTE(S): Juliana Rodrigues",7.0,APROVADO POR MÉDIA
-2019,Maria Raul,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza",8.0,APROVADO POR MÉDIA
-2019,Maria Raul,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",2.0,REPROVADO
-2019,Maria Raul,RMDE3651,"Teoria do Design
-DOCENTE(S): Marcos Ferreira",5.9,APROVADO
-2019,Maria Raul,XERB6119,Gestao de Marcas,4.1,REPROVADO
-ANO,Maria Raul,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-,Maria Raul,,DOCENTE(S): -----------,,
-2019,Maria Raul,VMGY1151,"Design de Interacao Tangivel
-DOCENTE(S): Rafaela Gomes",5.0,APROVADO
-2020,Maria Raul,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",9.5,APROVADO POR MÉDIA
-2020,Maria Raul,IENT5068,"Design Experimental
-DOCENTE(S): Rafaela Gomes",7.5,APROVADO POR MÉDIA
-2020,Maria Raul,AOXV5438,"Design de Espacos Virtuais
-DOCENTE(S): Pedro Oliveira",9.5,APROVADO POR MÉDIA
-2020,Maria Raul,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",,REPROVADO POR FALTA
-2020,Maria Raul,DZNQ4989,"Design Cenico
-DOCENTE(S): Ana Costa",7.0,APROVADO POR MÉDIA
-2020,Maria Raul,XERB6119,"Gestao de Marcas
-DOCENTE(S): Maria Santos",8.0,APROVADO POR MÉDIA
-2021,Maria Raul,DQUN5124,"Comunicacao Visual
-DOCENTE(S): Luiz Pereira",7.0,APROVADO POR MÉDIA
-2021,Maria Raul,LSHL3127,"Design de Redes Sociais
-DOCENTE(S): Larissa Vieira",8.0,APROVADO POR MÉDIA
-2021,Maria Raul,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",8.0,APROVADO POR MÉDIA
-2021,Maria Raul,HILN2052,"Design de Impacto Social
-DOCENTE(S): Rafaela Gomes",10.0,APROVADO POR MÉDIA
-2021,Maria Raul,,INTEGRALIZADO,,
-2022,Maria Raul,,FORMADO,,
-2007,Vitor Rafael,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2007,Vitor Rafael,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2007,Vitor Rafael,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2007,Vitor Rafael,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2007,Vitor Rafael,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2007,Vitor Rafael,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2007,Vitor Rafael,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2012,Guilhermina Alice,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2012,Guilhermina Alice,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2012,Guilhermina Alice,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2012,Guilhermina Alice,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2012,Guilhermina Alice,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2012,Guilhermina Alice,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2012,Guilhermina Alice,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2013,Guilhermina Alice,,DESVINCULADO,,
-2007,Fernanda Felipe,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2007,Fernanda Felipe,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2007,Fernanda Felipe,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2007,Fernanda Felipe,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2007,Fernanda Felipe,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2007,Fernanda Felipe,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2007,Fernanda Felipe,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2007,Fernanda Felipe,,DESVINCULADO,,
-2018,Renato Carolina,OCRQ3517,"Storytelling Visual
-DOCENTE(S): Maria Santos",7.25,APROVADO POR MÉDIA
-2018,Renato Carolina,RJGL2456,"Design Colaborativo
-DOCENTE(S): Fernanda Lima",,REPROVADO POR FALTA
-2018,Renato Carolina,QBWW6998,"Computacao Grafica
-DOCENTE(S): Marcos Ferreira",9.25,APROVADO POR MÉDIA
-2018,Renato Carolina,UFMQ0127,"Design para Longevidade
-DOCENTE(S): Marcos Ferreira",,REPROVADO POR FALTA
-2018,Renato Carolina,MKUB0718,"Design de Mobiliario
-DOCENTE(S): Fernanda Lima",9.5,APROVADO POR MÉDIA
-2018,Renato Carolina,BKII1063,"Design de Visualizacao de Informacoes
-DOCENTE(S): Andre Almeida",4.68,REPROVADO
-2018,Renato Carolina,RJYZ5864,"Identidade Visual
-DOCENTE(S): Joao Silva",7.75,APROVADO POR MÉDIA
-2018,Renato Carolina,AAZN5771,"Ergonomia
-DOCENTE(S): Pedro Oliveira",,REPROVADO POR FALTA
-2019,Renato Carolina,,DESVINCULADO,,
-2006,Fernando Evelyn,OCRQ3517,Storytelling Visual,9.5,APROVADO POR MÉDIA
-2006,Fernando Evelyn,RJGL2456,Design Colaborativo,2.5,REPROVADO
-2006,Fernando Evelyn,QBWW6998,Computacao Grafica,8.5,APROVADO POR MÉDIA
-2006,Fernando Evelyn,UFMQ0127,Design para Longevidade,8.5,APROVADO POR MÉDIA
-2006,Fernando Evelyn,MKUB0718,Design de Mobiliario,10.0,APROVADO POR MÉDIA
-2006,Fernando Evelyn,BKII1063,Design de Visualizacao de Informacoes,7.25,APROVADO
-2006,Fernando Evelyn,RJYZ5864,Identidade Visual,,APROVADO POR FREQÜÊNCIA
-2006,Fernando Evelyn,RJGL2456,Design Colaborativo,6.63,APROVADO
-2006,Fernando Evelyn,JGDZ1333,Gamificacao,8.0,APROVADO POR MÉDIA
-2006,Fernando Evelyn,NRYN3294,Design de Interfaces Neuromorficas,7.0,APROVADO POR MÉDIA
-2006,Fernando Evelyn,NRCI1107,Design de Experiencia em Museus,7.05,APROVADO POR MÉDIA
-2006,Fernando Evelyn,AAZN5771,Ergonomia,8.7,APROVADO POR MÉDIA
-2007,Fernando Evelyn,DOMK5241,Design de Aprendizado,8.0,APROVADO POR MÉDIA
-2007,Fernando Evelyn,ZULH9584,Projeto Integrado,1.35,REPROVADO
-2007,Fernando Evelyn,TSYB3211,Impressao 3D,5.25,APROVADO
-2007,Fernando Evelyn,VOQA5582,Tipografia,1.75,REPROVADO
-2007,Fernando Evelyn,BLDG0260,Design de Joias,9.5,APROVADO POR MÉDIA
-2007,Fernando Evelyn,KAWV5083,Branding,10.0,APROVADO POR MÉDIA
-2007,Fernando Evelyn,COOQ5695,Design de Interacao em Tempo Real,5.0,APROVADO
-2007,Fernando Evelyn,VFBH8799,Design Cibernetico,8.1,APROVADO POR MÉDIA
-2007,Fernando Evelyn,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),8.15,APROVADO POR MÉDIA
-2007,Fernando Evelyn,JVFQ7338,Design de Interacao Cultural,7.0,APROVADO POR MÉDIA
-2007,Fernando Evelyn,TPYC6338,Design Thinking,8.25,APROVADO POR MÉDIA
-2007,Fernando Evelyn,QVGO0107,Prototipagem em Papel,4.75,REPROVADO
-2007,Fernando Evelyn,LERH6635,Design de Produto,8.25,APROVADO POR MÉDIA
-2008,Fernando Evelyn,MAEY1044,Design Computacional,5.02,APROVADO
-2008,Fernando Evelyn,ZULH9584,Projeto Integrado,1.75,REPROVADO
-2008,Fernando Evelyn,WPUV3332,Design de Tecnologia Vestivel (Wearable),9.0,APROVADO POR MÉDIA
-2008,Fernando Evelyn,QVGO0107,Prototipagem em Papel,4.43,REPROVADO
-2008,Fernando Evelyn,RRME1020,Design Parametrico,5.18,APROVADO
-2008,Fernando Evelyn,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2008,Fernando Evelyn,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2008,Fernando Evelyn,DZNQ4989,Design Cenico,3.13,REPROVADO
-2008,Fernando Evelyn,MXMO8868,Cultura Visual,9.5,APROVADO POR MÉDIA
-2008,Fernando Evelyn,RMDE3651,Teoria do Design,7.0,APROVADO POR MÉDIA
-2008,Fernando Evelyn,QVGO0107,Prototipagem em Papel,4.75,REPROVADO
-2008,Fernando Evelyn,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2008,Fernando Evelyn,TRQX5862,Etica em Design,8.0,APROVADO POR MÉDIA
-2009,Fernando Evelyn,NGVU3526,Ecodesign,7.0,APROVADO POR MÉDIA
-2009,Fernando Evelyn,JJNT2088,Manipulacao de Imagem,3.0,REPROVADO
-2009,Fernando Evelyn,VOQA5582,Tipografia,8.0,APROVADO POR MÉDIA
-2009,Fernando Evelyn,AOXV5438,Design de Espacos Virtuais,9.02,APROVADO POR MÉDIA
-2009,Fernando Evelyn,ZULH9584,Projeto Integrado,6.25,APROVADO
-2010,Fernando Evelyn,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-ANO,Fernando Evelyn,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2010,Fernando Evelyn,DZNQ4989,Design Cenico,,REPROVADO POR FALTA
-2010,Fernando Evelyn,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2010,Fernando Evelyn,PBCQ5148,Design de Impressao e Publicacao,,REPROVADO POR FALTA
-2010,Fernando Evelyn,,TRANCAMENTO,,
-2011,Fernando Evelyn,,DESVINCULADO,,
-2013,Elisa Valentina,OCRQ3517,Storytelling Visual,7.0,APROVADO POR MÉDIA
-2013,Elisa Valentina,RJGL2456,Design Colaborativo,5.47,APROVADO
-2013,Elisa Valentina,QBWW6998,Computacao Grafica,9.5,APROVADO POR MÉDIA
-2013,Elisa Valentina,UFMQ0127,Design para Longevidade,3.5,REPROVADO
-2013,Elisa Valentina,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2013,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,5.3,APROVADO
-2013,Elisa Valentina,RJYZ5864,Identidade Visual,8.25,APROVADO POR MÉDIA
-2013,Elisa Valentina,DOMK5241,Design de Aprendizado,8.25,APROVADO POR MÉDIA
-2013,Elisa Valentina,ZULH9584,Projeto Integrado,6.47,APROVADO
-2013,Elisa Valentina,WPUV3332,Design de Tecnologia Vestivel (Wearable),5.57,APROVADO
-2013,Elisa Valentina,UFMQ0127,Design para Longevidade,5.88,APROVADO
-2013,Elisa Valentina,NRYN3294,Design de Interfaces Neuromorficas,7.25,APROVADO POR MÉDIA
-2013,Elisa Valentina,NRCI1107,Design de Experiencia em Museus,6.13,APROVADO
-2013,Elisa Valentina,BLDG0260,Design de Joias,4.63,REPROVADO
-2013,Elisa Valentina,AAZN5771,Ergonomia,9.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,JJNT2088,Manipulacao de Imagem,4.3,REPROVADO
-2014,Elisa Valentina,JGDZ1333,Gamificacao,7.25,APROVADO POR MÉDIA
-2014,Elisa Valentina,TSYB3211,Impressao 3D,9.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,VOQA5582,Tipografia,6.05,APROVADO
-2014,Elisa Valentina,BLDG0260,Design de Joias,5.03,APROVADO
-2014,Elisa Valentina,FZLO1427,Marketing de Produto,3.83,REPROVADO
-2014,Elisa Valentina,KAWV5083,Branding,4.13,REPROVADO
-2014,Elisa Valentina,NGVU3526,Ecodesign,7.15,APROVADO POR MÉDIA
-2014,Elisa Valentina,COOQ5695,Design de Interacao em Tempo Real,7.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,VFBH8799,Design Cibernetico,4.28,REPROVADO
-2014,Elisa Valentina,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2014,Elisa Valentina,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),10.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,JVFQ7338,Design de Interacao Cultural,3.0,REPROVADO
-2014,Elisa Valentina,QVGO0107,Prototipagem em Papel,8.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,FZLO1427,Marketing de Produto,7.04,APROVADO POR MÉDIA
-2014,Elisa Valentina,KAWV5083,Branding,7.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,VFBH8799,Design Cibernetico,8.65,APROVADO POR MÉDIA
-2015,Elisa Valentina,JJNT2088,Manipulacao de Imagem,4.25,REPROVADO
-2015,Elisa Valentina,SATJ7970,Design de Narrativa Espacial,7.75,APROVADO POR MÉDIA
-2015,Elisa Valentina,JVFQ7338,Design de Interacao Cultural,5.13,APROVADO
-2015,Elisa Valentina,TPYC6338,Design Thinking,5.0,APROVADO
-2015,Elisa Valentina,KZBU0327,Design de Interacao Corporal,,REPROVADO POR FALTA
-2015,Elisa Valentina,XERB6119,Gestao de Marcas,,REPROVADO POR FALTA
-2015,Elisa Valentina,LERH6635,Design de Produto,8.5,APROVADO POR MÉDIA
-2015,Elisa Valentina,AOXV5438,Design de Espacos Virtuais,8.3,APROVADO POR MÉDIA
-2015,Elisa Valentina,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2015,Elisa Valentina,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2015,Elisa Valentina,IENT5068,Design Experimental,8.65,APROVADO POR MÉDIA
-2015,Elisa Valentina,DZNQ4989,Design Cenico,5.03,APROVADO
-2015,Elisa Valentina,KZBU0327,Design de Interacao Corporal,7.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,XERB6119,Gestao de Marcas,4.22,REPROVADO
-2015,Elisa Valentina,RRME1020,Design Parametrico,6.95,APROVADO
-ANO,Elisa Valentina,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2015,Elisa Valentina,TRQX5862,Etica em Design,8.75,APROVADO POR MÉDIA
-2016,Elisa Valentina,MAEY1044,Design Computacional,3.28,REPROVADO
-2016,Elisa Valentina,HQDD9963,Design Sonoro,,REPROVADO POR FALTA
-2016,Elisa Valentina,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2016,Elisa Valentina,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,RVMF0745,Design Biomimetico,10.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,LLKP8902,Design Digital,,REPROVADO POR FALTA
-2016,Elisa Valentina,MXMO8868,Cultura Visual,7.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2016,Elisa Valentina,XERB6119,Gestao de Marcas,6.0,APROVADO
-2016,Elisa Valentina,TLQG8423,Design Biofilico,7.5,APROVADO POR MÉDIA
-2016,Elisa Valentina,UXMU2899,Interacao Tangivel,8.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,TOZF3011,SemiÃ³tica,10.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,HQDD9963,Design Sonoro,5.75,APROVADO
-2016,Elisa Valentina,JJNT2088,Manipulacao de Imagem,7.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,LLKP8902,Design Digital,9.25,APROVADO POR MÉDIA
-2016,Elisa Valentina,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2016,Elisa Valentina,WWGS2880,Design de Realidade Hibrida,4.0,REPROVADO
-2016,Elisa Valentina,DQUN5124,Comunicacao Visual,10.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,NVRL4030,Materiais e Processos,7.0,APROVADO POR MÉDIA
-2016,Elisa Valentina,LSHL3127,Design de Redes Sociais,5.24,APROVADO
-2016,Elisa Valentina,PBCQ5148,Design de Impressao e Publicacao,,REPROVADO POR FALTA
-2017,Elisa Valentina,MAEY1044,Design Computacional,4.03,REPROVADO
-2017,Elisa Valentina,TWIP0018,Teoria da Cor,7.0,APROVADO POR MÉDIA
-2017,Elisa Valentina,RMDE3651,Teoria do Design,5.13,APROVADO
-2017,Elisa Valentina,VMGY1151,Design de Interacao Tangivel,3.5,REPROVADO
-2017,Elisa Valentina,VNBQ5535,Design de Moda,9.0,APROVADO POR MÉDIA
-2017,Elisa Valentina,XYOT5349,Tecnicas de Iluminacao,9.0,APROVADO POR MÉDIA
-2017,Elisa Valentina,VMGY1151,Design de Interacao Tangivel,,REPROVADO POR FALTA
-2018,Elisa Valentina,MAEY1044,"Design Computacional
-DOCENTE(S): Maria Santos",7.1,APROVADO POR MÉDIA
-2018,Elisa Valentina,VMGY1151,"Design de Interacao Tangivel
-DOCENTE(S): Rafaela Gomes",5.68,APROVADO
-2018,Elisa Valentina,,INTEGRALIZADO,,
-2019,Elisa Valentina,,FORMADO,,
-2008,Elisa Valentina,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2008,Elisa Valentina,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2008,Elisa Valentina,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2008,Elisa Valentina,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2008,Elisa Valentina,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2008,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2008,Elisa Valentina,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2010,Elisa Valentina,,DESVINCULADO,,
-2011,Elisa Valentina,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2011,Elisa Valentina,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2011,Elisa Valentina,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2011,Elisa Valentina,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2011,Elisa Valentina,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2011,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2011,Elisa Valentina,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2012,Elisa Valentina,,DESVINCULADO,,
-2012,Elisa Valentina,OCRQ3517,Storytelling Visual,,REPROVADO POR FALTA
-2012,Elisa Valentina,RJGL2456,Design Colaborativo,,REPROVADO POR FALTA
-2012,Elisa Valentina,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2012,Elisa Valentina,UFMQ0127,Design para Longevidade,,REPROVADO POR FALTA
-2012,Elisa Valentina,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2012,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2012,Elisa Valentina,RJYZ5864,Identidade Visual,,REPROVADO POR FALTA
-2013,Elisa Valentina,,DESVINCULADO,,
-2013,Elisa Valentina,OCRQ3517,Storytelling Visual,5.9,APROVADO
-2013,Elisa Valentina,RJGL2456,Design Colaborativo,3.51,REPROVADO
-2013,Elisa Valentina,QBWW6998,Computacao Grafica,8.5,APROVADO POR MÉDIA
-2013,Elisa Valentina,UFMQ0127,Design para Longevidade,6.13,APROVADO
-2013,Elisa Valentina,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2013,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,5.47,APROVADO
-2013,Elisa Valentina,RJYZ5864,Identidade Visual,8.75,APROVADO POR MÉDIA
-2014,Elisa Valentina,RJGL2456,Design Colaborativo,7.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,NRYN3294,Design de Interfaces Neuromorficas,7.45,APROVADO
-2014,Elisa Valentina,NRCI1107,Design de Experiencia em Museus,8.93,APROVADO POR MÉDIA
-2014,Elisa Valentina,MXMO8868,Cultura Visual,9.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2014,Elisa Valentina,DOMK5241,Design de Aprendizado,4.05,REPROVADO
-2014,Elisa Valentina,JJNT2088,Manipulacao de Imagem,9.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,ZULH9584,Projeto Integrado,2.3,REPROVADO
-2014,Elisa Valentina,JGDZ1333,Gamificacao,8.5,APROVADO POR MÉDIA
-2014,Elisa Valentina,TSYB3211,Impressao 3D,9.25,APROVADO POR MÉDIA
-2014,Elisa Valentina,VOQA5582,Tipografia,8.4,APROVADO POR MÉDIA
-2014,Elisa Valentina,BLDG0260,Design de Joias,7.0,APROVADO POR MÉDIA
-2014,Elisa Valentina,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2015,Elisa Valentina,COOQ5695,Design de Interacao em Tempo Real,7.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,VFBH8799,Design Cibernetico,8.4,APROVADO POR MÉDIA
-2015,Elisa Valentina,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),9.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,JVFQ7338,Design de Interacao Cultural,6.13,APROVADO
-2015,Elisa Valentina,QVGO0107,Prototipagem em Papel,9.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,KAWV5083,Branding,9.5,APROVADO POR MÉDIA
-2015,Elisa Valentina,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2015,Elisa Valentina,ZULH9584,Projeto Integrado,5.07,APROVADO
-2015,Elisa Valentina,WPUV3332,Design de Tecnologia Vestivel (Wearable),5.0,APROVADO
-2015,Elisa Valentina,BMDH7993,Design de Apresentacoes,7.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,TPYC6338,Design Thinking,7.55,APROVADO POR MÉDIA
-2015,Elisa Valentina,AAZN5771,Ergonomia,7.0,APROVADO POR MÉDIA
-2015,Elisa Valentina,KZBU0327,Design de Interacao Corporal,,REPROVADO POR FALTA
-2015,Elisa Valentina,LERH6635,Design de Produto,,REPROVADO POR FALTA
-2015,Elisa Valentina,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2016,Elisa Valentina,MAEY1044,Design Computacional,,REPROVADO POR FALTA
-2016,Elisa Valentina,SATJ7970,Design de Narrativa Espacial,,REPROVADO POR FALTA
-2016,Elisa Valentina,LLKP8902,Design Digital,,REPROVADO POR FALTA
-2016,Elisa Valentina,FZLO1427,Marketing de Produto,,REPROVADO POR FALTA
-2016,Elisa Valentina,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2016,Elisa Valentina,AOXV5438,Design de Espacos Virtuais,,REPROVADO POR FALTA
-2016,Elisa Valentina,NGVU3526,Ecodesign,,REPROVADO POR FALTA
-2016,Elisa Valentina,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2016,Elisa Valentina,RMDE3651,Teoria do Design,,REPROVADO POR FALTA
-2016,Elisa Valentina,UXMU2899,Interacao Tangivel,,REPROVADO POR FALTA
-2016,Elisa Valentina,LERH6635,Design de Produto,,REPROVADO POR FALTA
-ANO,Elisa Valentina,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2017,Elisa Valentina,,DESVINCULADO,,
-2005,Elisa Valentina,OCRQ3517,Storytelling Visual,8.13,APROVADO POR MÉDIA
-2005,Elisa Valentina,RJGL2456,Design Colaborativo,4.15,REPROVADO
-2005,Elisa Valentina,QBWW6998,Computacao Grafica,,REPROVADO POR FALTA
-2005,Elisa Valentina,UFMQ0127,Design para Longevidade,5.0,APROVADO
-2005,Elisa Valentina,MKUB0718,Design de Mobiliario,,REPROVADO POR FALTA
-2005,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,1.2,REPROVADO
-2005,Elisa Valentina,RJYZ5864,Identidade Visual,3.5,REPROVADO
-2006,Elisa Valentina,RJGL2456,Design Colaborativo,5.0,APROVADO
-2006,Elisa Valentina,JGDZ1333,Gamificacao,7.25,APROVADO POR MÉDIA
-2006,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,0.5,REPROVADO
-2006,Elisa Valentina,RJYZ5864,Identidade Visual,,APROVADO POR FREQÜÊNCIA
-2006,Elisa Valentina,DOMK5241,Design de Aprendizado,,REPROVADO POR FALTA
-2006,Elisa Valentina,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2006,Elisa Valentina,WPUV3332,Design de Tecnologia Vestivel (Wearable),,CANCELADO COM ONUS
-2006,Elisa Valentina,BKII1063,Design de Visualizacao de Informacoes,,REPROVADO POR FALTA
-2006,Elisa Valentina,AAZN5771,Ergonomia,,REPROVADO POR FALTA
-2007,Elisa Valentina,,DESVINCULADO,,
-2009,Elisa Valentina,,DESLIGAMENTO,,
-2006,Renato Rafael,OCRQ3517,Storytelling Visual,8.25,APROVADO POR MÉDIA
-2006,Renato Rafael,RJGL2456,Design Colaborativo,2.0,REPROVADO
-2006,Renato Rafael,QBWW6998,Computacao Grafica,7.95,APROVADO POR MÉDIA
-2006,Renato Rafael,UFMQ0127,Design para Longevidade,4.0,REPROVADO
-2006,Renato Rafael,MKUB0718,Design de Mobiliario,9.25,APROVADO POR MÉDIA
-2006,Renato Rafael,BKII1063,Design de Visualizacao de Informacoes,1.0,REPROVADO
-2006,Renato Rafael,RJYZ5864,Identidade Visual,,APROVADO POR FREQÜÊNCIA
-2006,Renato Rafael,RJGL2456,Design Colaborativo,5.18,APROVADO
-2006,Renato Rafael,UFMQ0127,Design para Longevidade,5.0,APROVADO
-2006,Renato Rafael,JGDZ1333,Gamificacao,7.25,APROVADO POR MÉDIA
-2006,Renato Rafael,BKII1063,Design de Visualizacao de Informacoes,7.75,APROVADO POR MÉDIA
-2006,Renato Rafael,AAZN5771,Ergonomia,7.13,APROVADO POR MÉDIA
-2007,Renato Rafael,DOMK5241,Design de Aprendizado,8.0,APROVADO POR MÉDIA
-2007,Renato Rafael,ZULH9584,Projeto Integrado,2.0,REPROVADO
-2007,Renato Rafael,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.0,APROVADO
-2007,Renato Rafael,NRYN3294,Design de Interfaces Neuromorficas,8.5,APROVADO POR MÉDIA
-2007,Renato Rafael,NRCI1107,Design de Experiencia em Museus,8.0,APROVADO POR MÉDIA
-2007,Renato Rafael,JJNT2088,Manipulacao de Imagem,5.38,APROVADO
-2007,Renato Rafael,ZULH9584,Projeto Integrado,5.0,APROVADO
-2007,Renato Rafael,TPYC6338,Design Thinking,7.5,APROVADO POR MÉDIA
-2007,Renato Rafael,TSYB3211,Impressao 3D,5.0,APROVADO
-2007,Renato Rafael,VOQA5582,Tipografia,8.0,APROVADO POR MÉDIA
-2007,Renato Rafael,BLDG0260,Design de Joias,5.68,APROVADO
-2008,Renato Rafael,NGVU3526,Ecodesign,8.25,APROVADO POR MÉDIA
-2008,Renato Rafael,COOQ5695,Design de Interacao em Tempo Real,5.0,APROVADO
-2008,Renato Rafael,VFBH8799,Design Cibernetico,8.7,APROVADO POR MÉDIA
-2008,Renato Rafael,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),3.43,REPROVADO
-2008,Renato Rafael,JVFQ7338,Design de Interacao Cultural,5.0,APROVADO
-2008,Renato Rafael,QVGO0107,Prototipagem em Papel,4.5,REPROVADO
-2008,Renato Rafael,UXMU2899,Interacao Tangivel,,APROVADO POR FREQÜÊNCIA
-2008,Renato Rafael,MAEY1044,Design Computacional,6.0,APROVADO
-2008,Renato Rafael,QVGO0107,Prototipagem em Papel,2.88,REPROVADO
-2008,Renato Rafael,FZLO1427,Marketing de Produto,8.75,APROVADO POR MÉDIA
-2009,Renato Rafael,IENT5068,Design Experimental,5.0,APROVADO
-2009,Renato Rafael,XERB6119,Gestao de Marcas,9.25,APROVADO POR MÉDIA
-2009,Renato Rafael,KAWV5083,Branding,7.65,APROVADO POR MÉDIA
-2009,Renato Rafael,RRME1020,Design Parametrico,5.68,APROVADO
-2009,Renato Rafael,TOZF3011,SemiÃ³tica,9.0,APROVADO POR MÉDIA
-2009,Renato Rafael,HQDD9963,Design Sonoro,7.25,APROVADO POR MÉDIA
-2009,Renato Rafael,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),8.25,APROVADO POR MÉDIA
-2009,Renato Rafael,RMDE3651,Teoria do Design,5.13,APROVADO
-2009,Renato Rafael,DQUN5124,Comunicacao Visual,10.0,APROVADO POR MÉDIA
-2009,Renato Rafael,LSHL3127,Design de Redes Sociais,9.35,APROVADO POR MÉDIA
-2010,Renato Rafael,MXMO8868,Cultura Visual,8.5,APROVADO POR MÉDIA
-ANO,Renato Rafael,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2010,Renato Rafael,QVGO0107,Prototipagem em Papel,7.0,APROVADO POR MÉDIA
-2010,Renato Rafael,LERH6635,Design de Produto,8.75,APROVADO POR MÉDIA
-2010,Renato Rafael,VMGY1151,Design de Interacao Tangivel,9.0,APROVADO POR MÉDIA
-2010,Renato Rafael,AOXV5438,Design de Espacos Virtuais,8.45,APROVADO POR MÉDIA
-2010,Renato Rafael,BMDH7993,Design de Apresentacoes,8.5,APROVADO POR MÉDIA
-2010,Renato Rafael,SATJ7970,Design de Narrativa Espacial,8.2,APROVADO POR MÉDIA
-2010,Renato Rafael,LLKP8902,Design Digital,8.1,APROVADO POR MÉDIA
-2010,Renato Rafael,DZNQ4989,Design Cenico,9.5,APROVADO POR MÉDIA
-2010,Renato Rafael,WWGS2880,Design de Realidade Hibrida,9.75,APROVADO POR MÉDIA
-2010,Renato Rafael,MDQZ6072,Design de Jogos,6.63,APROVADO
-2010,Renato Rafael,PPDN7220,Modelagem 3D,9.0,APROVADO POR MÉDIA
-2010,Renato Rafael,KZBU0327,Design de Interacao Corporal,9.0,APROVADO POR MÉDIA
-2010,Renato Rafael,TRQX5862,Etica em Design,7.5,APROVADO POR MÉDIA
-2011,Renato Rafael,RVMF0745,Design Biomimetico,8.3,APROVADO POR MÉDIA
-2011,Renato Rafael,TWIP0018,Teoria da Cor,8.25,APROVADO POR MÉDIA
-2011,Renato Rafael,XYOT5349,Tecnicas de Iluminacao,,REPROVADO POR FALTA
-2011,Renato Rafael,XYOT5349,Tecnicas de Iluminacao,9.5,APROVADO POR MÉDIA
-2011,Renato Rafael,,INTEGRALIZADO,,
-2011,Renato Rafael,,FORMADO,,
-2012,Renato Luciana,OCRQ3517,Storytelling Visual,5.94,APROVADO
-2012,Renato Luciana,RJGL2456,Design Colaborativo,2.55,REPROVADO
-2012,Renato Luciana,QBWW6998,Computacao Grafica,9.75,APROVADO POR MÉDIA
-2012,Renato Luciana,UFMQ0127,Design para Longevidade,8.0,APROVADO POR MÉDIA
-2012,Renato Luciana,MKUB0718,Design de Mobiliario,,APROVADO POR FREQÜÊNCIA
-2012,Renato Luciana,BKII1063,Design de Visualizacao de Informacoes,1.75,REPROVADO
-2012,Renato Luciana,RJYZ5864,Identidade Visual,8.75,APROVADO POR MÉDIA
-2013,Renato Luciana,RJGL2456,Design Colaborativo,6.13,APROVADO
-2013,Renato Luciana,BKII1063,Design de Visualizacao de Informacoes,8.5,APROVADO POR MÉDIA
-2013,Renato Luciana,MXMO8868,Cultura Visual,8.0,APROVADO POR MÉDIA
-2013,Renato Luciana,AAZN5771,Ergonomia,6.07,APROVADO
-2013,Renato Luciana,DOMK5241,Design de Aprendizado,8.0,APROVADO POR MÉDIA
-2013,Renato Luciana,ZULH9584,Projeto Integrado,4.15,REPROVADO
-2013,Renato Luciana,WPUV3332,Design de Tecnologia Vestivel (Wearable),4.1,REPROVADO
-2013,Renato Luciana,BMDH7993,Design de Apresentacoes,7.25,APROVADO POR MÉDIA
-2013,Renato Luciana,JGDZ1333,Gamificacao,7.0,APROVADO POR MÉDIA
-2013,Renato Luciana,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2013,Renato Luciana,NRCI1107,Design de Experiencia em Museus,7.5,APROVADO POR MÉDIA
-2013,Renato Luciana,BLDG0260,Design de Joias,7.25,APROVADO POR MÉDIA
-2013,Renato Luciana,KAWV5083,Branding,6.25,APROVADO
-2014,Renato Luciana,ZULH9584,Projeto Integrado,5.0,APROVADO
-2014,Renato Luciana,WPUV3332,Design de Tecnologia Vestivel (Wearable),7.5,APROVADO POR MÉDIA
-2014,Renato Luciana,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2014,Renato Luciana,VOQA5582,Tipografia,3.33,REPROVADO
-2014,Renato Luciana,UXMU2899,Interacao Tangivel,8.0,APROVADO POR MÉDIA
-2014,Renato Luciana,LERH6635,Design de Produto,7.35,APROVADO POR MÉDIA
-2014,Renato Luciana,COOQ5695,Design de Interacao em Tempo Real,8.25,APROVADO POR MÉDIA
-2014,Renato Luciana,NRYN3294,Design de Interfaces Neuromorficas,7.0,APROVADO POR MÉDIA
-2014,Renato Luciana,FZLO1427,Marketing de Produto,7.68,APROVADO POR MÉDIA
-2014,Renato Luciana,TRQX5862,Etica em Design,8.5,APROVADO POR MÉDIA
-2015,Renato Luciana,HQDD9963,Design Sonoro,8.5,APROVADO POR MÉDIA
-2015,Renato Luciana,TSYB3211,Impressao 3D,5.13,APROVADO
-2015,Renato Luciana,RMDE3651,Teoria do Design,5.5,APROVADO
-2015,Renato Luciana,XERB6119,Gestao de Marcas,5.24,APROVADO
-2015,Renato Luciana,TOZF3011,SemiÃ³tica,10.0,APROVADO POR MÉDIA
-2015,Renato Luciana,VFBH8799,Design Cibernetico,8.25,APROVADO POR MÉDIA
-2015,Renato Luciana,JVFQ7338,Design de Interacao Cultural,7.0,APROVADO POR MÉDIA
-2015,Renato Luciana,QVGO0107,Prototipagem em Papel,7.25,APROVADO POR MÉDIA
-2015,Renato Luciana,DQUN5124,Comunicacao Visual,8.5,APROVADO POR MÉDIA
-2015,Renato Luciana,RRME1020,Design Parametrico,,REPROVADO POR FALTA
-2016,Renato Luciana,MAEY1044,Design Computacional,4.93,REPROVADO
-2016,Renato Luciana,SATJ7970,Design de Narrativa Espacial,8.75,APROVADO POR MÉDIA
-2016,Renato Luciana,LLKP8902,Design Digital,5.75,APROVADO
-2016,Renato Luciana,VOQA5582,Tipografia,5.15,APROVADO
-2016,Renato Luciana,KZBU0327,Design de Interacao Corporal,7.0,APROVADO POR MÉDIA
-ANO,Renato Luciana,CÓDIGO,DISCIPLINA,NOTA FINAL,SITUAÇÃO CONCEITO
-2016,Renato Luciana,RRME1020,Design Parametrico,8.13,APROVADO POR MÉDIA
-2016,Renato Luciana,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2016,Renato Luciana,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),,REPROVADO POR FALTA
-2016,Renato Luciana,TWIP0018,Teoria da Cor,7.75,APROVADO POR MÉDIA
-2016,Renato Luciana,DZNQ4989,Design Cenico,6.8,APROVADO
-2016,Renato Luciana,PBCQ5148,Design de Impressao e Publicacao,7.5,APROVADO POR MÉDIA
-2016,Renato Luciana,VNBQ5535,Design de Moda,8.0,APROVADO POR MÉDIA
-2017,Renato Luciana,MAEY1044,Design Computacional,6.32,APROVADO
-2017,Renato Luciana,JJNT2088,Manipulacao de Imagem,2.5,REPROVADO
-2017,Renato Luciana,TPYC6338,Design Thinking,7.5,APROVADO POR MÉDIA
-2017,Renato Luciana,IENT5068,Design Experimental,9.0,APROVADO POR MÉDIA
-2017,Renato Luciana,VMGY1151,Design de Interacao Tangivel,7.5,APROVADO POR MÉDIA
-2017,Renato Luciana,LSHL3127,Design de Redes Sociais,8.27,APROVADO POR MÉDIA
-2017,Renato Luciana,NGVU3526,Ecodesign,7.15,APROVADO POR MÉDIA
-2017,Renato Luciana,UCTK5222,Design de Realidade Aumentada (AR) e Virtual (VR),7.5,APROVADO POR MÉDIA
-2017,Renato Luciana,RVMF0745,Design Biomimetico,,REPROVADO POR FALTA
-2017,Renato Luciana,MDQZ6072,Design de Jogos,7.5,APROVADO POR MÉDIA
-2018,Renato Luciana,JJNT2088,Manipulacao de Imagem,,REPROVADO POR FALTA
-2018,Renato Luciana,RVMF0745,"Design Biomimetico
-DOCENTE(S): Carla Souza
-DOCENTE(S): -----------.",8.0,APROVADO POR MÉDIA
-2018,Renato Luciana,AOXV5438,"Design de Espacos Virtuais
-DOCENTE(S): Pedro Oliveira",8.85,APROVADO POR MÉDIA
-2018,Renato Luciana,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",,REPROVADO POR FALTA
-2019,Renato Luciana,JJNT2088,"Manipulacao de Imagem
-DOCENTE(S): Diego Cardoso",9.05,APROVADO POR MÉDIA
-2019,Renato Luciana,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",,REPROVADO POR FALTA
-2019,Renato Luciana,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",,REPROVADO POR FALTA
-2020,Renato Luciana,XYOT5349,"Tecnicas de Iluminacao
-DOCENTE(S): Gustavo Martins",9.3,APROVADO POR MÉDIA
-2020,Renato Luciana,,INTEGRALIZADO,,
-2020,Renato Luciana,,FORMADO,,
-2007,Evelyn Vinicius,OCRQ3517,Storytelling Visual,7.75,APROVADO POR MÉDIA
-2007,Evelyn Vinicius,RJGL2456,Design Colaborativo,7.5,APROVADO POR MÉDIA
-2007,Evelyn Vinicius,QBWW6998,Computacao Grafica,7.75,APROVADO POR MÉDIA
-2007,Evelyn Vinicius,UFMQ0127,Design para Longevidade,8.0,APROVADO POR MÉDIA
-2007,Evelyn Vinicius,MKUB0718,Design de Mobiliario,10.0,APROVADO POR MÉDIA
-2007,Evelyn Vinicius,BKII1063,Design de Visualizacao de Informacoes,4.43,REPROVADO
-2007,Evelyn Vinicius,RJYZ5864,Identidade Visual,8.0,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,DOMK5241,Design de Aprendizado,7.0,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,ZULH9584,Projeto Integrado,2.63,REPROVADO
-2008,Evelyn Vinicius,WPUV3332,Design de Tecnologia Vestivel (Wearable),10.0,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,TPYC6338,Design Thinking,6.68,APROVADO
-2008,Evelyn Vinicius,BKII1063,Design de Visualizacao de Informacoes,8.0,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,MXMO8868,Cultura Visual,9.15,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,AAZN5771,Ergonomia,7.0,APROVADO POR MÉDIA
-2008,Evelyn Vinicius,NGVU3526,Ecodesign,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,ZULH9584,Projeto Integrado,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,JGDZ1333,Gamificacao,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,NRYN3294,Design de Interfaces Neuromorficas,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,NRCI1107,Design de Experiencia em Museus,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,BLDG0260,Design de Joias,,REPROVADO POR FALTA
-2008,Evelyn Vinicius,KAWV5083,Branding,,REPROVADO POR FALTA
-2009,Evelyn Vinicius,,DESLIGAMENTO,,
+nome,disciplina,ano,nota,situacao,codigo,nome_Docente
+Gabriel Enzo,Design de Aprendizado,2020,,DISPENSADO,DOMK5241,
+Gabriel Enzo,Storytelling Visual,2012,3.91,REPROVADO,OCRQ3517,
+Gabriel Enzo,Design Colaborativo,2012,1.85,REPROVADO,RJGL2456,
+Gabriel Enzo,Computacao Grafica,2012,7.53,APROVADO,QBWW6998,
+Gabriel Enzo,Design para Longevidade,2012,7.5,APROVADO POR MÉDIA,UFMQ0127,
+Gabriel Enzo,Design de Mobiliario,2012,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Gabriel Enzo,Design de Visualizacao de Informacoes,2012,7.0,APROVADO POR MÉDIA,BKII1063,
+Gabriel Enzo,Identidade Visual,2012,7.25,APROVADO POR MÉDIA,RJYZ5864,
+Gabriel Enzo,Storytelling Visual,2013,5.0,APROVADO,OCRQ3517,
+Gabriel Enzo,Design Colaborativo,2013,3.97,REPROVADO,RJGL2456,
+Gabriel Enzo,Gamificacao,2013,7.75,APROVADO POR MÉDIA,JGDZ1333,
+Gabriel Enzo,Design de Interfaces Neuromorficas,2013,6.5,APROVADO,NRYN3294,
+Gabriel Enzo,Design de Experiencia em Museus,2013,5.75,APROVADO,NRCI1107,
+Gabriel Enzo,Cultura Visual,2013,7.0,APROVADO POR MÉDIA,MXMO8868,
+Gabriel Enzo,Ergonomia,2013,5.0,APROVADO,AAZN5771,
+Gabriel Enzo,Design Colaborativo,2013,6.18,APROVADO,RJGL2456,
+Gabriel Enzo,Design de Apresentacoes,2013,7.0,APROVADO POR MÉDIA,BMDH7993,
+Gabriel Enzo,Design Thinking,2013,7.0,APROVADO POR MÉDIA,TPYC6338,
+Gabriel Enzo,Impressao 3D,2013,,REPROVADO POR FALTA,TSYB3211,
+Gabriel Enzo,Tipografia,2013,2.15,REPROVADO,VOQA5582,
+Gabriel Enzo,Design de Joias,2013,,REPROVADO POR FALTA,BLDG0260,
+Gabriel Enzo,Branding,2013,5.0,APROVADO,KAWV5083,
+Gabriel Enzo,Manipulacao de Imagem,2014,,REPROVADO POR FALTA,JJNT2088,
+Gabriel Enzo,Projeto Integrado,2014,,REPROVADO POR FALTA,ZULH9584,
+Gabriel Enzo,Design de Tecnologia Vestivel (Wearable),2014,7.0,APROVADO POR MÉDIA,WPUV3332,
+Gabriel Enzo,Impressao 3D,2014,7.5,APROVADO POR MÉDIA,TSYB3211,
+Gabriel Enzo,Design de Joias,2014,4.03,REPROVADO,BLDG0260,
+Gabriel Enzo,Ecodesign,2014,7.0,APROVADO POR MÉDIA,NGVU3526,
+Gabriel Enzo,Design de Aprendizado,2014,,REPROVADO POR FALTA,DOMK5241,
+Gabriel Enzo,Manipulacao de Imagem,2014,,REPROVADO POR FALTA,JJNT2088,
+Gabriel Enzo,Projeto Integrado,2014,,REPROVADO POR FALTA,ZULH9584,
+Gabriel Enzo,Design de Interacao Cultural,2014,2.5,REPROVADO,JVFQ7338,
+Gabriel Enzo,Design de Joias,2014,2.8,REPROVADO,BLDG0260,
+Gabriel Enzo,Prototipagem em Papel,2014,7.5,APROVADO POR MÉDIA,QVGO0107,
+Gabriel Enzo,Design Cibernetico,2015,6.38,APROVADO,VFBH8799,
+Gabriel Enzo,Design de Narrativa Espacial,2015,9.0,APROVADO POR MÉDIA,SATJ7970,
+Gabriel Enzo,Design de Interacao Cultural,2015,5.13,APROVADO,JVFQ7338,
+Gabriel Enzo,Design Digital,2015,8.5,APROVADO POR MÉDIA,LLKP8902,
+Gabriel Enzo,Design de Joias,2015,5.13,APROVADO,BLDG0260,
+Gabriel Enzo,Design de Produto,2015,7.75,APROVADO POR MÉDIA,LERH6635,
+Gabriel Enzo,Design de Aprendizado,2015,,REPROVADO POR FALTA,DOMK5241,
+Gabriel Enzo,Design de Interacao em Tempo Real,2015,5.38,APROVADO,COOQ5695,
+Gabriel Enzo,Design Computacional,2015,,REPROVADO POR FALTA,MAEY1044,
+Gabriel Enzo,Projeto Integrado,2015,3.8,REPROVADO,ZULH9584,
+Gabriel Enzo,Teoria da Cor,2015,8.0,APROVADO POR MÉDIA,TWIP0018,
+Gabriel Enzo,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Gabriel Enzo,Design Cenico,2015,,REPROVADO POR FALTA,DZNQ4989,
+Gabriel Enzo,Design de Moda,2015,8.5,APROVADO POR MÉDIA,VNBQ5535,
+Gabriel Enzo,Design Computacional,2016,,REPROVADO POR FALTA,MAEY1044,
+Gabriel Enzo,Teoria do Design,2016,,REPROVADO POR FALTA,RMDE3651,
+Gabriel Enzo,Interacao Tangivel,2016,7.0,APROVADO POR MÉDIA,UXMU2899,
+Gabriel Enzo,Design de Interacao Tangivel,2016,,REPROVADO POR FALTA,VMGY1151,
+Gabriel Enzo,Design Parametrico,2016,,REPROVADO POR FALTA,RRME1020,
+Gabriel Enzo,SemiÃ³tica,2016,,REPROVADO POR FALTA,TOZF3011,
+Gabriel Enzo,Manipulacao de Imagem,2016,,REPROVADO POR FALTA,JJNT2088,
+Gabriel Enzo,Projeto Integrado,2016,,REPROVADO POR FALTA,ZULH9584,
+Gabriel Enzo,Teoria do Design,2016,,REPROVADO POR FALTA,RMDE3651,
+Gabriel Enzo,Etica em Design,2016,8.0,APROVADO POR MÉDIA,TRQX5862,
+Gabriel Enzo,Design Sonoro,2017,5.75,APROVADO,HQDD9963,
+Gabriel Enzo,Tipografia,2017,,REPROVADO POR FALTA,VOQA5582,
+Gabriel Enzo,Design de Interacao Corporal,2017,,REPROVADO POR FALTA,KZBU0327,
+Gabriel Enzo,Design Parametrico,2017,,REPROVADO POR FALTA,RRME1020,
+Gabriel Enzo,SemiÃ³tica,2017,7.0,APROVADO POR MÉDIA,TOZF3011,
+Gabriel Enzo,Design de Realidade Aumentada (AR) e Virtual (VR),2017,7.0,APROVADO POR MÉDIA,UCTK5222,
+Gabriel Enzo,Projeto Integrado,2017,5.97,APROVADO,ZULH9584,
+Gabriel Enzo,Design de Interacao Tangivel,2017,5.2,APROVADO,VMGY1151,
+Gabriel Enzo,Design de Impressao e Publicacao,2017,,REPROVADO POR FALTA,PBCQ5148,
+Gabriel Enzo,Design Computacional,2018,,REPROVADO POR FALTA,MAEY1044,Maria Santos
+Gabriel Enzo,Manipulacao de Imagem,2018,,REPROVADO POR FALTA,JJNT2088,
+Gabriel Enzo,Marketing de Produto,2018,5.86,APROVADO,FZLO1427,Carla Souza
+Gabriel Enzo,Design de Interacao Corporal,2018,7.0,APROVADO POR MÉDIA,KZBU0327,
+Gabriel Enzo,Design Parametrico,2018,5.0,APROVADO,RRME1020,Juliana Rodrigues
+Gabriel Enzo,Design Cenico,2018,,REPROVADO POR FALTA,DZNQ4989,Ana Costa
+Gabriel Enzo,Teoria do Design,2018,5.88,APROVADO,RMDE3651,Marcos Ferreira
+Gabriel Enzo,Gestao de Marcas,2018,7.0,APROVADO POR MÉDIA,XERB6119,Maria Santos
+Gabriel Enzo,Design de Impressao e Publicacao,2018,7.41,APROVADO POR MÉDIA,PBCQ5148,Gustavo Martins
+Gabriel Enzo,Design Computacional,2019,5.63,APROVADO,MAEY1044,Maria Santos
+Gabriel Enzo,Design Experimental,2019,7.0,APROVADO POR MÉDIA,IENT5068,Rafaela Gomes
+Gabriel Enzo,Tipografia,2019,3.35,REPROVADO,VOQA5582,Joao Silva
+Gabriel Enzo,Comunicacao Visual,2019,7.5,APROVADO POR MÉDIA,DQUN5124,Luiz Pereira
+Gabriel Enzo,Design de Redes Sociais,2019,5.63,APROVADO,LSHL3127,Larissa Vieira
+Gabriel Enzo,Design de Espacos Virtuais,2019,9.75,APROVADO POR MÉDIA,AOXV5438,Pedro Oliveira
+Gabriel Enzo,Design de Aprendizado,2019,3.88,REPROVADO,DOMK5241,Ana Costa
+Gabriel Enzo,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Gabriel Enzo,Design Biomimetico,2019,,RENOVAÇÃO DE ESTÁGIO,RVMF0745,Carla Souza
+Gabriel Enzo,Design Cenico,2019,6.59,APROVADO,DZNQ4989,Ana Costa
+Gabriel Enzo,Design de Realidade Hibrida,2019,7.0,APROVADO POR MÉDIA,WWGS2880,Pedro Oliveira
+Gabriel Enzo,Tecnicas de Iluminacao,2019,9.0,APROVADO POR MÉDIA,XYOT5349,Gustavo Martins
+Gabriel Enzo,Manipulacao de Imagem,2020,9.85,APROVADO POR MÉDIA,JJNT2088,Diego Cardoso
+Gabriel Enzo,Design Biomimetico,2020,9.0,APROVADO POR MÉDIA,RVMF0745,Carla Souza
+Gabriel Enzo,Tipografia,2020,8.75,APROVADO POR MÉDIA,VOQA5582,Joao Silva
+Gabriel Enzo,INTEGRALIZADO,2020,,,,
+Gabriel Enzo,FORMADO,2020,,,,
+Juliana Luca,Storytelling Visual,2009,8.9,APROVADO POR MÉDIA,OCRQ3517,
+Juliana Luca,Design Colaborativo,2009,5.3,APROVADO,RJGL2456,
+Juliana Luca,Computacao Grafica,2009,9.5,APROVADO POR MÉDIA,QBWW6998,
+Juliana Luca,Design para Longevidade,2009,7.5,APROVADO POR MÉDIA,UFMQ0127,
+Juliana Luca,Design de Mobiliario,2009,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Juliana Luca,Design de Visualizacao de Informacoes,2009,,REPROVADO POR FALTA,BKII1063,
+Juliana Luca,Identidade Visual,2009,8.25,APROVADO POR MÉDIA,RJYZ5864,
+Juliana Luca,Design de Aprendizado,2009,,REPROVADO POR FALTA,DOMK5241,
+Juliana Luca,Projeto Integrado,2009,,REPROVADO POR FALTA,ZULH9584,
+Juliana Luca,Design de Tecnologia Vestivel (Wearable),2009,7.35,APROVADO POR MÉDIA,WPUV3332,
+Juliana Luca,Gamificacao,2009,8.25,APROVADO POR MÉDIA,JGDZ1333,
+Juliana Luca,Design de Visualizacao de Informacoes,2009,,REPROVADO POR FALTA,BKII1063,
+Juliana Luca,Cultura Visual,2009,9.75,APROVADO POR MÉDIA,MXMO8868,
+Juliana Luca,Ergonomia,2009,,REPROVADO POR FALTA,AAZN5771,
+Juliana Luca,Design de Aprendizado,2010,,REPROVADO POR FALTA,DOMK5241,
+Juliana Luca,Projeto Integrado,2010,,REPROVADO POR FALTA,ZULH9584,
+Juliana Luca,Design de Visualizacao de Informacoes,2010,,REPROVADO POR FALTA,BKII1063,
+Juliana Luca,Ergonomia,2010,,REPROVADO POR FALTA,AAZN5771,
+Juliana Luca,Ecodesign,2010,9.75,APROVADO POR MÉDIA,NGVU3526,
+Juliana Luca,Design de Realidade Aumentada (AR) e Virtual (VR),2010,,REPROVADO POR FALTA,UCTK5222,
+Juliana Luca,Design Thinking,2010,9.0,APROVADO POR MÉDIA,TPYC6338,
+Juliana Luca,Design de Realidade Aumentada (AR) e Virtual (VR),2011,,REPROVADO POR FALTA,UCTK5222,
+Juliana Luca,Design de Joias,2011,,REPROVADO POR FALTA,BLDG0260,
+Juliana Luca,Branding,2011,,REPROVADO POR FALTA,KAWV5083,
+Juliana Luca,Design de Apresentacoes,2012,,REPROVADO POR FALTA,BMDH7993,
+Juliana Luca,DESVINCULADO,2012,,,,
+Lara Joao,Storytelling Visual,2006,9.25,APROVADO POR MÉDIA,OCRQ3517,
+Lara Joao,Design Colaborativo,2006,8.1,APROVADO POR MÉDIA,RJGL2456,
+Lara Joao,Computacao Grafica,2006,8.0,APROVADO POR MÉDIA,QBWW6998,
+Lara Joao,Design para Longevidade,2006,5.75,APROVADO,UFMQ0127,
+Lara Joao,Design de Mobiliario,2006,10.0,APROVADO POR MÉDIA,MKUB0718,
+Lara Joao,Design de Visualizacao de Informacoes,2006,8.0,APROVADO POR MÉDIA,BKII1063,
+Lara Joao,Identidade Visual,2006,8.0,APROVADO POR MÉDIA,RJYZ5864,
+Lara Joao,Design de Aprendizado,2007,8.0,APROVADO POR MÉDIA,DOMK5241,
+Lara Joao,Projeto Integrado,2007,4.02,REPROVADO,ZULH9584,
+Lara Joao,Design de Tecnologia Vestivel (Wearable),2007,9.13,APROVADO POR MÉDIA,WPUV3332,
+Lara Joao,Design de Interfaces Neuromorficas,2007,8.0,APROVADO POR MÉDIA,NRYN3294,
+Lara Joao,Design de Experiencia em Museus,2007,10.0,APROVADO POR MÉDIA,NRCI1107,
+Lara Joao,Ergonomia,2007,8.1,APROVADO POR MÉDIA,AAZN5771,
+Lara Joao,Ecodesign,2007,8.9,APROVADO POR MÉDIA,NGVU3526,
+Lara Joao,Manipulacao de Imagem,2007,7.25,APROVADO POR MÉDIA,JJNT2088,
+Lara Joao,Projeto Integrado,2007,6.88,APROVADO,ZULH9584,
+Lara Joao,Design Thinking,2007,7.75,APROVADO POR MÉDIA,TPYC6338,
+Lara Joao,Impressao 3D,2007,6.0,APROVADO,TSYB3211,
+Lara Joao,Tipografia,2007,8.5,APROVADO POR MÉDIA,VOQA5582,
+Lara Joao,Design de Joias,2007,7.5,APROVADO POR MÉDIA,BLDG0260,
+Lara Joao,Design de Interacao em Tempo Real,2008,,CANCELADO COM ONUS,COOQ5695,
+Lara Joao,Design Cibernetico,2008,9.0,APROVADO POR MÉDIA,VFBH8799,
+Lara Joao,Design de Realidade Aumentada (AR) e Virtual (VR),2008,7.17,APROVADO POR MÉDIA,UCTK5222,
+Lara Joao,Design de Interacao Cultural,2008,7.75,APROVADO POR MÉDIA,JVFQ7338,
+Lara Joao,Gamificacao,2008,,CANCELADO COM ONUS,JGDZ1333,
+Lara Joao,Prototipagem em Papel,2008,7.65,APROVADO POR MÉDIA,QVGO0107,
+Lara Joao,Marketing de Produto,2008,8.15,APROVADO POR MÉDIA,FZLO1427,
+Lara Joao,Interacao Tangivel,2008,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Lara Joao,Design Computacional,2008,7.85,APROVADO POR MÉDIA,MAEY1044,
+Lara Joao,Design de Narrativa Espacial,2008,8.2,APROVADO POR MÉDIA,SATJ7970,
+Lara Joao,Design Experimental,2008,8.5,APROVADO POR MÉDIA,IENT5068,
+Lara Joao,Design de Interacao Corporal,2008,9.0,APROVADO POR MÉDIA,KZBU0327,
+Lara Joao,Branding,2008,9.5,APROVADO POR MÉDIA,KAWV5083,
+Lara Joao,Design de Espacos Virtuais,2008,8.4,APROVADO POR MÉDIA,AOXV5438,
+Lara Joao,Design de Interacao em Tempo Real,2009,8.35,APROVADO POR MÉDIA,COOQ5695,
+Lara Joao,Design Biomimetico,2009,8.5,APROVADO POR MÉDIA,RVMF0745,
+Lara Joao,Design Digital,2009,8.8,APROVADO POR MÉDIA,LLKP8902,
+Lara Joao,Gamificacao,2009,8.5,APROVADO POR MÉDIA,JGDZ1333,
+Lara Joao,Cultura Visual,2009,7.25,APROVADO POR MÉDIA,MXMO8868,
+Lara Joao,Teoria do Design,2009,8.75,APROVADO POR MÉDIA,RMDE3651,
+Lara Joao,Gestao de Marcas,2009,8.0,APROVADO POR MÉDIA,XERB6119,
+Lara Joao,Design de Produto,2009,9.05,APROVADO POR MÉDIA,LERH6635,
+Lara Joao,Design Parametrico,2009,7.5,APROVADO POR MÉDIA,RRME1020,
+Lara Joao,Design de Moda,2009,5.3,APROVADO,VNBQ5535,
+Lara Joao,SemiÃ³tica,2009,9.0,APROVADO POR MÉDIA,TOZF3011,
+Lara Joao,Design Sonoro,2009,7.0,APROVADO POR MÉDIA,HQDD9963,
+Lara Joao,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Lara Joao,Design de Apresentacoes,2009,8.75,APROVADO POR MÉDIA,BMDH7993,
+Lara Joao,Teoria da Cor,2009,8.25,APROVADO POR MÉDIA,TWIP0018,
+Lara Joao,Design Cenico,2009,8.65,APROVADO POR MÉDIA,DZNQ4989,
+Lara Joao,Comunicacao Visual,2009,10.0,APROVADO POR MÉDIA,DQUN5124,
+Lara Joao,Design de Redes Sociais,2009,9.32,APROVADO POR MÉDIA,LSHL3127,
+Lara Joao,Etica em Design,2009,7.25,APROVADO POR MÉDIA,TRQX5862,
+Lara Joao,Fotografia,2010,7.72,APROVADO POR MÉDIA,OJNV9272,
+Lara Joao,Materiais e Processos,2010,8.5,APROVADO POR MÉDIA,NVRL4030,
+Lara Joao,Design de Interacao Tangivel,2010,9.0,APROVADO POR MÉDIA,VMGY1151,
+Lara Joao,Tecnicas de Iluminacao,2010,8.0,APROVADO POR MÉDIA,XYOT5349,
+Lara Joao,INTEGRALIZADO,2010,,,,
+Lara Joao,FORMADO,2010,,,,
+Luciana Luca,Storytelling Visual,2020,,REPROVADO POR FALTA,OCRQ3517,Maria Santos
+Luciana Luca,Design Colaborativo,2020,,REPROVADO POR FALTA,RJGL2456,Fernanda Lima
+Luciana Luca,Computacao Grafica,2020,,REPROVADO POR FALTA,QBWW6998,Marcos Ferreira
+Luciana Luca,Design para Longevidade,2020,,REPROVADO POR FALTA,UFMQ0127,Marcos Ferreira
+Luciana Luca,Design de Mobiliario,2020,,REPROVADO POR FALTA,MKUB0718,Fernanda Lima
+Luciana Luca,Design de Visualizacao de Informacoes,2020,,REPROVADO POR FALTA,BKII1063,Andre Almeida
+Luciana Luca,Identidade Visual,2020,,REPROVADO POR FALTA,RJYZ5864,Joao Silva
+Luciana Luca,DESVINCULADO,2020,,,,
+Melissa Gustavo,Storytelling Visual,2007,,REPROVADO POR FALTA,OCRQ3517,
+Melissa Gustavo,Design Colaborativo,2007,,REPROVADO POR FALTA,RJGL2456,
+Melissa Gustavo,Computacao Grafica,2007,,REPROVADO POR FALTA,QBWW6998,
+Melissa Gustavo,Design para Longevidade,2007,,REPROVADO POR FALTA,UFMQ0127,
+Melissa Gustavo,Design de Mobiliario,2007,8.25,APROVADO POR MÉDIA,MKUB0718,
+Melissa Gustavo,Design de Visualizacao de Informacoes,2007,,REPROVADO POR FALTA,BKII1063,
+Melissa Gustavo,Identidade Visual,2007,,REPROVADO POR FALTA,RJYZ5864,
+Melissa Gustavo,Storytelling Visual,2007,5.13,APROVADO,OCRQ3517,
+Melissa Gustavo,Design Colaborativo,2007,5.0,APROVADO,RJGL2456,
+Melissa Gustavo,Computacao Grafica,2007,9.0,APROVADO POR MÉDIA,QBWW6998,
+Melissa Gustavo,Design para Longevidade,2007,5.5,APROVADO,UFMQ0127,
+Melissa Gustavo,Design de Visualizacao de Informacoes,2007,7.0,APROVADO POR MÉDIA,BKII1063,
+Melissa Gustavo,Identidade Visual,2007,7.45,APROVADO POR MÉDIA,RJYZ5864,
+Melissa Gustavo,Design de Aprendizado,2008,,REPROVADO POR FALTA,DOMK5241,
+Melissa Gustavo,Projeto Integrado,2008,,REPROVADO POR FALTA,ZULH9584,
+Melissa Gustavo,Design de Tecnologia Vestivel (Wearable),2008,,REPROVADO POR FALTA,WPUV3332,
+Melissa Gustavo,Design de Interfaces Neuromorficas,2008,,REPROVADO POR FALTA,NRYN3294,
+Melissa Gustavo,Design de Experiencia em Museus,2008,2.75,REPROVADO,NRCI1107,
+Melissa Gustavo,Ergonomia,2008,,REPROVADO POR FALTA,AAZN5771,
+Melissa Gustavo,TRANCAMENTO,2008,,,,
+Melissa Gustavo,DESVINCULADO,2010,,,,
+Diego Vitoria,Storytelling Visual,2010,3.7,REPROVADO,OCRQ3517,
+Diego Vitoria,Design Colaborativo,2010,,REPROVADO POR FALTA,RJGL2456,
+Diego Vitoria,Computacao Grafica,2010,5.22,APROVADO,QBWW6998,
+Diego Vitoria,Design para Longevidade,2010,2.5,REPROVADO,UFMQ0127,
+Diego Vitoria,Design de Mobiliario,2010,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Diego Vitoria,Design de Visualizacao de Informacoes,2010,1.5,REPROVADO,BKII1063,
+Diego Vitoria,Identidade Visual,2010,8.0,APROVADO POR MÉDIA,RJYZ5864,
+Diego Vitoria,Storytelling Visual,2010,5.0,APROVADO,OCRQ3517,
+Diego Vitoria,Design Colaborativo,2010,,REPROVADO POR FALTA,RJGL2456,
+Diego Vitoria,Design para Longevidade,2010,,REPROVADO POR FALTA,UFMQ0127,
+Diego Vitoria,Design de Visualizacao de Informacoes,2010,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Ergonomia,2010,,REPROVADO POR FALTA,AAZN5771,
+Diego Vitoria,Design Colaborativo,2011,,REPROVADO POR FALTA,RJGL2456,
+Diego Vitoria,Design para Longevidade,2011,,REPROVADO POR FALTA,UFMQ0127,
+Diego Vitoria,Design Thinking,2011,5.0,APROVADO,TPYC6338,
+Diego Vitoria,Gamificacao,2011,9.0,APROVADO POR MÉDIA,JGDZ1333,
+Diego Vitoria,Design de Visualizacao de Informacoes,2011,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Design de Joias,2011,,REPROVADO POR FALTA,BLDG0260,
+Diego Vitoria,Design de Visualizacao de Informacoes,2011,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Design de Joias,2011,3.88,REPROVADO,BLDG0260,
+Diego Vitoria,Ergonomia,2011,,REPROVADO POR FALTA,AAZN5771,
+Diego Vitoria,Branding,2011,6.35,APROVADO,KAWV5083,
+Diego Vitoria,Design de Visualizacao de Informacoes,2012,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Cultura Visual,2012,5.4,APROVADO,MXMO8868,
+Diego Vitoria,Design de Joias,2012,5.13,APROVADO,BLDG0260,
+Diego Vitoria,Ergonomia,2012,,REPROVADO POR FALTA,AAZN5771,
+Diego Vitoria,Design de Produto,2012,7.5,APROVADO POR MÉDIA,LERH6635,
+Diego Vitoria,Design de Interacao em Tempo Real,2012,,REPROVADO POR FALTA,COOQ5695,
+Diego Vitoria,Design Cenico,2012,,REPROVADO POR FALTA,DZNQ4989,
+Diego Vitoria,Ergonomia,2012,,REPROVADO POR FALTA,AAZN5771,
+Diego Vitoria,Interacao Tangivel,2012,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,Etica em Design,2012,7.0,APROVADO POR MÉDIA,TRQX5862,
+Diego Vitoria,Design Cenico,2013,,REPROVADO POR FALTA,DZNQ4989,
+Diego Vitoria,Ergonomia,2013,,REPROVADO POR FALTA,AAZN5771,
+Diego Vitoria,Interacao Tangivel,2013,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,Interacao Tangivel,2013,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,Design Colaborativo,2014,,REPROVADO POR FALTA,RJGL2456,
+Diego Vitoria,Design para Longevidade,2014,,REPROVADO POR FALTA,UFMQ0127,
+Diego Vitoria,Design de Interacao em Tempo Real,2014,,REPROVADO POR FALTA,COOQ5695,
+Diego Vitoria,Interacao Tangivel,2014,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,Design de Interacao em Tempo Real,2015,,REPROVADO POR FALTA,COOQ5695,
+Diego Vitoria,Design de Apresentacoes,2015,,REPROVADO POR FALTA,BMDH7993,
+Diego Vitoria,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Diego Vitoria,Design Cenico,2015,,REPROVADO POR FALTA,DZNQ4989,
+Diego Vitoria,Design de Visualizacao de Informacoes,2015,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Interacao Tangivel,2015,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,Design de Apresentacoes,2015,,REPROVADO POR FALTA,BMDH7993,
+Diego Vitoria,SemiÃ³tica,2016,,REPROVADO POR FALTA,TOZF3011,
+Diego Vitoria,Design de Apresentacoes,2016,,REPROVADO POR FALTA,BMDH7993,
+Diego Vitoria,Design Cenico,2016,,REPROVADO POR FALTA,DZNQ4989,
+Diego Vitoria,Design de Visualizacao de Informacoes,2016,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,Interacao Tangivel,2016,,REPROVADO POR FALTA,UXMU2899,
+Diego Vitoria,SemiÃ³tica,2016,8.0,APROVADO POR MÉDIA,TOZF3011,
+Diego Vitoria,Design Sonoro,2016,7.0,APROVADO POR MÉDIA,HQDD9963,
+Diego Vitoria,Design de Apresentacoes,2016,8.0,APROVADO POR MÉDIA,BMDH7993,
+Diego Vitoria,Ergonomia,2016,10.0,APROVADO POR MÉDIA,AAZN5771,
+Diego Vitoria,Interacao Tangivel,2016,7.0,APROVADO POR MÉDIA,UXMU2899,
+Diego Vitoria,Design de Interacao Tangivel,2016,7.0,APROVADO POR MÉDIA,VMGY1151,
+Diego Vitoria,Design Colaborativo,2017,,REPROVADO POR FALTA,RJGL2456,
+Diego Vitoria,Design para Longevidade,2017,,REPROVADO POR FALTA,UFMQ0127,
+Diego Vitoria,Design de Visualizacao de Informacoes,2017,,REPROVADO POR FALTA,BKII1063,
+Diego Vitoria,TRANCAMENTO,2017,,,,
+Diego Vitoria,Design Colaborativo,2018,,REPROVADO POR FALTA,RJGL2456,Fernanda Lima
+Diego Vitoria,Design de Interacao em Tempo Real,2018,,REPROVADO POR FALTA,COOQ5695,Pedro Oliveira
+Diego Vitoria,Design Biomimetico,2018,,REPROVADO POR FALTA,RVMF0745,Carla Souza
+Diego Vitoria,Design Cenico,2018,,REPROVADO POR FALTA,DZNQ4989,Ana Costa
+Diego Vitoria,Teoria do Design,2018,,REPROVADO POR FALTA,RMDE3651,Marcos Ferreira
+Diego Vitoria,Tecnicas de Iluminacao,2018,,REPROVADO POR FALTA,XYOT5349,Gustavo Martins
+Diego Vitoria,Teoria do Design,2019,,REPROVADO POR FALTA,RMDE3651,
+Diego Vitoria,DESVINCULADO,2019,,,,
+Mauricio Paula,Storytelling Visual,2011,5.95,APROVADO,OCRQ3517,
+Mauricio Paula,Design Colaborativo,2011,8.75,APROVADO POR MÉDIA,RJGL2456,
+Mauricio Paula,Computacao Grafica,2011,7.0,APROVADO POR MÉDIA,QBWW6998,
+Mauricio Paula,Design para Longevidade,2011,8.0,APROVADO POR MÉDIA,UFMQ0127,
+Mauricio Paula,Design de Mobiliario,2011,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Mauricio Paula,Design de Visualizacao de Informacoes,2011,2.25,REPROVADO,BKII1063,
+Mauricio Paula,Identidade Visual,2011,7.0,APROVADO POR MÉDIA,RJYZ5864,
+Mauricio Paula,Design de Aprendizado,2011,6.13,APROVADO,DOMK5241,
+Mauricio Paula,Projeto Integrado,2011,7.05,APROVADO,ZULH9584,
+Mauricio Paula,Design de Tecnologia Vestivel (Wearable),2011,7.35,APROVADO POR MÉDIA,WPUV3332,
+Mauricio Paula,Gamificacao,2011,8.5,APROVADO POR MÉDIA,JGDZ1333,
+Mauricio Paula,Design de Visualizacao de Informacoes,2011,7.63,APROVADO,BKII1063,
+Mauricio Paula,Ergonomia,2011,7.5,APROVADO POR MÉDIA,AAZN5771,
+Mauricio Paula,Design de Realidade Aumentada (AR) e Virtual (VR),2012,7.05,APROVADO POR MÉDIA,UCTK5222,
+Mauricio Paula,Design de Interfaces Neuromorficas,2012,5.4,APROVADO,NRYN3294,
+Mauricio Paula,Design de Experiencia em Museus,2012,5.28,APROVADO,NRCI1107,
+Mauricio Paula,Design de Joias,2012,7.25,APROVADO POR MÉDIA,BLDG0260,
+Mauricio Paula,Marketing de Produto,2012,10.0,APROVADO POR MÉDIA,FZLO1427,
+Mauricio Paula,Branding,2012,7.75,APROVADO POR MÉDIA,KAWV5083,
+Mauricio Paula,Manipulacao de Imagem,2012,3.75,REPROVADO,JJNT2088,
+Mauricio Paula,Impressao 3D,2012,4.09,REPROVADO,TSYB3211,
+Mauricio Paula,Tipografia,2012,4.2,REPROVADO,VOQA5582,
+Mauricio Paula,Design de Interacao Tangivel,2012,7.75,APROVADO POR MÉDIA,VMGY1151,
+Mauricio Paula,Manipulacao de Imagem,2013,2.85,REPROVADO,JJNT2088,
+Mauricio Paula,Impressao 3D,2013,,REPROVADO POR FALTA,TSYB3211,
+Mauricio Paula,Tipografia,2013,,REPROVADO POR FALTA,VOQA5582,
+Mauricio Paula,TRANCAMENTO,2013,,,,
+Mauricio Paula,DESVINCULADO,2014,,,,
+Fernando Eduarda,Storytelling Visual,2005,,REPROVADO POR FALTA,OCRQ3517,
+Fernando Eduarda,Design Colaborativo,2005,,REPROVADO POR FALTA,RJGL2456,
+Fernando Eduarda,Computacao Grafica,2005,,REPROVADO POR FALTA,QBWW6998,
+Fernando Eduarda,Design para Longevidade,2005,,REPROVADO POR FALTA,UFMQ0127,
+Fernando Eduarda,Design de Mobiliario,2005,,REPROVADO POR FALTA,MKUB0718,
+Fernando Eduarda,Design de Visualizacao de Informacoes,2005,,REPROVADO POR FALTA,BKII1063,
+Fernando Eduarda,Identidade Visual,2005,,REPROVADO POR FALTA,RJYZ5864,
+Fernando Eduarda,DESLIGAMENTO,2008,,,,
+Fernando Eduarda,Storytelling Visual,2006,,REPROVADO POR FALTA,OCRQ3517,
+Fernando Eduarda,Design Colaborativo,2006,,REPROVADO POR FALTA,RJGL2456,
+Fernando Eduarda,Computacao Grafica,2006,,REPROVADO POR FALTA,QBWW6998,
+Fernando Eduarda,Design para Longevidade,2006,,REPROVADO POR FALTA,UFMQ0127,
+Fernando Eduarda,Design de Mobiliario,2006,,REPROVADO POR FALTA,MKUB0718,
+Fernando Eduarda,Design de Visualizacao de Informacoes,2006,,REPROVADO POR FALTA,BKII1063,
+Fernando Eduarda,Identidade Visual,2006,,APROVADO POR FREQÜÊNCIA,RJYZ5864,
+Fernando Eduarda,DESLIGAMENTO,2009,,,,
+Fernando Eduarda,DESLIGAMENTO,2011,,,,
+Thiago Eduardo,Storytelling Visual,2017,8.75,APROVADO POR MÉDIA,OCRQ3517,
+Thiago Eduardo,Design Colaborativo,2017,,DISPENSADO,RJGL2456,
+Thiago Eduardo,Computacao Grafica,2017,,DISPENSADO,QBWW6998,
+Thiago Eduardo,Design para Longevidade,2017,9.1,APROVADO POR MÉDIA,UFMQ0127,
+Thiago Eduardo,Design de Mobiliario,2017,,DISPENSADO,MKUB0718,
+Thiago Eduardo,Design de Visualizacao de Informacoes,2017,9.0,APROVADO POR MÉDIA,BKII1063,
+Thiago Eduardo,Identidade Visual,2017,8.75,APROVADO POR MÉDIA,RJYZ5864,
+Thiago Eduardo,Design de Aprendizado,2017,8.25,APROVADO POR MÉDIA,DOMK5241,
+Thiago Eduardo,Projeto Integrado,2017,10.0,APROVADO POR MÉDIA,ZULH9584,
+Thiago Eduardo,Design de Tecnologia Vestivel (Wearable),2017,8.75,APROVADO POR MÉDIA,WPUV3332,
+Thiago Eduardo,Design de Interfaces Neuromorficas,2017,8.25,APROVADO POR MÉDIA,NRYN3294,
+Thiago Eduardo,Design de Experiencia em Museus,2017,7.5,APROVADO POR MÉDIA,NRCI1107,
+Thiago Eduardo,Ergonomia,2017,9.5,APROVADO POR MÉDIA,AAZN5771,
+Thiago Eduardo,Manipulacao de Imagem,2018,8.15,APROVADO POR MÉDIA,JJNT2088,
+Thiago Eduardo,Gamificacao,2018,8.0,APROVADO POR MÉDIA,JGDZ1333,Luiz Pereira
+Thiago Eduardo,Impressao 3D,2018,9.0,APROVADO POR MÉDIA,TSYB3211,Marcos Ferreira
+Thiago Eduardo,Tipografia,2018,7.1,APROVADO POR MÉDIA,VOQA5582,Joao Silva
+Thiago Eduardo,Design de Joias,2018,8.85,APROVADO POR MÉDIA,BLDG0260,Gustavo Martins
+Thiago Eduardo,Marketing de Produto,2018,9.5,APROVADO POR MÉDIA,FZLO1427,Carla Souza
+Thiago Eduardo,Branding,2018,7.5,APROVADO POR MÉDIA,KAWV5083,Rafaela Gomes
+Thiago Eduardo,Ecodesign,2018,9.0,APROVADO POR MÉDIA,NGVU3526,Diego Cardoso
+Thiago Eduardo,Design de Interacao em Tempo Real,2018,10.0,APROVADO POR MÉDIA,COOQ5695,Pedro Oliveira
+Thiago Eduardo,Design Cibernetico,2018,8.35,APROVADO POR MÉDIA,VFBH8799,Joao Silva
+Thiago Eduardo,Design de Realidade Aumentada (AR) e Virtual (VR),2018,7.0,APROVADO POR MÉDIA,UCTK5222,Juliana Rodrigues
+Thiago Eduardo,Design de Interacao Cultural,2018,7.5,APROVADO POR MÉDIA,JVFQ7338,Gustavo Martins
+Thiago Eduardo,Prototipagem em Papel,2018,8.0,APROVADO POR MÉDIA,QVGO0107,Juliana Rodrigues
+Thiago Eduardo,Design de Produto,2018,8.0,APROVADO POR MÉDIA,LERH6635,Carla Souza
+Thiago Eduardo,Design Computacional,2019,8.0,APROVADO POR MÉDIA,MAEY1044,Maria Santos
+Thiago Eduardo,Design de Narrativa Espacial,2019,8.5,APROVADO POR MÉDIA,SATJ7970,Ana Costa
+Thiago Eduardo,Design Biomimetico,2019,,REPROVADO POR FALTA,RVMF0745,Carla Souza
+Thiago Eduardo,Design Thinking,2019,8.0,APROVADO POR MÉDIA,TPYC6338,Joao Silva
+Thiago Eduardo,Design Experimental,2019,8.0,APROVADO POR MÉDIA,IENT5068,Rafaela Gomes
+Thiago Eduardo,Design de Interacao Corporal,2019,9.75,APROVADO POR MÉDIA,KZBU0327,Fernanda Lima
+Thiago Eduardo,Design de Espacos Virtuais,2019,9.75,APROVADO POR MÉDIA,AOXV5438,Pedro Oliveira
+Thiago Eduardo,Design Parametrico,2019,7.7,APROVADO POR MÉDIA,RRME1020,Juliana Rodrigues
+Thiago Eduardo,SemiÃ³tica,2019,8.0,APROVADO POR MÉDIA,TOZF3011,Luiz Pereira
+Thiago Eduardo,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Thiago Eduardo,Design Biomimetico,2019,9.5,APROVADO POR MÉDIA,RVMF0745,Carla Souza
+Thiago Eduardo,Design Digital,2019,8.95,APROVADO POR MÉDIA,LLKP8902,Patricia Nunes
+Thiago Eduardo,Design Cenico,2019,8.0,APROVADO POR MÉDIA,DZNQ4989,Ana Costa
+Thiago Eduardo,Cultura Visual,2019,8.0,APROVADO POR MÉDIA,MXMO8868,Patricia Nunes
+Thiago Eduardo,Gestao de Marcas,2019,8.57,APROVADO POR MÉDIA,XERB6119,Maria Santos
+Thiago Eduardo,Interacao Tangivel,2019,8.0,APROVADO POR MÉDIA,UXMU2899,Gustavo Martins
+Thiago Eduardo,Etica em Design,2019,9.25,APROVADO POR MÉDIA,TRQX5862,
+Thiago Eduardo,Design de Moda,2019,9.0,APROVADO POR MÉDIA,VNBQ5535,Fernanda Lima
+Thiago Eduardo,Design de Apresentacoes,2020,9.0,APROVADO POR MÉDIA,BMDH7993,Diego Cardoso
+Thiago Eduardo,Teoria da Cor,2020,9.3,APROVADO POR MÉDIA,TWIP0018,Ana Costa
+Thiago Eduardo,Teoria do Design,2020,9.5,APROVADO POR MÉDIA,RMDE3651,Marcos Ferreira
+Thiago Eduardo,Comunicacao Visual,2020,10.0,APROVADO POR MÉDIA,DQUN5124,Luiz Pereira
+Thiago Eduardo,Materiais e Processos,2020,10.0,APROVADO POR MÉDIA,NVRL4030,Juliana Rodrigues
+Thiago Eduardo,Design de Redes Sociais,2020,7.8,APROVADO POR MÉDIA,LSHL3127,Larissa Vieira
+Thiago Eduardo,Design de Realidade Hibrida,2020,9.0,APROVADO POR MÉDIA,WWGS2880,Pedro Oliveira
+Thiago Eduardo,Design de Jogos,2020,10.0,APROVADO POR MÉDIA,MDQZ6072,Joao Silva
+Thiago Eduardo,Design de Interacao Tangivel,2020,10.0,APROVADO POR MÉDIA,VMGY1151,Rafaela Gomes
+Thiago Eduardo,Tecnicas de Iluminacao,2020,9.0,APROVADO POR MÉDIA,XYOT5349,Gustavo Martins
+Thiago Eduardo,INTEGRALIZADO,2020,,,,
+Thiago Eduardo,FORMADO,2021,,,,
+DOCENTE(S): -----------.,Storytelling Visual,2005,9.0,APROVADO POR MÉDIA,OCRQ3517,
+DOCENTE(S): -----------.,Design Colaborativo,2005,7.55,APROVADO POR MÉDIA,RJGL2456,
+DOCENTE(S): -----------.,Computacao Grafica,2005,10.0,APROVADO POR MÉDIA,QBWW6998,
+DOCENTE(S): -----------.,Design para Longevidade,2005,8.0,APROVADO POR MÉDIA,UFMQ0127,
+DOCENTE(S): -----------.,Design de Mobiliario,2005,10.0,APROVADO POR MÉDIA,MKUB0718,
+DOCENTE(S): -----------.,Design de Visualizacao de Informacoes,2005,10.0,APROVADO POR MÉDIA,BKII1063,
+DOCENTE(S): -----------.,Identidade Visual,2005,,APROVADO POR FREQÜÊNCIA,RJYZ5864,
+DOCENTE(S): -----------.,Design de Aprendizado,2005,7.0,APROVADO POR MÉDIA,DOMK5241,
+DOCENTE(S): -----------.,Projeto Integrado,2005,5.55,APROVADO,ZULH9584,
+DOCENTE(S): -----------.,Design de Tecnologia Vestivel (Wearable),2005,9.0,APROVADO POR MÉDIA,WPUV3332,
+DOCENTE(S): -----------.,Design de Interfaces Neuromorficas,2005,10.0,APROVADO POR MÉDIA,NRYN3294,
+DOCENTE(S): -----------.,Design de Experiencia em Museus,2005,7.0,APROVADO POR MÉDIA,NRCI1107,
+DOCENTE(S): -----------.,Ergonomia,2005,8.5,APROVADO POR MÉDIA,AAZN5771,
+DOCENTE(S): -----------.,Manipulacao de Imagem,2006,5.28,APROVADO,JJNT2088,
+DOCENTE(S): -----------.,Gamificacao,2006,9.0,APROVADO POR MÉDIA,JGDZ1333,
+DOCENTE(S): -----------.,Impressao 3D,2006,8.5,APROVADO POR MÉDIA,TSYB3211,
+DOCENTE(S): -----------.,Tipografia,2006,,REPROVADO POR FALTA,VOQA5582,
+DOCENTE(S): -----------.,Design de Joias,2006,8.25,APROVADO POR MÉDIA,BLDG0260,
+DOCENTE(S): -----------.,Marketing de Produto,2006,,REPROVADO POR FALTA,FZLO1427,
+DOCENTE(S): -----------.,Branding,2006,7.0,APROVADO POR MÉDIA,KAWV5083,
+DOCENTE(S): -----------.,Ecodesign,2006,,REPROVADO POR FALTA,NGVU3526,
+DOCENTE(S): -----------.,Design de Interacao em Tempo Real,2006,,REPROVADO POR FALTA,COOQ5695,
+DOCENTE(S): -----------.,Design Cibernetico,2006,,REPROVADO POR FALTA,VFBH8799,
+DOCENTE(S): -----------.,Design de Realidade Aumentada (AR) e Virtual (VR),2006,,REPROVADO POR FALTA,UCTK5222,
+DOCENTE(S): -----------.,Design de Interacao Cultural,2006,,REPROVADO POR FALTA,JVFQ7338,
+DOCENTE(S): -----------.,Design de Produto,2006,,REPROVADO POR FALTA,LERH6635,
+DOCENTE(S): -----------.,DESVINCULADO,2007,,,,
+Vitoria Isadora,Storytelling Visual,2005,,REPROVADO POR FALTA,OCRQ3517,
+Vitoria Isadora,Design Colaborativo,2005,,REPROVADO POR FALTA,RJGL2456,
+Vitoria Isadora,Computacao Grafica,2005,10.0,APROVADO POR MÉDIA,QBWW6998,
+Vitoria Isadora,Design para Longevidade,2005,,REPROVADO POR FALTA,UFMQ0127,
+Vitoria Isadora,Design de Mobiliario,2005,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Vitoria Isadora,Design de Visualizacao de Informacoes,2005,,REPROVADO POR FALTA,BKII1063,
+Vitoria Isadora,Identidade Visual,2005,,REPROVADO POR FALTA,RJYZ5864,
+Vitoria Isadora,DESLIGAMENTO,2006,,,,
+Lais Raul,Storytelling Visual,2007,5.38,APROVADO,OCRQ3517,
+Lais Raul,Design Colaborativo,2007,7.0,APROVADO POR MÉDIA,RJGL2456,
+Lais Raul,Computacao Grafica,2007,7.75,APROVADO POR MÉDIA,QBWW6998,
+Lais Raul,Design para Longevidade,2007,6.25,APROVADO,UFMQ0127,
+Lais Raul,Design de Mobiliario,2007,8.75,APROVADO POR MÉDIA,MKUB0718,
+Lais Raul,Design de Visualizacao de Informacoes,2007,2.88,REPROVADO,BKII1063,
+Lais Raul,Identidade Visual,2007,8.0,APROVADO POR MÉDIA,RJYZ5864,
+Lais Raul,Design de Aprendizado,2007,5.75,APROVADO,DOMK5241,
+Lais Raul,Projeto Integrado,2007,4.1,REPROVADO,ZULH9584,
+Lais Raul,Design de Tecnologia Vestivel (Wearable),2007,6.82,APROVADO,WPUV3332,
+Lais Raul,Cultura Visual,2007,5.88,APROVADO,MXMO8868,
+Lais Raul,Ergonomia,2007,5.7,APROVADO,AAZN5771,
+Lais Raul,Ecodesign,2008,,CANCELADO COM ONUS,NGVU3526,
+Lais Raul,Projeto Integrado,2008,7.03,APROVADO,ZULH9584,
+Lais Raul,Design Thinking,2008,5.5,APROVADO,TPYC6338,
+Lais Raul,Gamificacao,2008,,REPROVADO POR FALTA,JGDZ1333,
+Lais Raul,Design de Visualizacao de Informacoes,2008,6.75,APROVADO,BKII1063,
+Lais Raul,Design de Joias,2008,7.32,APROVADO,BLDG0260,
+Lais Raul,Ecodesign,2008,7.75,APROVADO POR MÉDIA,NGVU3526,
+Lais Raul,Design de Apresentacoes,2008,7.0,APROVADO POR MÉDIA,BMDH7993,
+Lais Raul,Gamificacao,2008,8.5,APROVADO POR MÉDIA,JGDZ1333,
+Lais Raul,Design de Interfaces Neuromorficas,2008,7.05,APROVADO POR MÉDIA,NRYN3294,
+Lais Raul,Design de Experiencia em Museus,2008,7.0,APROVADO POR MÉDIA,NRCI1107,
+Lais Raul,Marketing de Produto,2008,8.0,APROVADO POR MÉDIA,FZLO1427,
+Lais Raul,Branding,2008,6.25,APROVADO,KAWV5083,
+Lais Raul,Design de Interacao em Tempo Real,2009,7.35,APROVADO POR MÉDIA,COOQ5695,
+Lais Raul,Manipulacao de Imagem,2009,2.38,REPROVADO,JJNT2088,
+Lais Raul,Design de Realidade Aumentada (AR) e Virtual (VR),2009,5.0,APROVADO,UCTK5222,
+Lais Raul,Design Experimental,2009,8.5,APROVADO POR MÉDIA,IENT5068,
+Lais Raul,Impressao 3D,2009,7.0,APROVADO POR MÉDIA,TSYB3211,
+Lais Raul,Tipografia,2009,7.25,APROVADO POR MÉDIA,VOQA5582,
+Lais Raul,Design Parametrico,2009,7.0,APROVADO POR MÉDIA,RRME1020,
+Lais Raul,Design Cibernetico,2009,7.1,APROVADO POR MÉDIA,VFBH8799,
+Lais Raul,Manipulacao de Imagem,2009,5.5,APROVADO,JJNT2088,
+Lais Raul,Design de Interacao Cultural,2009,5.0,APROVADO,JVFQ7338,
+Lais Raul,Prototipagem em Papel,2009,7.0,APROVADO POR MÉDIA,QVGO0107,
+Lais Raul,Interacao Tangivel,2009,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Lais Raul,Design de Produto,2009,8.75,APROVADO POR MÉDIA,LERH6635,
+Lais Raul,Design de Espacos Virtuais,2009,7.2,APROVADO POR MÉDIA,AOXV5438,
+Lais Raul,Design Computacional,2010,8.86,APROVADO POR MÉDIA,MAEY1044,
+Lais Raul,Design Sonoro,2010,,REPROVADO POR FALTA,HQDD9963,
+Lais Raul,Design de Narrativa Espacial,2010,9.0,APROVADO POR MÉDIA,SATJ7970,
+Lais Raul,Design Biomimetico,2010,7.3,APROVADO POR MÉDIA,RVMF0745,
+Lais Raul,Design Digital,2010,7.0,APROVADO POR MÉDIA,LLKP8902,
+Lais Raul,Design Cenico,2010,7.4,APROVADO POR MÉDIA,DZNQ4989,
+Lais Raul,METODOLOGIA DE PESQUISA,2010,7.25,APROVADO POR MÉDIA,ADMT0013,
+Lais Raul,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Lais Raul,Design de Interacao Corporal,2010,2.75,REPROVADO,KZBU0327,
+Lais Raul,Gestao de Marcas,2010,7.0,APROVADO POR MÉDIA,XERB6119,
+Lais Raul,Etica em Design,2010,8.25,APROVADO POR MÉDIA,TRQX5862,
+Lais Raul,SemiÃ³tica,2010,5.0,APROVADO,TOZF3011,
+Lais Raul,Teoria da Cor,2010,8.25,APROVADO POR MÉDIA,TWIP0018,
+Lais Raul,Design de Interacao Corporal,2010,8.0,APROVADO POR MÉDIA,KZBU0327,
+Lais Raul,Comunicacao Visual,2010,7.5,APROVADO POR MÉDIA,DQUN5124,
+Lais Raul,Design de Redes Sociais,2010,6.45,APROVADO,LSHL3127,
+Lais Raul,Design Sonoro,2011,5.7,APROVADO,HQDD9963,
+Lais Raul,Design de Impacto Social,2011,7.0,APROVADO POR MÉDIA,HILN2052,
+Lais Raul,Design de Realidade Hibrida,2011,,REPROVADO POR FALTA,WWGS2880,
+Lais Raul,Design de Interacao Social,2011,,REPROVADO POR FALTA,BKYH9817,
+Lais Raul,Design de Jogos,2011,,REPROVADO POR FALTA,MDQZ6072,
+Lais Raul,Materiais e Processos,2011,,CANCELADO COM ONUS,NVRL4030,
+Lais Raul,Design de Interacao Tangivel,2011,,REPROVADO POR FALTA,VMGY1151,
+Lais Raul,Tecnicas de Iluminacao,2011,,REPROVADO POR FALTA,XYOT5349,
+Lais Raul,Design de Realidade Hibrida,2011,,REPROVADO POR FALTA,WWGS2880,
+Lais Raul,Design de Jogos,2011,,REPROVADO POR FALTA,MDQZ6072,
+Lais Raul,Design de Interacao Tangivel,2011,,REPROVADO POR FALTA,VMGY1151,
+Lais Raul,Tecnicas de Iluminacao,2011,,REPROVADO POR FALTA,XYOT5349,
+Lais Raul,Fotografia,2012,,REPROVADO POR FALTA,OJNV9272,
+Lais Raul,Design de Realidade Hibrida,2012,,REPROVADO POR FALTA,WWGS2880,
+Lais Raul,Design de Interacao Tangivel,2012,,REPROVADO POR FALTA,VMGY1151,
+Lais Raul,Tecnicas de Iluminacao,2012,,REPROVADO POR FALTA,XYOT5349,
+Lais Raul,Teoria do Design,2012,,REPROVADO POR FALTA,RMDE3651,
+Lais Raul,Design de Interacao Tangivel,2012,,REPROVADO POR FALTA,VMGY1151,
+Lais Raul,Tecnicas de Iluminacao,2012,,REPROVADO POR FALTA,XYOT5349,
+Lais Raul,Design de Interacao Tangivel,2013,,REPROVADO POR FALTA,VMGY1151,
+Lais Raul,Tecnicas de Iluminacao,2013,,REPROVADO POR FALTA,XYOT5349,
+Lais Raul,DESVINCULADO,2013,,,,
+Amanda Emilly,Storytelling Visual,2008,,REPROVADO POR FALTA,OCRQ3517,
+Amanda Emilly,Design Colaborativo,2008,1.65,REPROVADO,RJGL2456,
+Amanda Emilly,Computacao Grafica,2008,5.88,APROVADO,QBWW6998,
+Amanda Emilly,Design para Longevidade,2008,1.75,REPROVADO,UFMQ0127,
+Amanda Emilly,Design de Mobiliario,2008,8.0,APROVADO POR MÉDIA,MKUB0718,
+Amanda Emilly,Design de Visualizacao de Informacoes,2008,,REPROVADO POR FALTA,BKII1063,
+Amanda Emilly,Identidade Visual,2008,5.75,APROVADO,RJYZ5864,
+Amanda Emilly,Storytelling Visual,2009,,REPROVADO POR FALTA,OCRQ3517,
+Amanda Emilly,Design Colaborativo,2009,,REPROVADO POR FALTA,RJGL2456,
+Amanda Emilly,Design para Longevidade,2009,,REPROVADO POR FALTA,UFMQ0127,
+Amanda Emilly,Design de Visualizacao de Informacoes,2009,,REPROVADO POR FALTA,BKII1063,
+Amanda Emilly,DESVINCULADO,2010,,,,
+Sophie Vinicius,Storytelling Visual,2007,7.0,APROVADO,OCRQ3517,
+Sophie Vinicius,Design Colaborativo,2007,7.0,APROVADO POR MÉDIA,RJGL2456,
+Sophie Vinicius,Computacao Grafica,2007,7.75,APROVADO POR MÉDIA,QBWW6998,
+Sophie Vinicius,Design para Longevidade,2007,7.5,APROVADO POR MÉDIA,UFMQ0127,
+Sophie Vinicius,Design de Mobiliario,2007,8.5,APROVADO POR MÉDIA,MKUB0718,
+Sophie Vinicius,Design de Visualizacao de Informacoes,2007,5.38,APROVADO,BKII1063,
+Sophie Vinicius,Identidade Visual,2007,7.5,APROVADO POR MÉDIA,RJYZ5864,
+Sophie Vinicius,Design de Aprendizado,2007,7.25,APROVADO POR MÉDIA,DOMK5241,
+Sophie Vinicius,Projeto Integrado,2007,5.38,APROVADO,ZULH9584,
+Sophie Vinicius,Design de Tecnologia Vestivel (Wearable),2007,7.0,APROVADO POR MÉDIA,WPUV3332,
+Sophie Vinicius,Design de Interfaces Neuromorficas,2007,7.4,APROVADO POR MÉDIA,NRYN3294,
+Sophie Vinicius,Design de Experiencia em Museus,2007,7.0,APROVADO POR MÉDIA,NRCI1107,
+Sophie Vinicius,Ergonomia,2007,6.97,APROVADO,AAZN5771,
+Sophie Vinicius,Manipulacao de Imagem,2008,8.5,APROVADO POR MÉDIA,JJNT2088,
+Sophie Vinicius,Gamificacao,2008,8.25,APROVADO POR MÉDIA,JGDZ1333,
+Sophie Vinicius,Impressao 3D,2008,7.63,APROVADO POR MÉDIA,TSYB3211,
+Sophie Vinicius,Tipografia,2008,7.0,APROVADO POR MÉDIA,VOQA5582,
+Sophie Vinicius,Design de Joias,2008,9.32,APROVADO POR MÉDIA,BLDG0260,
+Sophie Vinicius,Marketing de Produto,2008,8.3,APROVADO POR MÉDIA,FZLO1427,
+Sophie Vinicius,Branding,2008,8.0,APROVADO POR MÉDIA,KAWV5083,
+Sophie Vinicius,Ecodesign,2008,9.25,APROVADO POR MÉDIA,NGVU3526,
+Sophie Vinicius,Design de Interacao em Tempo Real,2008,5.38,APROVADO,COOQ5695,
+Sophie Vinicius,Design Cibernetico,2008,7.0,APROVADO POR MÉDIA,VFBH8799,
+Sophie Vinicius,Design de Interacao Cultural,2008,7.0,APROVADO POR MÉDIA,JVFQ7338,
+Sophie Vinicius,Cultura Visual,2008,9.5,APROVADO POR MÉDIA,MXMO8868,
+Sophie Vinicius,Teoria do Design,2008,8.25,APROVADO POR MÉDIA,RMDE3651,
+Sophie Vinicius,Prototipagem em Papel,2008,8.5,APROVADO POR MÉDIA,QVGO0107,
+Sophie Vinicius,Design de Produto,2008,8.5,APROVADO POR MÉDIA,LERH6635,
+Sophie Vinicius,Design Computacional,2009,8.45,APROVADO POR MÉDIA,MAEY1044,
+Sophie Vinicius,Design de Realidade Aumentada (AR) e Virtual (VR),2009,5.25,APROVADO,UCTK5222,
+Sophie Vinicius,Design de Narrativa Espacial,2009,9.7,APROVADO POR MÉDIA,SATJ7970,
+Sophie Vinicius,Design Experimental,2009,5.5,APROVADO,IENT5068,
+Sophie Vinicius,Design de Interacao Corporal,2009,9.5,APROVADO POR MÉDIA,KZBU0327,
+Sophie Vinicius,Design de Espacos Virtuais,2009,8.6,APROVADO POR MÉDIA,AOXV5438,
+Sophie Vinicius,Design Parametrico,2009,8.5,APROVADO POR MÉDIA,RRME1020,
+Sophie Vinicius,Design Thinking,2009,7.4,APROVADO POR MÉDIA,TPYC6338,
+Sophie Vinicius,Design Digital,2009,7.1,APROVADO POR MÉDIA,LLKP8902,
+Sophie Vinicius,Design Cenico,2009,9.45,APROVADO POR MÉDIA,DZNQ4989,
+Sophie Vinicius,Gestao de Marcas,2009,9.5,APROVADO POR MÉDIA,XERB6119,
+Sophie Vinicius,Interacao Tangivel,2009,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Sophie Vinicius,Etica em Design,2009,5.63,APROVADO,TRQX5862,
+Sophie Vinicius,Design de Impacto Social,2010,8.25,APROVADO POR MÉDIA,HILN2052,
+Sophie Vinicius,Design de Apresentacoes,2010,8.5,APROVADO POR MÉDIA,BMDH7993,
+Sophie Vinicius,Design Biomimetico,2010,7.0,APROVADO POR MÉDIA,RVMF0745,
+Sophie Vinicius,Teoria da Cor,2010,8.25,APROVADO POR MÉDIA,TWIP0018,
+Sophie Vinicius,Comunicacao Visual,2010,7.75,APROVADO POR MÉDIA,DQUN5124,
+Sophie Vinicius,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Sophie Vinicius,Materiais e Processos,2010,8.0,APROVADO POR MÉDIA,NVRL4030,
+Sophie Vinicius,Design de Redes Sociais,2010,7.0,APROVADO,LSHL3127,
+Sophie Vinicius,Design de Impressao e Publicacao,2010,7.74,APROVADO POR MÉDIA,PBCQ5148,
+Sophie Vinicius,SemiÃ³tica,2010,7.25,APROVADO POR MÉDIA,TOZF3011,
+Sophie Vinicius,Design Sonoro,2010,5.75,APROVADO,HQDD9963,
+Sophie Vinicius,Design de Interacao Tangivel,2010,7.0,APROVADO POR MÉDIA,VMGY1151,
+Sophie Vinicius,Tecnicas de Iluminacao,2010,8.0,APROVADO POR MÉDIA,XYOT5349,
+Sophie Vinicius,INTEGRALIZADO,2010,,,,
+Sophie Vinicius,FORMADO,2010,,,,
+Mauricio Helena,Storytelling Visual,2007,7.0,APROVADO POR MÉDIA,OCRQ3517,
+Mauricio Helena,Design Colaborativo,2007,7.0,APROVADO POR MÉDIA,RJGL2456,
+Mauricio Helena,Computacao Grafica,2007,7.75,APROVADO POR MÉDIA,QBWW6998,
+Mauricio Helena,Design para Longevidade,2007,5.75,APROVADO,UFMQ0127,
+Mauricio Helena,Design de Mobiliario,2007,8.0,APROVADO POR MÉDIA,MKUB0718,
+Mauricio Helena,Design de Visualizacao de Informacoes,2007,3.97,REPROVADO,BKII1063,
+Mauricio Helena,Identidade Visual,2007,7.7,APROVADO POR MÉDIA,RJYZ5864,
+Mauricio Helena,Design de Aprendizado,2008,7.0,APROVADO POR MÉDIA,DOMK5241,
+Mauricio Helena,Projeto Integrado,2008,,REPROVADO POR FALTA,ZULH9584,
+Mauricio Helena,Design de Tecnologia Vestivel (Wearable),2008,9.75,APROVADO POR MÉDIA,WPUV3332,
+Mauricio Helena,Design de Visualizacao de Informacoes,2008,8.0,APROVADO POR MÉDIA,BKII1063,
+Mauricio Helena,Cultura Visual,2008,9.15,APROVADO POR MÉDIA,MXMO8868,
+Mauricio Helena,Ergonomia,2008,8.3,APROVADO POR MÉDIA,AAZN5771,
+Mauricio Helena,Ecodesign,2008,8.75,APROVADO POR MÉDIA,NGVU3526,
+Mauricio Helena,Projeto Integrado,2008,3.6,REPROVADO,ZULH9584,
+Mauricio Helena,Gamificacao,2008,9.25,APROVADO POR MÉDIA,JGDZ1333,
+Mauricio Helena,Design de Interfaces Neuromorficas,2008,7.55,APROVADO POR MÉDIA,NRYN3294,
+Mauricio Helena,Design de Experiencia em Museus,2008,8.0,APROVADO POR MÉDIA,NRCI1107,
+Mauricio Helena,Design de Joias,2008,8.75,APROVADO POR MÉDIA,BLDG0260,
+Mauricio Helena,Branding,2008,9.25,APROVADO POR MÉDIA,KAWV5083,
+Mauricio Helena,Design de Interacao em Tempo Real,2009,9.75,APROVADO POR MÉDIA,COOQ5695,
+Mauricio Helena,Design de Realidade Aumentada (AR) e Virtual (VR),2009,8.0,APROVADO POR MÉDIA,UCTK5222,
+Mauricio Helena,Projeto Integrado,2009,7.25,APROVADO POR MÉDIA,ZULH9584,
+Mauricio Helena,Design Thinking,2009,7.0,APROVADO POR MÉDIA,TPYC6338,
+Mauricio Helena,Impressao 3D,2009,8.38,APROVADO POR MÉDIA,TSYB3211,
+Mauricio Helena,Tipografia,2009,8.5,APROVADO POR MÉDIA,VOQA5582,
+Mauricio Helena,Interacao Tangivel,2009,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Mauricio Helena,Design Parametrico,2009,8.5,APROVADO POR MÉDIA,RRME1020,
+Mauricio Helena,Design Cibernetico,2009,8.8,APROVADO POR MÉDIA,VFBH8799,
+Mauricio Helena,Manipulacao de Imagem,2009,8.0,APROVADO POR MÉDIA,JJNT2088,
+Mauricio Helena,Design de Interacao Cultural,2009,7.25,APROVADO POR MÉDIA,JVFQ7338,
+Mauricio Helena,Prototipagem em Papel,2009,9.25,APROVADO POR MÉDIA,QVGO0107,
+Mauricio Helena,Marketing de Produto,2009,9.5,APROVADO POR MÉDIA,FZLO1427,
+Mauricio Helena,Design de Produto,2009,8.5,APROVADO POR MÉDIA,LERH6635,
+Mauricio Helena,Design de Espacos Virtuais,2009,9.05,APROVADO POR MÉDIA,AOXV5438,
+Mauricio Helena,Design Computacional,2010,9.44,APROVADO POR MÉDIA,MAEY1044,
+Mauricio Helena,Design de Apresentacoes,2010,9.5,APROVADO POR MÉDIA,BMDH7993,
+Mauricio Helena,Design de Narrativa Espacial,2010,9.3,APROVADO POR MÉDIA,SATJ7970,
+Mauricio Helena,Design Digital,2010,9.1,APROVADO POR MÉDIA,LLKP8902,
+Mauricio Helena,Design Experimental,2010,7.75,APROVADO POR MÉDIA,IENT5068,
+Mauricio Helena,Design de Interacao Corporal,2010,9.0,APROVADO POR MÉDIA,KZBU0327,
+Mauricio Helena,Gestao de Marcas,2010,9.5,APROVADO POR MÉDIA,XERB6119,
+Mauricio Helena,Etica em Design,2010,8.5,APROVADO POR MÉDIA,TRQX5862,
+Mauricio Helena,Design Biomimetico,2010,9.0,APROVADO POR MÉDIA,RVMF0745,
+Mauricio Helena,Teoria da Cor,2010,9.0,APROVADO POR MÉDIA,TWIP0018,
+Mauricio Helena,Design Cenico,2010,9.25,APROVADO POR MÉDIA,DZNQ4989,
+Mauricio Helena,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Mauricio Helena,Teoria do Design,2010,9.0,APROVADO POR MÉDIA,RMDE3651,
+Mauricio Helena,Comunicacao Visual,2010,8.75,APROVADO POR MÉDIA,DQUN5124,
+Mauricio Helena,Design de Redes Sociais,2010,7.15,APROVADO POR MÉDIA,LSHL3127,
+Mauricio Helena,Design de Impressao e Publicacao,2010,9.25,APROVADO POR MÉDIA,PBCQ5148,
+Mauricio Helena,Design de Moda,2010,6.9,APROVADO,VNBQ5535,
+Mauricio Helena,SemiÃ³tica,2011,10.0,APROVADO POR MÉDIA,TOZF3011,
+Mauricio Helena,Design Sonoro,2011,8.3,APROVADO POR MÉDIA,HQDD9963,
+Mauricio Helena,Design de Impacto Social,2011,8.5,APROVADO POR MÉDIA,HILN2052,
+Mauricio Helena,Materiais e Processos,2011,,CANCELADO COM ONUS,NVRL4030,
+Mauricio Helena,Design de Interacao Tangivel,2011,9.0,APROVADO POR MÉDIA,VMGY1151,
+Mauricio Helena,Tecnicas de Iluminacao,2011,10.0,APROVADO POR MÉDIA,XYOT5349,
+Mauricio Helena,INTEGRALIZADO,2011,,,,
+Mauricio Helena,FORMADO,2011,,,,
+Natalia Caroline,Storytelling Visual,2011,7.0,APROVADO POR MÉDIA,OCRQ3517,
+Natalia Caroline,Design Colaborativo,2011,5.0,APROVADO,RJGL2456,
+Natalia Caroline,Computacao Grafica,2011,5.25,APROVADO,QBWW6998,
+Natalia Caroline,Design para Longevidade,2011,5.5,APROVADO,UFMQ0127,
+Natalia Caroline,Design de Mobiliario,2011,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Natalia Caroline,Design de Visualizacao de Informacoes,2011,7.25,APROVADO POR MÉDIA,BKII1063,
+Natalia Caroline,Identidade Visual,2011,7.63,APROVADO,RJYZ5864,
+Natalia Caroline,Design de Aprendizado,2012,7.5,APROVADO POR MÉDIA,DOMK5241,
+Natalia Caroline,Projeto Integrado,2012,3.4,REPROVADO,ZULH9584,
+Natalia Caroline,Design de Tecnologia Vestivel (Wearable),2012,7.4,APROVADO POR MÉDIA,WPUV3332,
+Natalia Caroline,Design de Interfaces Neuromorficas,2012,6.23,APROVADO,NRYN3294,
+Natalia Caroline,Design de Experiencia em Museus,2012,3.5,REPROVADO,NRCI1107,
+Natalia Caroline,Ergonomia,2012,7.88,APROVADO POR MÉDIA,AAZN5771,
+Natalia Caroline,Manipulacao de Imagem,2012,5.8,APROVADO,JJNT2088,
+Natalia Caroline,Projeto Integrado,2012,6.5,APROVADO,ZULH9584,
+Natalia Caroline,Gamificacao,2012,8.75,APROVADO POR MÉDIA,JGDZ1333,
+Natalia Caroline,Impressao 3D,2012,7.0,APROVADO POR MÉDIA,TSYB3211,
+Natalia Caroline,Design de Experiencia em Museus,2012,7.5,APROVADO POR MÉDIA,NRCI1107,
+Natalia Caroline,Cultura Visual,2012,,REPROVADO POR FALTA,MXMO8868,
+Natalia Caroline,Design de Joias,2012,7.65,APROVADO POR MÉDIA,BLDG0260,
+Natalia Caroline,Branding,2012,8.75,APROVADO POR MÉDIA,KAWV5083,
+Natalia Caroline,Design de Interacao em Tempo Real,2013,8.65,APROVADO POR MÉDIA,COOQ5695,
+Natalia Caroline,Design Cibernetico,2013,7.13,APROVADO POR MÉDIA,VFBH8799,
+Natalia Caroline,Design de Realidade Aumentada (AR) e Virtual (VR),2013,9.25,APROVADO POR MÉDIA,UCTK5222,
+Natalia Caroline,Design de Interacao Cultural,2013,5.13,APROVADO,JVFQ7338,
+Natalia Caroline,Prototipagem em Papel,2013,8.0,APROVADO POR MÉDIA,QVGO0107,
+Natalia Caroline,Design de Produto,2013,7.75,APROVADO POR MÉDIA,LERH6635,
+Natalia Caroline,Design Computacional,2013,9.3,APROVADO POR MÉDIA,MAEY1044,
+Natalia Caroline,Design de Narrativa Espacial,2013,8.9,APROVADO POR MÉDIA,SATJ7970,
+Natalia Caroline,Design Thinking,2013,9.0,APROVADO POR MÉDIA,TPYC6338,
+Natalia Caroline,Marketing de Produto,2013,9.0,APROVADO POR MÉDIA,FZLO1427,
+Natalia Caroline,Design de Interacao Corporal,2013,8.0,APROVADO POR MÉDIA,KZBU0327,
+Natalia Caroline,Design de Espacos Virtuais,2013,7.0,APROVADO POR MÉDIA,AOXV5438,
+Natalia Caroline,Design Parametrico,2013,9.5,APROVADO POR MÉDIA,RRME1020,
+Natalia Caroline,Ecodesign,2014,7.5,APROVADO POR MÉDIA,NGVU3526,
+Natalia Caroline,Design Digital,2014,8.2,APROVADO POR MÉDIA,LLKP8902,
+Natalia Caroline,Design Experimental,2014,2.75,REPROVADO,IENT5068,
+Natalia Caroline,Design Cenico,2014,5.0,APROVADO,DZNQ4989,
+Natalia Caroline,Cultura Visual,2014,6.47,APROVADO,MXMO8868,
+Natalia Caroline,Tipografia,2014,2.65,REPROVADO,VOQA5582,
+Natalia Caroline,Modelagem 3D,2014,,REPROVADO POR FALTA,PPDN7220,
+Natalia Caroline,Gestao de Marcas,2014,5.65,APROVADO,XERB6119,
+Natalia Caroline,Interacao Tangivel,2014,7.0,APROVADO POR MÉDIA,UXMU2899,
+Natalia Caroline,Etica em Design,2014,9.0,APROVADO POR MÉDIA,TRQX5862,
+Natalia Caroline,Design de Impacto Social,2014,7.25,APROVADO POR MÉDIA,HILN2052,
+Natalia Caroline,Design de Apresentacoes,2014,7.5,APROVADO POR MÉDIA,BMDH7993,
+Natalia Caroline,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Natalia Caroline,Design Biomimetico,2014,8.5,APROVADO POR MÉDIA,RVMF0745,
+Natalia Caroline,Teoria da Cor,2014,8.0,APROVADO POR MÉDIA,TWIP0018,
+Natalia Caroline,Design Experimental,2014,7.75,APROVADO POR MÉDIA,IENT5068,
+Natalia Caroline,Teoria do Design,2014,7.0,APROVADO POR MÉDIA,RMDE3651,
+Natalia Caroline,Comunicacao Visual,2014,9.0,APROVADO POR MÉDIA,DQUN5124,
+Natalia Caroline,Design de Redes Sociais,2014,7.52,APROVADO POR MÉDIA,LSHL3127,
+Natalia Caroline,SemiÃ³tica,2015,7.0,APROVADO POR MÉDIA,TOZF3011,
+Natalia Caroline,Tipografia,2015,7.0,APROVADO POR MÉDIA,VOQA5582,
+Natalia Caroline,Design de Interacao Social,2015,5.75,APROVADO,BKYH9817,
+Natalia Caroline,Design de Interacao Tangivel,2015,6.75,APROVADO,VMGY1151,
+Natalia Caroline,Design de Impressao e Publicacao,2015,9.5,APROVADO POR MÉDIA,PBCQ5148,
+Natalia Caroline,Tecnicas de Iluminacao,2015,,REPROVADO POR FALTA,XYOT5349,
+Natalia Caroline,Design de Moda,2015,8.75,APROVADO POR MÉDIA,VNBQ5535,
+Natalia Caroline,Tecnicas de Iluminacao,2015,10.0,APROVADO POR MÉDIA,XYOT5349,
+Natalia Caroline,INTEGRALIZADO,2015,,,,
+Natalia Caroline,FORMADO,2016,,,,
+Catarina Nicolas,Storytelling Visual,2011,5.53,APROVADO,OCRQ3517,
+Catarina Nicolas,Design Colaborativo,2011,1.85,REPROVADO,RJGL2456,
+Catarina Nicolas,Computacao Grafica,2011,7.0,APROVADO POR MÉDIA,QBWW6998,
+Catarina Nicolas,Design para Longevidade,2011,7.0,APROVADO POR MÉDIA,UFMQ0127,
+Catarina Nicolas,Design de Mobiliario,2011,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Catarina Nicolas,Design de Visualizacao de Informacoes,2011,6.0,APROVADO,BKII1063,
+Catarina Nicolas,Identidade Visual,2011,8.25,APROVADO POR MÉDIA,RJYZ5864,
+Catarina Nicolas,Design Colaborativo,2011,1.98,REPROVADO,RJGL2456,
+Catarina Nicolas,Design Thinking,2011,7.0,APROVADO POR MÉDIA,TPYC6338,
+Catarina Nicolas,Design de Experiencia em Museus,2011,5.0,APROVADO,NRCI1107,
+Catarina Nicolas,Cultura Visual,2011,7.0,APROVADO POR MÉDIA,MXMO8868,
+Catarina Nicolas,Design de Joias,2011,8.2,APROVADO POR MÉDIA,BLDG0260,
+Catarina Nicolas,Ergonomia,2011,7.75,APROVADO POR MÉDIA,AAZN5771,
+Catarina Nicolas,Design de Interacao em Tempo Real,2012,7.0,APROVADO POR MÉDIA,COOQ5695,
+Catarina Nicolas,Design Colaborativo,2012,5.45,APROVADO,RJGL2456,
+Catarina Nicolas,Design de Apresentacoes,2012,7.0,APROVADO POR MÉDIA,BMDH7993,
+Catarina Nicolas,Gamificacao,2012,7.5,APROVADO POR MÉDIA,JGDZ1333,
+Catarina Nicolas,Design de Interfaces Neuromorficas,2012,,REPROVADO POR FALTA,NRYN3294,
+Catarina Nicolas,Tipografia,2012,,REPROVADO POR FALTA,VOQA5582,
+Catarina Nicolas,Design de Aprendizado,2012,5.0,APROVADO,DOMK5241,
+Catarina Nicolas,Projeto Integrado,2012,,REPROVADO POR FALTA,ZULH9584,
+Catarina Nicolas,Design de Tecnologia Vestivel (Wearable),2012,4.5,REPROVADO,WPUV3332,
+Catarina Nicolas,Design de Interfaces Neuromorficas,2012,,REPROVADO POR FALTA,NRYN3294,
+Catarina Nicolas,Branding,2012,4.0,REPROVADO,KAWV5083,
+Catarina Nicolas,Projeto Integrado,2013,,REPROVADO POR FALTA,ZULH9584,
+Catarina Nicolas,Design de Tecnologia Vestivel (Wearable),2013,8.0,APROVADO POR MÉDIA,WPUV3332,
+Catarina Nicolas,Design de Interfaces Neuromorficas,2013,7.5,APROVADO POR MÉDIA,NRYN3294,
+Catarina Nicolas,Tipografia,2013,3.53,REPROVADO,VOQA5582,
+Catarina Nicolas,Branding,2013,7.0,APROVADO POR MÉDIA,KAWV5083,
+Catarina Nicolas,Design Parametrico,2013,7.75,APROVADO POR MÉDIA,RRME1020,
+Catarina Nicolas,Ecodesign,2013,7.0,APROVADO POR MÉDIA,NGVU3526,
+Catarina Nicolas,Manipulacao de Imagem,2013,3.55,REPROVADO,JJNT2088,
+Catarina Nicolas,Projeto Integrado,2013,,REPROVADO POR FALTA,ZULH9584,
+Catarina Nicolas,Impressao 3D,2013,5.03,APROVADO,TSYB3211,
+Catarina Nicolas,Tipografia,2013,2.5,REPROVADO,VOQA5582,
+Catarina Nicolas,Interacao Tangivel,2013,,REPROVADO POR FALTA,UXMU2899,
+Catarina Nicolas,Design de Produto,2013,8.0,APROVADO POR MÉDIA,LERH6635,
+Catarina Nicolas,Design Cibernetico,2014,4.68,REPROVADO,VFBH8799,
+Catarina Nicolas,Manipulacao de Imagem,2014,2.85,REPROVADO,JJNT2088,
+Catarina Nicolas,Design de Realidade Aumentada (AR) e Virtual (VR),2014,6.75,APROVADO,UCTK5222,
+Catarina Nicolas,Prototipagem em Papel,2014,,REPROVADO POR FALTA,QVGO0107,
+Catarina Nicolas,Interacao Tangivel,2014,,REPROVADO POR FALTA,UXMU2899,
+Catarina Nicolas,Design de Espacos Virtuais,2014,2.15,REPROVADO,AOXV5438,
+Catarina Nicolas,Etica em Design,2014,7.75,APROVADO POR MÉDIA,TRQX5862,
+Catarina Nicolas,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Catarina Nicolas,TRANCAMENTO,2014,,,,
+Catarina Nicolas,DESVINCULADO,2015,,,,
+Alice Eloah,Storytelling Visual,2012,8.0,APROVADO POR MÉDIA,OCRQ3517,
+Alice Eloah,Design Colaborativo,2012,0.6,REPROVADO,RJGL2456,
+Alice Eloah,Computacao Grafica,2012,7.0,APROVADO POR MÉDIA,QBWW6998,
+Alice Eloah,Design para Longevidade,2012,7.5,APROVADO POR MÉDIA,UFMQ0127,
+Alice Eloah,Design de Mobiliario,2012,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Alice Eloah,Design de Visualizacao de Informacoes,2012,7.0,APROVADO POR MÉDIA,BKII1063,
+Alice Eloah,Identidade Visual,2012,8.5,APROVADO POR MÉDIA,RJYZ5864,
+Alice Eloah,Design Colaborativo,2013,0.9,REPROVADO,RJGL2456,
+Alice Eloah,Design Thinking,2013,7.75,APROVADO POR MÉDIA,TPYC6338,
+Alice Eloah,Gamificacao,2013,7.25,APROVADO POR MÉDIA,JGDZ1333,
+Alice Eloah,Design de Interfaces Neuromorficas,2013,7.5,APROVADO POR MÉDIA,NRYN3294,
+Alice Eloah,Design de Experiencia em Museus,2013,8.5,APROVADO POR MÉDIA,NRCI1107,
+Alice Eloah,Design de Joias,2013,9.25,APROVADO POR MÉDIA,BLDG0260,
+Alice Eloah,Ergonomia,2013,7.0,APROVADO POR MÉDIA,AAZN5771,
+Alice Eloah,Design de Interacao em Tempo Real,2013,8.5,APROVADO POR MÉDIA,COOQ5695,
+Alice Eloah,Manipulacao de Imagem,2013,7.0,APROVADO POR MÉDIA,JJNT2088,
+Alice Eloah,Impressao 3D,2013,7.45,APROVADO POR MÉDIA,TSYB3211,
+Alice Eloah,Cultura Visual,2013,7.6,APROVADO POR MÉDIA,MXMO8868,
+Alice Eloah,Tipografia,2013,2.5,REPROVADO,VOQA5582,
+Alice Eloah,Branding,2013,7.0,APROVADO POR MÉDIA,KAWV5083,
+Alice Eloah,Design Cibernetico,2014,,REPROVADO POR FALTA,VFBH8799,
+Alice Eloah,Design de Realidade Aumentada (AR) e Virtual (VR),2014,,REPROVADO POR FALTA,UCTK5222,
+Alice Eloah,Design de Interacao Cultural,2014,,REPROVADO POR FALTA,JVFQ7338,
+Alice Eloah,Prototipagem em Papel,2014,,REPROVADO POR FALTA,QVGO0107,
+Alice Eloah,Design de Produto,2014,,REPROVADO POR FALTA,LERH6635,
+Alice Eloah,Design de Apresentacoes,2014,,REPROVADO POR FALTA,BMDH7993,
+Alice Eloah,Design de Interacao Cultural,2014,,REPROVADO POR FALTA,JVFQ7338,
+Alice Eloah,Design de Apresentacoes,2015,,REPROVADO POR FALTA,BMDH7993,
+Alice Eloah,DESVINCULADO,2015,,,,
+Daniel Nathanael,DESLIGAMENTO,2012,,,,
+Lorena Eloah,Storytelling Visual,2009,,REPROVADO POR FALTA,OCRQ3517,
+Lorena Eloah,Design Colaborativo,2009,1.25,REPROVADO,RJGL2456,
+Lorena Eloah,Computacao Grafica,2009,,REPROVADO POR FALTA,QBWW6998,
+Lorena Eloah,Design para Longevidade,2009,,REPROVADO POR FALTA,UFMQ0127,
+Lorena Eloah,Design de Mobiliario,2009,,REPROVADO POR FALTA,MKUB0718,
+Lorena Eloah,Design de Visualizacao de Informacoes,2009,,REPROVADO POR FALTA,BKII1063,
+Lorena Eloah,Identidade Visual,2009,,REPROVADO POR FALTA,RJYZ5864,
+Lorena Eloah,DESLIGAMENTO,2009,,,,
+Maria Raul,Storytelling Visual,2013,8.05,APROVADO POR MÉDIA,OCRQ3517,
+Maria Raul,Design Colaborativo,2013,8.75,APROVADO POR MÉDIA,RJGL2456,
+Maria Raul,Computacao Grafica,2013,9.65,APROVADO POR MÉDIA,QBWW6998,
+Maria Raul,Design para Longevidade,2013,8.75,APROVADO POR MÉDIA,UFMQ0127,
+Maria Raul,Design de Mobiliario,2013,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Maria Raul,Design de Visualizacao de Informacoes,2013,8.25,APROVADO,BKII1063,
+Maria Raul,Identidade Visual,2013,8.75,APROVADO POR MÉDIA,RJYZ5864,
+Maria Raul,Design de Aprendizado,2014,2.4,REPROVADO,DOMK5241,
+Maria Raul,Projeto Integrado,2014,1.85,REPROVADO,ZULH9584,
+Maria Raul,Design de Tecnologia Vestivel (Wearable),2014,8.25,APROVADO POR MÉDIA,WPUV3332,
+Maria Raul,Design de Interfaces Neuromorficas,2014,,REPROVADO POR FALTA,NRYN3294,
+Maria Raul,Design de Experiencia em Museus,2014,8.93,APROVADO POR MÉDIA,NRCI1107,
+Maria Raul,Ergonomia,2014,,REPROVADO POR FALTA,AAZN5771,
+Maria Raul,Ecodesign,2014,8.25,APROVADO POR MÉDIA,NGVU3526,
+Maria Raul,Design de Aprendizado,2014,,REPROVADO POR FALTA,DOMK5241,
+Maria Raul,Projeto Integrado,2014,,REPROVADO POR FALTA,ZULH9584,
+Maria Raul,Gamificacao,2014,7.0,APROVADO POR MÉDIA,JGDZ1333,
+Maria Raul,Design de Interfaces Neuromorficas,2014,7.6,APROVADO POR MÉDIA,NRYN3294,
+Maria Raul,Tipografia,2014,,REPROVADO POR FALTA,VOQA5582,
+Maria Raul,Design de Joias,2014,7.0,APROVADO POR MÉDIA,BLDG0260,
+Maria Raul,Design de Interacao em Tempo Real,2015,7.75,APROVADO POR MÉDIA,COOQ5695,
+Maria Raul,Manipulacao de Imagem,2015,,REPROVADO POR FALTA,JJNT2088,
+Maria Raul,Impressao 3D,2015,6.5,APROVADO,TSYB3211,
+Maria Raul,Tipografia,2015,,REPROVADO POR FALTA,VOQA5582,
+Maria Raul,Branding,2015,7.0,APROVADO POR MÉDIA,KAWV5083,
+Maria Raul,Design Cibernetico,2015,7.65,APROVADO POR MÉDIA,VFBH8799,
+Maria Raul,Design de Realidade Aumentada (AR) e Virtual (VR),2015,,REPROVADO POR FALTA,UCTK5222,
+Maria Raul,Projeto Integrado,2015,,REPROVADO POR FALTA,ZULH9584,
+Maria Raul,Design Thinking,2015,7.65,APROVADO POR MÉDIA,TPYC6338,
+Maria Raul,Prototipagem em Papel,2015,,REPROVADO POR FALTA,QVGO0107,
+Maria Raul,Ergonomia,2015,5.0,APROVADO,AAZN5771,
+Maria Raul,Design de Produto,2015,7.0,APROVADO POR MÉDIA,LERH6635,
+Maria Raul,Design Parametrico,2015,,REPROVADO POR FALTA,RRME1020,
+Maria Raul,Design Computacional,2016,,REPROVADO POR FALTA,MAEY1044,
+Maria Raul,Manipulacao de Imagem,2016,,REPROVADO POR FALTA,JJNT2088,
+Maria Raul,Cultura Visual,2016,7.0,APROVADO POR MÉDIA,MXMO8868,
+Maria Raul,Tipografia,2016,,REPROVADO POR FALTA,VOQA5582,
+Maria Raul,Interacao Tangivel,2016,9.0,APROVADO POR MÉDIA,UXMU2899,
+Maria Raul,Design Parametrico,2016,,REPROVADO POR FALTA,RRME1020,
+Maria Raul,Design de Aprendizado,2016,,REPROVADO POR FALTA,DOMK5241,
+Maria Raul,Design de Realidade Aumentada (AR) e Virtual (VR),2016,,REPROVADO POR FALTA,UCTK5222,
+Maria Raul,Projeto Integrado,2016,,REPROVADO POR FALTA,ZULH9584,
+Maria Raul,Design de Apresentacoes,2016,7.5,APROVADO POR MÉDIA,BMDH7993,
+Maria Raul,Design de Interacao Cultural,2016,,REPROVADO POR FALTA,JVFQ7338,
+Maria Raul,Design Cenico,2016,,REPROVADO POR FALTA,DZNQ4989,
+Maria Raul,Prototipagem em Papel,2016,,REPROVADO POR FALTA,QVGO0107,
+Maria Raul,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Maria Raul,Etica em Design,2016,8.0,APROVADO POR MÉDIA,TRQX5862,
+Maria Raul,Design Computacional,2017,,REPROVADO POR FALTA,MAEY1044,
+Maria Raul,Design Sonoro,2017,1.25,REPROVADO,HQDD9963,
+Maria Raul,Manipulacao de Imagem,2017,,REPROVADO POR FALTA,JJNT2088,
+Maria Raul,Tipografia,2017,5.0,APROVADO,VOQA5582,
+Maria Raul,Design Parametrico,2017,6.49,APROVADO,RRME1020,
+Maria Raul,Design de Aprendizado,2017,,REPROVADO POR FALTA,DOMK5241,
+Maria Raul,Projeto Integrado,2017,3.91,REPROVADO,ZULH9584,
+Maria Raul,Design de Interacao Cultural,2017,5.0,APROVADO,JVFQ7338,
+Maria Raul,Prototipagem em Papel,2017,5.0,APROVADO,QVGO0107,
+Maria Raul,Design Computacional,2018,3.25,REPROVADO,MAEY1044,Maria Santos
+Maria Raul,Design Sonoro,2018,7.0,APROVADO POR MÉDIA,HQDD9963,Patricia Nunes
+Maria Raul,Manipulacao de Imagem,2018,6.38,APROVADO,JJNT2088,
+Maria Raul,Design de Narrativa Espacial,2018,8.5,APROVADO POR MÉDIA,SATJ7970,Ana Costa
+Maria Raul,Teoria do Design,2018,,REPROVADO POR FALTA,RMDE3651,Marcos Ferreira
+Maria Raul,Design de Interacao Corporal,2018,9.25,APROVADO POR MÉDIA,KZBU0327,
+Maria Raul,Design de Aprendizado,2018,4.55,REPROVADO,DOMK5241,Ana Costa
+Maria Raul,Projeto Integrado,2018,7.5,APROVADO POR MÉDIA,ZULH9584,Fernanda Lima
+Maria Raul,Design Digital,2018,8.28,APROVADO POR MÉDIA,LLKP8902,Patricia Nunes
+Maria Raul,Design Cenico,2018,,REPROVADO POR FALTA,DZNQ4989,Ana Costa
+Maria Raul,Design de Interacao Tangivel,2018,1.55,REPROVADO,VMGY1151,Rafaela Gomes
+Maria Raul,Design de Impressao e Publicacao,2018,8.18,APROVADO POR MÉDIA,PBCQ5148,Gustavo Martins
+Maria Raul,Design de Moda,2018,8.5,APROVADO POR MÉDIA,VNBQ5535,Fernanda Lima
+Maria Raul,Design Computacional,2019,4.72,REPROVADO,MAEY1044,Maria Santos
+Maria Raul,Design Biomimetico,2019,,RENOVAÇÃO DE ESTÁGIO,RVMF0745,Carla Souza
+Maria Raul,Teoria da Cor,2019,8.75,APROVADO POR MÉDIA,TWIP0018,Ana Costa
+Maria Raul,Teoria do Design,2019,,REPROVADO POR FALTA,RMDE3651,Marcos Ferreira
+Maria Raul,Marketing de Produto,2019,7.5,APROVADO POR MÉDIA,FZLO1427,Carla Souza
+Maria Raul,SemiÃ³tica,2019,8.0,APROVADO POR MÉDIA,TOZF3011,Luiz Pereira
+Maria Raul,Design de Aprendizado,2019,5.53,APROVADO,DOMK5241,Ana Costa
+Maria Raul,Design de Realidade Aumentada (AR) e Virtual (VR),2019,7.0,APROVADO POR MÉDIA,UCTK5222,Juliana Rodrigues
+Maria Raul,Design Biomimetico,2019,8.0,APROVADO POR MÉDIA,RVMF0745,Carla Souza
+Maria Raul,Design Cenico,2019,2.0,REPROVADO,DZNQ4989,Ana Costa
+Maria Raul,Teoria do Design,2019,5.9,APROVADO,RMDE3651,Marcos Ferreira
+Maria Raul,Gestao de Marcas,2019,4.1,REPROVADO,XERB6119,
+Maria Raul,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Maria Raul,,,,,,-----------
+Maria Raul,Design de Interacao Tangivel,2019,5.0,APROVADO,VMGY1151,Rafaela Gomes
+Maria Raul,Design Computacional,2020,9.5,APROVADO POR MÉDIA,MAEY1044,Maria Santos
+Maria Raul,Design Experimental,2020,7.5,APROVADO POR MÉDIA,IENT5068,Rafaela Gomes
+Maria Raul,Design de Espacos Virtuais,2020,9.5,APROVADO POR MÉDIA,AOXV5438,Pedro Oliveira
+Maria Raul,Tecnicas de Iluminacao,2020,,REPROVADO POR FALTA,XYOT5349,Gustavo Martins
+Maria Raul,Design Cenico,2020,7.0,APROVADO POR MÉDIA,DZNQ4989,Ana Costa
+Maria Raul,Gestao de Marcas,2020,8.0,APROVADO POR MÉDIA,XERB6119,Maria Santos
+Maria Raul,Comunicacao Visual,2021,7.0,APROVADO POR MÉDIA,DQUN5124,Luiz Pereira
+Maria Raul,Design de Redes Sociais,2021,8.0,APROVADO POR MÉDIA,LSHL3127,Larissa Vieira
+Maria Raul,Tecnicas de Iluminacao,2021,8.0,APROVADO POR MÉDIA,XYOT5349,Gustavo Martins
+Maria Raul,Design de Impacto Social,2021,10.0,APROVADO POR MÉDIA,HILN2052,Rafaela Gomes
+Maria Raul,INTEGRALIZADO,2021,,,,
+Maria Raul,FORMADO,2022,,,,
+Vitor Rafael,Storytelling Visual,2007,,REPROVADO POR FALTA,OCRQ3517,
+Vitor Rafael,Design Colaborativo,2007,,REPROVADO POR FALTA,RJGL2456,
+Vitor Rafael,Computacao Grafica,2007,,REPROVADO POR FALTA,QBWW6998,
+Vitor Rafael,Design para Longevidade,2007,,REPROVADO POR FALTA,UFMQ0127,
+Vitor Rafael,Design de Mobiliario,2007,,REPROVADO POR FALTA,MKUB0718,
+Vitor Rafael,Design de Visualizacao de Informacoes,2007,,REPROVADO POR FALTA,BKII1063,
+Vitor Rafael,Identidade Visual,2007,,REPROVADO POR FALTA,RJYZ5864,
+Guilhermina Alice,Storytelling Visual,2012,,REPROVADO POR FALTA,OCRQ3517,
+Guilhermina Alice,Design Colaborativo,2012,,REPROVADO POR FALTA,RJGL2456,
+Guilhermina Alice,Computacao Grafica,2012,,REPROVADO POR FALTA,QBWW6998,
+Guilhermina Alice,Design para Longevidade,2012,,REPROVADO POR FALTA,UFMQ0127,
+Guilhermina Alice,Design de Mobiliario,2012,,REPROVADO POR FALTA,MKUB0718,
+Guilhermina Alice,Design de Visualizacao de Informacoes,2012,,REPROVADO POR FALTA,BKII1063,
+Guilhermina Alice,Identidade Visual,2012,,REPROVADO POR FALTA,RJYZ5864,
+Guilhermina Alice,DESVINCULADO,2013,,,,
+Fernanda Felipe,Storytelling Visual,2007,,REPROVADO POR FALTA,OCRQ3517,
+Fernanda Felipe,Design Colaborativo,2007,,REPROVADO POR FALTA,RJGL2456,
+Fernanda Felipe,Computacao Grafica,2007,,REPROVADO POR FALTA,QBWW6998,
+Fernanda Felipe,Design para Longevidade,2007,,REPROVADO POR FALTA,UFMQ0127,
+Fernanda Felipe,Design de Mobiliario,2007,,REPROVADO POR FALTA,MKUB0718,
+Fernanda Felipe,Design de Visualizacao de Informacoes,2007,,REPROVADO POR FALTA,BKII1063,
+Fernanda Felipe,Identidade Visual,2007,,REPROVADO POR FALTA,RJYZ5864,
+Fernanda Felipe,DESVINCULADO,2007,,,,
+Renato Carolina,Storytelling Visual,2018,7.25,APROVADO POR MÉDIA,OCRQ3517,Maria Santos
+Renato Carolina,Design Colaborativo,2018,,REPROVADO POR FALTA,RJGL2456,Fernanda Lima
+Renato Carolina,Computacao Grafica,2018,9.25,APROVADO POR MÉDIA,QBWW6998,Marcos Ferreira
+Renato Carolina,Design para Longevidade,2018,,REPROVADO POR FALTA,UFMQ0127,Marcos Ferreira
+Renato Carolina,Design de Mobiliario,2018,9.5,APROVADO POR MÉDIA,MKUB0718,Fernanda Lima
+Renato Carolina,Design de Visualizacao de Informacoes,2018,4.68,REPROVADO,BKII1063,Andre Almeida
+Renato Carolina,Identidade Visual,2018,7.75,APROVADO POR MÉDIA,RJYZ5864,Joao Silva
+Renato Carolina,Ergonomia,2018,,REPROVADO POR FALTA,AAZN5771,Pedro Oliveira
+Renato Carolina,DESVINCULADO,2019,,,,
+Fernando Evelyn,Storytelling Visual,2006,9.5,APROVADO POR MÉDIA,OCRQ3517,
+Fernando Evelyn,Design Colaborativo,2006,2.5,REPROVADO,RJGL2456,
+Fernando Evelyn,Computacao Grafica,2006,8.5,APROVADO POR MÉDIA,QBWW6998,
+Fernando Evelyn,Design para Longevidade,2006,8.5,APROVADO POR MÉDIA,UFMQ0127,
+Fernando Evelyn,Design de Mobiliario,2006,10.0,APROVADO POR MÉDIA,MKUB0718,
+Fernando Evelyn,Design de Visualizacao de Informacoes,2006,7.25,APROVADO,BKII1063,
+Fernando Evelyn,Identidade Visual,2006,,APROVADO POR FREQÜÊNCIA,RJYZ5864,
+Fernando Evelyn,Design Colaborativo,2006,6.63,APROVADO,RJGL2456,
+Fernando Evelyn,Gamificacao,2006,8.0,APROVADO POR MÉDIA,JGDZ1333,
+Fernando Evelyn,Design de Interfaces Neuromorficas,2006,7.0,APROVADO POR MÉDIA,NRYN3294,
+Fernando Evelyn,Design de Experiencia em Museus,2006,7.05,APROVADO POR MÉDIA,NRCI1107,
+Fernando Evelyn,Ergonomia,2006,8.7,APROVADO POR MÉDIA,AAZN5771,
+Fernando Evelyn,Design de Aprendizado,2007,8.0,APROVADO POR MÉDIA,DOMK5241,
+Fernando Evelyn,Projeto Integrado,2007,1.35,REPROVADO,ZULH9584,
+Fernando Evelyn,Impressao 3D,2007,5.25,APROVADO,TSYB3211,
+Fernando Evelyn,Tipografia,2007,1.75,REPROVADO,VOQA5582,
+Fernando Evelyn,Design de Joias,2007,9.5,APROVADO POR MÉDIA,BLDG0260,
+Fernando Evelyn,Branding,2007,10.0,APROVADO POR MÉDIA,KAWV5083,
+Fernando Evelyn,Design de Interacao em Tempo Real,2007,5.0,APROVADO,COOQ5695,
+Fernando Evelyn,Design Cibernetico,2007,8.1,APROVADO POR MÉDIA,VFBH8799,
+Fernando Evelyn,Design de Realidade Aumentada (AR) e Virtual (VR),2007,8.15,APROVADO POR MÉDIA,UCTK5222,
+Fernando Evelyn,Design de Interacao Cultural,2007,7.0,APROVADO POR MÉDIA,JVFQ7338,
+Fernando Evelyn,Design Thinking,2007,8.25,APROVADO POR MÉDIA,TPYC6338,
+Fernando Evelyn,Prototipagem em Papel,2007,4.75,REPROVADO,QVGO0107,
+Fernando Evelyn,Design de Produto,2007,8.25,APROVADO POR MÉDIA,LERH6635,
+Fernando Evelyn,Design Computacional,2008,5.02,APROVADO,MAEY1044,
+Fernando Evelyn,Projeto Integrado,2008,1.75,REPROVADO,ZULH9584,
+Fernando Evelyn,Design de Tecnologia Vestivel (Wearable),2008,9.0,APROVADO POR MÉDIA,WPUV3332,
+Fernando Evelyn,Prototipagem em Papel,2008,4.43,REPROVADO,QVGO0107,
+Fernando Evelyn,Design Parametrico,2008,5.18,APROVADO,RRME1020,
+Fernando Evelyn,Projeto Integrado,2008,,REPROVADO POR FALTA,ZULH9584,
+Fernando Evelyn,Design de Apresentacoes,2008,7.0,APROVADO POR MÉDIA,BMDH7993,
+Fernando Evelyn,Design Cenico,2008,3.13,REPROVADO,DZNQ4989,
+Fernando Evelyn,Cultura Visual,2008,9.5,APROVADO POR MÉDIA,MXMO8868,
+Fernando Evelyn,Teoria do Design,2008,7.0,APROVADO POR MÉDIA,RMDE3651,
+Fernando Evelyn,Prototipagem em Papel,2008,4.75,REPROVADO,QVGO0107,
+Fernando Evelyn,Interacao Tangivel,2008,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Fernando Evelyn,Etica em Design,2008,8.0,APROVADO POR MÉDIA,TRQX5862,
+Fernando Evelyn,Ecodesign,2009,7.0,APROVADO POR MÉDIA,NGVU3526,
+Fernando Evelyn,Manipulacao de Imagem,2009,3.0,REPROVADO,JJNT2088,
+Fernando Evelyn,Tipografia,2009,8.0,APROVADO POR MÉDIA,VOQA5582,
+Fernando Evelyn,Design de Espacos Virtuais,2009,9.02,APROVADO POR MÉDIA,AOXV5438,
+Fernando Evelyn,Projeto Integrado,2009,6.25,APROVADO,ZULH9584,
+Fernando Evelyn,Manipulacao de Imagem,2010,,REPROVADO POR FALTA,JJNT2088,
+Fernando Evelyn,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Fernando Evelyn,Design Cenico,2010,,REPROVADO POR FALTA,DZNQ4989,
+Fernando Evelyn,Design de Interacao Tangivel,2010,,REPROVADO POR FALTA,VMGY1151,
+Fernando Evelyn,Design de Impressao e Publicacao,2010,,REPROVADO POR FALTA,PBCQ5148,
+Fernando Evelyn,TRANCAMENTO,2010,,,,
+Fernando Evelyn,DESVINCULADO,2011,,,,
+Elisa Valentina,Storytelling Visual,2013,7.0,APROVADO POR MÉDIA,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2013,5.47,APROVADO,RJGL2456,
+Elisa Valentina,Computacao Grafica,2013,9.5,APROVADO POR MÉDIA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2013,3.5,REPROVADO,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2013,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2013,5.3,APROVADO,BKII1063,
+Elisa Valentina,Identidade Visual,2013,8.25,APROVADO POR MÉDIA,RJYZ5864,
+Elisa Valentina,Design de Aprendizado,2013,8.25,APROVADO POR MÉDIA,DOMK5241,
+Elisa Valentina,Projeto Integrado,2013,6.47,APROVADO,ZULH9584,
+Elisa Valentina,Design de Tecnologia Vestivel (Wearable),2013,5.57,APROVADO,WPUV3332,
+Elisa Valentina,Design para Longevidade,2013,5.88,APROVADO,UFMQ0127,
+Elisa Valentina,Design de Interfaces Neuromorficas,2013,7.25,APROVADO POR MÉDIA,NRYN3294,
+Elisa Valentina,Design de Experiencia em Museus,2013,6.13,APROVADO,NRCI1107,
+Elisa Valentina,Design de Joias,2013,4.63,REPROVADO,BLDG0260,
+Elisa Valentina,Ergonomia,2013,9.0,APROVADO POR MÉDIA,AAZN5771,
+Elisa Valentina,Manipulacao de Imagem,2014,4.3,REPROVADO,JJNT2088,
+Elisa Valentina,Gamificacao,2014,7.25,APROVADO POR MÉDIA,JGDZ1333,
+Elisa Valentina,Impressao 3D,2014,9.0,APROVADO POR MÉDIA,TSYB3211,
+Elisa Valentina,Tipografia,2014,6.05,APROVADO,VOQA5582,
+Elisa Valentina,Design de Joias,2014,5.03,APROVADO,BLDG0260,
+Elisa Valentina,Marketing de Produto,2014,3.83,REPROVADO,FZLO1427,
+Elisa Valentina,Branding,2014,4.13,REPROVADO,KAWV5083,
+Elisa Valentina,Ecodesign,2014,7.15,APROVADO POR MÉDIA,NGVU3526,
+Elisa Valentina,Design de Interacao em Tempo Real,2014,7.0,APROVADO POR MÉDIA,COOQ5695,
+Elisa Valentina,Design Cibernetico,2014,4.28,REPROVADO,VFBH8799,
+Elisa Valentina,Manipulacao de Imagem,2014,,REPROVADO POR FALTA,JJNT2088,
+Elisa Valentina,Design de Realidade Aumentada (AR) e Virtual (VR),2014,10.0,APROVADO POR MÉDIA,UCTK5222,
+Elisa Valentina,Design de Interacao Cultural,2014,3.0,REPROVADO,JVFQ7338,
+Elisa Valentina,Prototipagem em Papel,2014,8.0,APROVADO POR MÉDIA,QVGO0107,
+Elisa Valentina,Marketing de Produto,2014,7.04,APROVADO POR MÉDIA,FZLO1427,
+Elisa Valentina,Branding,2014,7.0,APROVADO POR MÉDIA,KAWV5083,
+Elisa Valentina,Design Cibernetico,2015,8.65,APROVADO POR MÉDIA,VFBH8799,
+Elisa Valentina,Manipulacao de Imagem,2015,4.25,REPROVADO,JJNT2088,
+Elisa Valentina,Design de Narrativa Espacial,2015,7.75,APROVADO POR MÉDIA,SATJ7970,
+Elisa Valentina,Design de Interacao Cultural,2015,5.13,APROVADO,JVFQ7338,
+Elisa Valentina,Design Thinking,2015,5.0,APROVADO,TPYC6338,
+Elisa Valentina,Design de Interacao Corporal,2015,,REPROVADO POR FALTA,KZBU0327,
+Elisa Valentina,Gestao de Marcas,2015,,REPROVADO POR FALTA,XERB6119,
+Elisa Valentina,Design de Produto,2015,8.5,APROVADO POR MÉDIA,LERH6635,
+Elisa Valentina,Design de Espacos Virtuais,2015,8.3,APROVADO POR MÉDIA,AOXV5438,
+Elisa Valentina,Design Parametrico,2015,,REPROVADO POR FALTA,RRME1020,
+Elisa Valentina,Design Computacional,2015,,REPROVADO POR FALTA,MAEY1044,
+Elisa Valentina,Design Experimental,2015,8.65,APROVADO POR MÉDIA,IENT5068,
+Elisa Valentina,Design Cenico,2015,5.03,APROVADO,DZNQ4989,
+Elisa Valentina,Design de Interacao Corporal,2015,7.0,APROVADO POR MÉDIA,KZBU0327,
+Elisa Valentina,Gestao de Marcas,2015,4.22,REPROVADO,XERB6119,
+Elisa Valentina,Design Parametrico,2015,6.95,APROVADO,RRME1020,
+Elisa Valentina,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Elisa Valentina,Etica em Design,2015,8.75,APROVADO POR MÉDIA,TRQX5862,
+Elisa Valentina,Design Computacional,2016,3.28,REPROVADO,MAEY1044,
+Elisa Valentina,Design Sonoro,2016,,REPROVADO POR FALTA,HQDD9963,
+Elisa Valentina,Manipulacao de Imagem,2016,,REPROVADO POR FALTA,JJNT2088,
+Elisa Valentina,Design de Apresentacoes,2016,7.0,APROVADO POR MÉDIA,BMDH7993,
+Elisa Valentina,Design Biomimetico,2016,10.0,APROVADO POR MÉDIA,RVMF0745,
+Elisa Valentina,Design Digital,2016,,REPROVADO POR FALTA,LLKP8902,
+Elisa Valentina,Cultura Visual,2016,7.0,APROVADO POR MÉDIA,MXMO8868,
+Elisa Valentina,Teoria do Design,2016,,REPROVADO POR FALTA,RMDE3651,
+Elisa Valentina,Gestao de Marcas,2016,6.0,APROVADO,XERB6119,
+Elisa Valentina,Design Biofilico,2016,7.5,APROVADO POR MÉDIA,TLQG8423,
+Elisa Valentina,Interacao Tangivel,2016,8.0,APROVADO POR MÉDIA,UXMU2899,
+Elisa Valentina,SemiÃ³tica,2016,10.0,APROVADO POR MÉDIA,TOZF3011,
+Elisa Valentina,Design Sonoro,2016,5.75,APROVADO,HQDD9963,
+Elisa Valentina,Manipulacao de Imagem,2016,7.0,APROVADO POR MÉDIA,JJNT2088,
+Elisa Valentina,Design Digital,2016,9.25,APROVADO POR MÉDIA,LLKP8902,
+Elisa Valentina,Teoria do Design,2016,,REPROVADO POR FALTA,RMDE3651,
+Elisa Valentina,Design de Realidade Hibrida,2016,4.0,REPROVADO,WWGS2880,
+Elisa Valentina,Comunicacao Visual,2016,10.0,APROVADO POR MÉDIA,DQUN5124,
+Elisa Valentina,Materiais e Processos,2016,7.0,APROVADO POR MÉDIA,NVRL4030,
+Elisa Valentina,Design de Redes Sociais,2016,5.24,APROVADO,LSHL3127,
+Elisa Valentina,Design de Impressao e Publicacao,2016,,REPROVADO POR FALTA,PBCQ5148,
+Elisa Valentina,Design Computacional,2017,4.03,REPROVADO,MAEY1044,
+Elisa Valentina,Teoria da Cor,2017,7.0,APROVADO POR MÉDIA,TWIP0018,
+Elisa Valentina,Teoria do Design,2017,5.13,APROVADO,RMDE3651,
+Elisa Valentina,Design de Interacao Tangivel,2017,3.5,REPROVADO,VMGY1151,
+Elisa Valentina,Design de Moda,2017,9.0,APROVADO POR MÉDIA,VNBQ5535,
+Elisa Valentina,Tecnicas de Iluminacao,2017,9.0,APROVADO POR MÉDIA,XYOT5349,
+Elisa Valentina,Design de Interacao Tangivel,2017,,REPROVADO POR FALTA,VMGY1151,
+Elisa Valentina,Design Computacional,2018,7.1,APROVADO POR MÉDIA,MAEY1044,Maria Santos
+Elisa Valentina,Design de Interacao Tangivel,2018,5.68,APROVADO,VMGY1151,Rafaela Gomes
+Elisa Valentina,INTEGRALIZADO,2018,,,,
+Elisa Valentina,FORMADO,2019,,,,
+Elisa Valentina,Storytelling Visual,2008,,REPROVADO POR FALTA,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2008,,REPROVADO POR FALTA,RJGL2456,
+Elisa Valentina,Computacao Grafica,2008,,REPROVADO POR FALTA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2008,,REPROVADO POR FALTA,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2008,,REPROVADO POR FALTA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2008,,REPROVADO POR FALTA,BKII1063,
+Elisa Valentina,Identidade Visual,2008,,REPROVADO POR FALTA,RJYZ5864,
+Elisa Valentina,DESVINCULADO,2010,,,,
+Elisa Valentina,Storytelling Visual,2011,,REPROVADO POR FALTA,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2011,,REPROVADO POR FALTA,RJGL2456,
+Elisa Valentina,Computacao Grafica,2011,,REPROVADO POR FALTA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2011,,REPROVADO POR FALTA,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2011,,REPROVADO POR FALTA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2011,,REPROVADO POR FALTA,BKII1063,
+Elisa Valentina,Identidade Visual,2011,,REPROVADO POR FALTA,RJYZ5864,
+Elisa Valentina,DESVINCULADO,2012,,,,
+Elisa Valentina,Storytelling Visual,2012,,REPROVADO POR FALTA,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2012,,REPROVADO POR FALTA,RJGL2456,
+Elisa Valentina,Computacao Grafica,2012,,REPROVADO POR FALTA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2012,,REPROVADO POR FALTA,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2012,,REPROVADO POR FALTA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2012,,REPROVADO POR FALTA,BKII1063,
+Elisa Valentina,Identidade Visual,2012,,REPROVADO POR FALTA,RJYZ5864,
+Elisa Valentina,DESVINCULADO,2013,,,,
+Elisa Valentina,Storytelling Visual,2013,5.9,APROVADO,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2013,3.51,REPROVADO,RJGL2456,
+Elisa Valentina,Computacao Grafica,2013,8.5,APROVADO POR MÉDIA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2013,6.13,APROVADO,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2013,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2013,5.47,APROVADO,BKII1063,
+Elisa Valentina,Identidade Visual,2013,8.75,APROVADO POR MÉDIA,RJYZ5864,
+Elisa Valentina,Design Colaborativo,2014,7.0,APROVADO POR MÉDIA,RJGL2456,
+Elisa Valentina,Design de Interfaces Neuromorficas,2014,7.45,APROVADO,NRYN3294,
+Elisa Valentina,Design de Experiencia em Museus,2014,8.93,APROVADO POR MÉDIA,NRCI1107,
+Elisa Valentina,Cultura Visual,2014,9.0,APROVADO POR MÉDIA,MXMO8868,
+Elisa Valentina,Ergonomia,2014,,REPROVADO POR FALTA,AAZN5771,
+Elisa Valentina,Design de Aprendizado,2014,4.05,REPROVADO,DOMK5241,
+Elisa Valentina,Manipulacao de Imagem,2014,9.0,APROVADO POR MÉDIA,JJNT2088,
+Elisa Valentina,Projeto Integrado,2014,2.3,REPROVADO,ZULH9584,
+Elisa Valentina,Gamificacao,2014,8.5,APROVADO POR MÉDIA,JGDZ1333,
+Elisa Valentina,Impressao 3D,2014,9.25,APROVADO POR MÉDIA,TSYB3211,
+Elisa Valentina,Tipografia,2014,8.4,APROVADO POR MÉDIA,VOQA5582,
+Elisa Valentina,Design de Joias,2014,7.0,APROVADO POR MÉDIA,BLDG0260,
+Elisa Valentina,Ergonomia,2014,,REPROVADO POR FALTA,AAZN5771,
+Elisa Valentina,Design de Interacao em Tempo Real,2015,7.0,APROVADO POR MÉDIA,COOQ5695,
+Elisa Valentina,Design Cibernetico,2015,8.4,APROVADO POR MÉDIA,VFBH8799,
+Elisa Valentina,Design de Realidade Aumentada (AR) e Virtual (VR),2015,9.0,APROVADO POR MÉDIA,UCTK5222,
+Elisa Valentina,Design de Interacao Cultural,2015,6.13,APROVADO,JVFQ7338,
+Elisa Valentina,Prototipagem em Papel,2015,9.0,APROVADO POR MÉDIA,QVGO0107,
+Elisa Valentina,Branding,2015,9.5,APROVADO POR MÉDIA,KAWV5083,
+Elisa Valentina,Design de Aprendizado,2015,,REPROVADO POR FALTA,DOMK5241,
+Elisa Valentina,Projeto Integrado,2015,5.07,APROVADO,ZULH9584,
+Elisa Valentina,Design de Tecnologia Vestivel (Wearable),2015,5.0,APROVADO,WPUV3332,
+Elisa Valentina,Design de Apresentacoes,2015,7.0,APROVADO POR MÉDIA,BMDH7993,
+Elisa Valentina,Design Thinking,2015,7.55,APROVADO POR MÉDIA,TPYC6338,
+Elisa Valentina,Ergonomia,2015,7.0,APROVADO POR MÉDIA,AAZN5771,
+Elisa Valentina,Design de Interacao Corporal,2015,,REPROVADO POR FALTA,KZBU0327,
+Elisa Valentina,Design de Produto,2015,,REPROVADO POR FALTA,LERH6635,
+Elisa Valentina,Design Parametrico,2015,,REPROVADO POR FALTA,RRME1020,
+Elisa Valentina,Design Computacional,2016,,REPROVADO POR FALTA,MAEY1044,
+Elisa Valentina,Design de Narrativa Espacial,2016,,REPROVADO POR FALTA,SATJ7970,
+Elisa Valentina,Design Digital,2016,,REPROVADO POR FALTA,LLKP8902,
+Elisa Valentina,Marketing de Produto,2016,,REPROVADO POR FALTA,FZLO1427,
+Elisa Valentina,Interacao Tangivel,2016,,REPROVADO POR FALTA,UXMU2899,
+Elisa Valentina,Design de Espacos Virtuais,2016,,REPROVADO POR FALTA,AOXV5438,
+Elisa Valentina,Ecodesign,2016,,REPROVADO POR FALTA,NGVU3526,
+Elisa Valentina,Design de Aprendizado,2016,,REPROVADO POR FALTA,DOMK5241,
+Elisa Valentina,Teoria do Design,2016,,REPROVADO POR FALTA,RMDE3651,
+Elisa Valentina,Interacao Tangivel,2016,,REPROVADO POR FALTA,UXMU2899,
+Elisa Valentina,Design de Produto,2016,,REPROVADO POR FALTA,LERH6635,
+Elisa Valentina,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Elisa Valentina,DESVINCULADO,2017,,,,
+Elisa Valentina,Storytelling Visual,2005,8.13,APROVADO POR MÉDIA,OCRQ3517,
+Elisa Valentina,Design Colaborativo,2005,4.15,REPROVADO,RJGL2456,
+Elisa Valentina,Computacao Grafica,2005,,REPROVADO POR FALTA,QBWW6998,
+Elisa Valentina,Design para Longevidade,2005,5.0,APROVADO,UFMQ0127,
+Elisa Valentina,Design de Mobiliario,2005,,REPROVADO POR FALTA,MKUB0718,
+Elisa Valentina,Design de Visualizacao de Informacoes,2005,1.2,REPROVADO,BKII1063,
+Elisa Valentina,Identidade Visual,2005,3.5,REPROVADO,RJYZ5864,
+Elisa Valentina,Design Colaborativo,2006,5.0,APROVADO,RJGL2456,
+Elisa Valentina,Gamificacao,2006,7.25,APROVADO POR MÉDIA,JGDZ1333,
+Elisa Valentina,Design de Visualizacao de Informacoes,2006,0.5,REPROVADO,BKII1063,
+Elisa Valentina,Identidade Visual,2006,,APROVADO POR FREQÜÊNCIA,RJYZ5864,
+Elisa Valentina,Design de Aprendizado,2006,,REPROVADO POR FALTA,DOMK5241,
+Elisa Valentina,Projeto Integrado,2006,,REPROVADO POR FALTA,ZULH9584,
+Elisa Valentina,Design de Tecnologia Vestivel (Wearable),2006,,CANCELADO COM ONUS,WPUV3332,
+Elisa Valentina,Design de Visualizacao de Informacoes,2006,,REPROVADO POR FALTA,BKII1063,
+Elisa Valentina,Ergonomia,2006,,REPROVADO POR FALTA,AAZN5771,
+Elisa Valentina,DESVINCULADO,2007,,,,
+Elisa Valentina,DESLIGAMENTO,2009,,,,
+Renato Rafael,Storytelling Visual,2006,8.25,APROVADO POR MÉDIA,OCRQ3517,
+Renato Rafael,Design Colaborativo,2006,2.0,REPROVADO,RJGL2456,
+Renato Rafael,Computacao Grafica,2006,7.95,APROVADO POR MÉDIA,QBWW6998,
+Renato Rafael,Design para Longevidade,2006,4.0,REPROVADO,UFMQ0127,
+Renato Rafael,Design de Mobiliario,2006,9.25,APROVADO POR MÉDIA,MKUB0718,
+Renato Rafael,Design de Visualizacao de Informacoes,2006,1.0,REPROVADO,BKII1063,
+Renato Rafael,Identidade Visual,2006,,APROVADO POR FREQÜÊNCIA,RJYZ5864,
+Renato Rafael,Design Colaborativo,2006,5.18,APROVADO,RJGL2456,
+Renato Rafael,Design para Longevidade,2006,5.0,APROVADO,UFMQ0127,
+Renato Rafael,Gamificacao,2006,7.25,APROVADO POR MÉDIA,JGDZ1333,
+Renato Rafael,Design de Visualizacao de Informacoes,2006,7.75,APROVADO POR MÉDIA,BKII1063,
+Renato Rafael,Ergonomia,2006,7.13,APROVADO POR MÉDIA,AAZN5771,
+Renato Rafael,Design de Aprendizado,2007,8.0,APROVADO POR MÉDIA,DOMK5241,
+Renato Rafael,Projeto Integrado,2007,2.0,REPROVADO,ZULH9584,
+Renato Rafael,Design de Tecnologia Vestivel (Wearable),2007,7.0,APROVADO,WPUV3332,
+Renato Rafael,Design de Interfaces Neuromorficas,2007,8.5,APROVADO POR MÉDIA,NRYN3294,
+Renato Rafael,Design de Experiencia em Museus,2007,8.0,APROVADO POR MÉDIA,NRCI1107,
+Renato Rafael,Manipulacao de Imagem,2007,5.38,APROVADO,JJNT2088,
+Renato Rafael,Projeto Integrado,2007,5.0,APROVADO,ZULH9584,
+Renato Rafael,Design Thinking,2007,7.5,APROVADO POR MÉDIA,TPYC6338,
+Renato Rafael,Impressao 3D,2007,5.0,APROVADO,TSYB3211,
+Renato Rafael,Tipografia,2007,8.0,APROVADO POR MÉDIA,VOQA5582,
+Renato Rafael,Design de Joias,2007,5.68,APROVADO,BLDG0260,
+Renato Rafael,Ecodesign,2008,8.25,APROVADO POR MÉDIA,NGVU3526,
+Renato Rafael,Design de Interacao em Tempo Real,2008,5.0,APROVADO,COOQ5695,
+Renato Rafael,Design Cibernetico,2008,8.7,APROVADO POR MÉDIA,VFBH8799,
+Renato Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),2008,3.43,REPROVADO,UCTK5222,
+Renato Rafael,Design de Interacao Cultural,2008,5.0,APROVADO,JVFQ7338,
+Renato Rafael,Prototipagem em Papel,2008,4.5,REPROVADO,QVGO0107,
+Renato Rafael,Interacao Tangivel,2008,,APROVADO POR FREQÜÊNCIA,UXMU2899,
+Renato Rafael,Design Computacional,2008,6.0,APROVADO,MAEY1044,
+Renato Rafael,Prototipagem em Papel,2008,2.88,REPROVADO,QVGO0107,
+Renato Rafael,Marketing de Produto,2008,8.75,APROVADO POR MÉDIA,FZLO1427,
+Renato Rafael,Design Experimental,2009,5.0,APROVADO,IENT5068,
+Renato Rafael,Gestao de Marcas,2009,9.25,APROVADO POR MÉDIA,XERB6119,
+Renato Rafael,Branding,2009,7.65,APROVADO POR MÉDIA,KAWV5083,
+Renato Rafael,Design Parametrico,2009,5.68,APROVADO,RRME1020,
+Renato Rafael,SemiÃ³tica,2009,9.0,APROVADO POR MÉDIA,TOZF3011,
+Renato Rafael,Design Sonoro,2009,7.25,APROVADO POR MÉDIA,HQDD9963,
+Renato Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),2009,8.25,APROVADO POR MÉDIA,UCTK5222,
+Renato Rafael,Teoria do Design,2009,5.13,APROVADO,RMDE3651,
+Renato Rafael,Comunicacao Visual,2009,10.0,APROVADO POR MÉDIA,DQUN5124,
+Renato Rafael,Design de Redes Sociais,2009,9.35,APROVADO POR MÉDIA,LSHL3127,
+Renato Rafael,Cultura Visual,2010,8.5,APROVADO POR MÉDIA,MXMO8868,
+Renato Rafael,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Renato Rafael,Prototipagem em Papel,2010,7.0,APROVADO POR MÉDIA,QVGO0107,
+Renato Rafael,Design de Produto,2010,8.75,APROVADO POR MÉDIA,LERH6635,
+Renato Rafael,Design de Interacao Tangivel,2010,9.0,APROVADO POR MÉDIA,VMGY1151,
+Renato Rafael,Design de Espacos Virtuais,2010,8.45,APROVADO POR MÉDIA,AOXV5438,
+Renato Rafael,Design de Apresentacoes,2010,8.5,APROVADO POR MÉDIA,BMDH7993,
+Renato Rafael,Design de Narrativa Espacial,2010,8.2,APROVADO POR MÉDIA,SATJ7970,
+Renato Rafael,Design Digital,2010,8.1,APROVADO POR MÉDIA,LLKP8902,
+Renato Rafael,Design Cenico,2010,9.5,APROVADO POR MÉDIA,DZNQ4989,
+Renato Rafael,Design de Realidade Hibrida,2010,9.75,APROVADO POR MÉDIA,WWGS2880,
+Renato Rafael,Design de Jogos,2010,6.63,APROVADO,MDQZ6072,
+Renato Rafael,Modelagem 3D,2010,9.0,APROVADO POR MÉDIA,PPDN7220,
+Renato Rafael,Design de Interacao Corporal,2010,9.0,APROVADO POR MÉDIA,KZBU0327,
+Renato Rafael,Etica em Design,2010,7.5,APROVADO POR MÉDIA,TRQX5862,
+Renato Rafael,Design Biomimetico,2011,8.3,APROVADO POR MÉDIA,RVMF0745,
+Renato Rafael,Teoria da Cor,2011,8.25,APROVADO POR MÉDIA,TWIP0018,
+Renato Rafael,Tecnicas de Iluminacao,2011,,REPROVADO POR FALTA,XYOT5349,
+Renato Rafael,Tecnicas de Iluminacao,2011,9.5,APROVADO POR MÉDIA,XYOT5349,
+Renato Rafael,INTEGRALIZADO,2011,,,,
+Renato Rafael,FORMADO,2011,,,,
+Renato Luciana,Storytelling Visual,2012,5.94,APROVADO,OCRQ3517,
+Renato Luciana,Design Colaborativo,2012,2.55,REPROVADO,RJGL2456,
+Renato Luciana,Computacao Grafica,2012,9.75,APROVADO POR MÉDIA,QBWW6998,
+Renato Luciana,Design para Longevidade,2012,8.0,APROVADO POR MÉDIA,UFMQ0127,
+Renato Luciana,Design de Mobiliario,2012,,APROVADO POR FREQÜÊNCIA,MKUB0718,
+Renato Luciana,Design de Visualizacao de Informacoes,2012,1.75,REPROVADO,BKII1063,
+Renato Luciana,Identidade Visual,2012,8.75,APROVADO POR MÉDIA,RJYZ5864,
+Renato Luciana,Design Colaborativo,2013,6.13,APROVADO,RJGL2456,
+Renato Luciana,Design de Visualizacao de Informacoes,2013,8.5,APROVADO POR MÉDIA,BKII1063,
+Renato Luciana,Cultura Visual,2013,8.0,APROVADO POR MÉDIA,MXMO8868,
+Renato Luciana,Ergonomia,2013,6.07,APROVADO,AAZN5771,
+Renato Luciana,Design de Aprendizado,2013,8.0,APROVADO POR MÉDIA,DOMK5241,
+Renato Luciana,Projeto Integrado,2013,4.15,REPROVADO,ZULH9584,
+Renato Luciana,Design de Tecnologia Vestivel (Wearable),2013,4.1,REPROVADO,WPUV3332,
+Renato Luciana,Design de Apresentacoes,2013,7.25,APROVADO POR MÉDIA,BMDH7993,
+Renato Luciana,Gamificacao,2013,7.0,APROVADO POR MÉDIA,JGDZ1333,
+Renato Luciana,Design de Interfaces Neuromorficas,2013,,REPROVADO POR FALTA,NRYN3294,
+Renato Luciana,Design de Experiencia em Museus,2013,7.5,APROVADO POR MÉDIA,NRCI1107,
+Renato Luciana,Design de Joias,2013,7.25,APROVADO POR MÉDIA,BLDG0260,
+Renato Luciana,Branding,2013,6.25,APROVADO,KAWV5083,
+Renato Luciana,Projeto Integrado,2014,5.0,APROVADO,ZULH9584,
+Renato Luciana,Design de Tecnologia Vestivel (Wearable),2014,7.5,APROVADO POR MÉDIA,WPUV3332,
+Renato Luciana,Design de Interfaces Neuromorficas,2014,,REPROVADO POR FALTA,NRYN3294,
+Renato Luciana,Tipografia,2014,3.33,REPROVADO,VOQA5582,
+Renato Luciana,Interacao Tangivel,2014,8.0,APROVADO POR MÉDIA,UXMU2899,
+Renato Luciana,Design de Produto,2014,7.35,APROVADO POR MÉDIA,LERH6635,
+Renato Luciana,Design de Interacao em Tempo Real,2014,8.25,APROVADO POR MÉDIA,COOQ5695,
+Renato Luciana,Design de Interfaces Neuromorficas,2014,7.0,APROVADO POR MÉDIA,NRYN3294,
+Renato Luciana,Marketing de Produto,2014,7.68,APROVADO POR MÉDIA,FZLO1427,
+Renato Luciana,Etica em Design,2014,8.5,APROVADO POR MÉDIA,TRQX5862,
+Renato Luciana,Design Sonoro,2015,8.5,APROVADO POR MÉDIA,HQDD9963,
+Renato Luciana,Impressao 3D,2015,5.13,APROVADO,TSYB3211,
+Renato Luciana,Teoria do Design,2015,5.5,APROVADO,RMDE3651,
+Renato Luciana,Gestao de Marcas,2015,5.24,APROVADO,XERB6119,
+Renato Luciana,SemiÃ³tica,2015,10.0,APROVADO POR MÉDIA,TOZF3011,
+Renato Luciana,Design Cibernetico,2015,8.25,APROVADO POR MÉDIA,VFBH8799,
+Renato Luciana,Design de Interacao Cultural,2015,7.0,APROVADO POR MÉDIA,JVFQ7338,
+Renato Luciana,Prototipagem em Papel,2015,7.25,APROVADO POR MÉDIA,QVGO0107,
+Renato Luciana,Comunicacao Visual,2015,8.5,APROVADO POR MÉDIA,DQUN5124,
+Renato Luciana,Design Parametrico,2015,,REPROVADO POR FALTA,RRME1020,
+Renato Luciana,Design Computacional,2016,4.93,REPROVADO,MAEY1044,
+Renato Luciana,Design de Narrativa Espacial,2016,8.75,APROVADO POR MÉDIA,SATJ7970,
+Renato Luciana,Design Digital,2016,5.75,APROVADO,LLKP8902,
+Renato Luciana,Tipografia,2016,5.15,APROVADO,VOQA5582,
+Renato Luciana,Design de Interacao Corporal,2016,7.0,APROVADO POR MÉDIA,KZBU0327,
+Renato Luciana,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,CÓDIGO,
+Renato Luciana,Design Parametrico,2016,8.13,APROVADO POR MÉDIA,RRME1020,
+Renato Luciana,Manipulacao de Imagem,2016,,REPROVADO POR FALTA,JJNT2088,
+Renato Luciana,Design de Realidade Aumentada (AR) e Virtual (VR),2016,,REPROVADO POR FALTA,UCTK5222,
+Renato Luciana,Teoria da Cor,2016,7.75,APROVADO POR MÉDIA,TWIP0018,
+Renato Luciana,Design Cenico,2016,6.8,APROVADO,DZNQ4989,
+Renato Luciana,Design de Impressao e Publicacao,2016,7.5,APROVADO POR MÉDIA,PBCQ5148,
+Renato Luciana,Design de Moda,2016,8.0,APROVADO POR MÉDIA,VNBQ5535,
+Renato Luciana,Design Computacional,2017,6.32,APROVADO,MAEY1044,
+Renato Luciana,Manipulacao de Imagem,2017,2.5,REPROVADO,JJNT2088,
+Renato Luciana,Design Thinking,2017,7.5,APROVADO POR MÉDIA,TPYC6338,
+Renato Luciana,Design Experimental,2017,9.0,APROVADO POR MÉDIA,IENT5068,
+Renato Luciana,Design de Interacao Tangivel,2017,7.5,APROVADO POR MÉDIA,VMGY1151,
+Renato Luciana,Design de Redes Sociais,2017,8.27,APROVADO POR MÉDIA,LSHL3127,
+Renato Luciana,Ecodesign,2017,7.15,APROVADO POR MÉDIA,NGVU3526,
+Renato Luciana,Design de Realidade Aumentada (AR) e Virtual (VR),2017,7.5,APROVADO POR MÉDIA,UCTK5222,
+Renato Luciana,Design Biomimetico,2017,,REPROVADO POR FALTA,RVMF0745,
+Renato Luciana,Design de Jogos,2017,7.5,APROVADO POR MÉDIA,MDQZ6072,
+Renato Luciana,Manipulacao de Imagem,2018,,REPROVADO POR FALTA,JJNT2088,
+Renato Luciana,Design Biomimetico,2018,8.0,APROVADO POR MÉDIA,RVMF0745,Carla Souza
+Renato Luciana,Design de Espacos Virtuais,2018,8.85,APROVADO POR MÉDIA,AOXV5438,Pedro Oliveira
+Renato Luciana,Tecnicas de Iluminacao,2018,,REPROVADO POR FALTA,XYOT5349,Gustavo Martins
+Renato Luciana,Manipulacao de Imagem,2019,9.05,APROVADO POR MÉDIA,JJNT2088,Diego Cardoso
+Renato Luciana,Tecnicas de Iluminacao,2019,,REPROVADO POR FALTA,XYOT5349,Gustavo Martins
+Renato Luciana,Tecnicas de Iluminacao,2019,,REPROVADO POR FALTA,XYOT5349,Gustavo Martins
+Renato Luciana,Tecnicas de Iluminacao,2020,9.3,APROVADO POR MÉDIA,XYOT5349,Gustavo Martins
+Renato Luciana,INTEGRALIZADO,2020,,,,
+Renato Luciana,FORMADO,2020,,,,
+Evelyn Vinicius,Storytelling Visual,2007,7.75,APROVADO POR MÉDIA,OCRQ3517,
+Evelyn Vinicius,Design Colaborativo,2007,7.5,APROVADO POR MÉDIA,RJGL2456,
+Evelyn Vinicius,Computacao Grafica,2007,7.75,APROVADO POR MÉDIA,QBWW6998,
+Evelyn Vinicius,Design para Longevidade,2007,8.0,APROVADO POR MÉDIA,UFMQ0127,
+Evelyn Vinicius,Design de Mobiliario,2007,10.0,APROVADO POR MÉDIA,MKUB0718,
+Evelyn Vinicius,Design de Visualizacao de Informacoes,2007,4.43,REPROVADO,BKII1063,
+Evelyn Vinicius,Identidade Visual,2007,8.0,APROVADO POR MÉDIA,RJYZ5864,
+Evelyn Vinicius,Design de Aprendizado,2008,7.0,APROVADO POR MÉDIA,DOMK5241,
+Evelyn Vinicius,Projeto Integrado,2008,2.63,REPROVADO,ZULH9584,
+Evelyn Vinicius,Design de Tecnologia Vestivel (Wearable),2008,10.0,APROVADO POR MÉDIA,WPUV3332,
+Evelyn Vinicius,Design Thinking,2008,6.68,APROVADO,TPYC6338,
+Evelyn Vinicius,Design de Visualizacao de Informacoes,2008,8.0,APROVADO POR MÉDIA,BKII1063,
+Evelyn Vinicius,Cultura Visual,2008,9.15,APROVADO POR MÉDIA,MXMO8868,
+Evelyn Vinicius,Ergonomia,2008,7.0,APROVADO POR MÉDIA,AAZN5771,
+Evelyn Vinicius,Ecodesign,2008,,REPROVADO POR FALTA,NGVU3526,
+Evelyn Vinicius,Projeto Integrado,2008,,REPROVADO POR FALTA,ZULH9584,
+Evelyn Vinicius,Gamificacao,2008,,REPROVADO POR FALTA,JGDZ1333,
+Evelyn Vinicius,Design de Interfaces Neuromorficas,2008,,REPROVADO POR FALTA,NRYN3294,
+Evelyn Vinicius,Design de Experiencia em Museus,2008,,REPROVADO POR FALTA,NRCI1107,
+Evelyn Vinicius,Design de Joias,2008,,REPROVADO POR FALTA,BLDG0260,
+Evelyn Vinicius,Branding,2008,,REPROVADO POR FALTA,KAWV5083,
+Evelyn Vinicius,DESLIGAMENTO,2009,,,,
