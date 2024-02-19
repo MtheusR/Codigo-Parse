@@ -1,391 +1,494 @@
-nome,disciplina,nome_Docente,ano,nota,situacao
-Caua Juliana,Branding,Rafaela Gomes,2020,7.25,APROVADO POR MÉDIA
-Caua Juliana,Computacao Grafica,Marcos Ferreira,2019,7.0,APROVADO POR MÉDIA
-Caua Juliana,Cultura Visual,Patricia Nunes,2019,9.0,APROVADO POR MÉDIA
-Caua Juliana,DESLIGAMENTO,,2021,,
-Caua Juliana,Design Cibernetico,Joao Silva,2020,,REPROVADO POR FALTA
-Caua Juliana,Design Colaborativo,Fernanda Lima,2019,6.0,APROVADO
-Caua Juliana,Design de Aprendizado,Ana Costa,2019,,REPROVADO POR FALTA
-Caua Juliana,Design de Experiencia em Museus,Pedro Oliveira,2019,5.0,APROVADO
-Caua Juliana,Design de Interacao Cultural,Gustavo Martins,2020,,REPROVADO POR FALTA
-Caua Juliana,Design de Interfaces Neuromorficas,Marcos Ferreira,2019,5.03,APROVADO
-Caua Juliana,Design de Joias,Gustavo Martins,2020,,REPROVADO POR FALTA
-Caua Juliana,Design de Mobiliario,Fernanda Lima,2019,8.9,APROVADO POR MÉDIA
-Caua Juliana,Design de Produto,Carla Souza,2020,,REPROVADO POR FALTA
-Caua Juliana,Design de Realidade Aumentada (AR) e Virtual (VR),Juliana Rodrigues,2020,7.0,APROVADO POR MÉDIA
-Caua Juliana,Design de Tecnologia Vestivel (Wearable),Andre Almeida,2019,7.75,APROVADO POR MÉDIA
-Caua Juliana,Design de Visualizacao de Informacoes,Andre Almeida,2019,7.78,APROVADO
-Caua Juliana,Design para Longevidade,Marcos Ferreira,2019,,REPROVADO POR FALTA
-Caua Juliana,Design para Longevidade,Marcos Ferreira,2020,9.61,APROVADO POR MÉDIA
-Caua Juliana,Ecodesign,Diego Cardoso,2020,,REPROVADO POR FALTA
-Caua Juliana,Ergonomia,Pedro Oliveira,2019,2.63,REPROVADO
-Caua Juliana,Gamificacao,Luiz Pereira,2020,,REPROVADO POR FALTA
-Caua Juliana,Identidade Visual,Joao Silva,2019,8.4,APROVADO POR MÉDIA
-Caua Juliana,Impressao 3D,Marcos Ferreira,2020,8.0,APROVADO POR MÉDIA
-Caua Juliana,Manipulacao de Imagem,Diego Cardoso,2020,8.8,APROVADO POR MÉDIA
-Caua Juliana,Projeto Integrado,Fernanda Lima,2019,,REPROVADO POR FALTA
-Caua Juliana,Projeto Integrado,Fernanda Lima,2020,7.9,APROVADO POR MÉDIA
-Caua Juliana,Prototipagem em Papel,Juliana Rodrigues,2020,,REPROVADO POR FALTA
-Caua Juliana,Storytelling Visual,Maria Santos,2019,7.0,APROVADO POR MÉDIA
-Caua Juliana,Tipografia,Joao Silva,2020,7.8,APROVADO POR MÉDIA
-Cecilia Viviane,Branding,,2009,7.1,APROVADO POR MÉDIA
-Cecilia Viviane,Computacao Grafica,,2008,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Comunicacao Visual,,2011,8.0,APROVADO POR MÉDIA
-Cecilia Viviane,Cultura Visual,,2011,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO
-Cecilia Viviane,Design Biomimetico,,2011,9.3,APROVADO POR MÉDIA
-Cecilia Viviane,Design Cenico,,2011,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design Cibernetico,,2010,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design Colaborativo,,2008,7.25,APROVADO POR MÉDIA
-Cecilia Viviane,Design Computacional,,2010,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design Digital,,2011,7.7,APROVADO POR MÉDIA
-Cecilia Viviane,Design Experimental,,2010,8.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design Parametrico,,2010,7.2,APROVADO POR MÉDIA
-Cecilia Viviane,Design Sonoro,,2012,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design Thinking,,2010,7.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Aprendizado,,2009,8.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Apresentacoes,,2011,8.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Espacos Virtuais,,2010,9.25,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Experiencia em Museus,,2009,9.15,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Impacto Social,,2011,8.05,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Impressao e Publicacao,,2011,9.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Interacao Corporal,,2010,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Interacao Cultural,,2010,7.25,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Interacao Tangivel,,2011,8.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Interacao em Tempo Real,,2010,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Interfaces Neuromorficas,,2009,9.55,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Joias,,2009,9.75,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Mobiliario,,2008,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Moda,,2011,7.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Narrativa Espacial,,2010,8.8,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Produto,,2010,7.75,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Realidade Aumentada (AR) e Virtual (VR),,2010,8.5,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Redes Sociais,,2011,8.65,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Tecnologia Vestivel (Wearable),,2009,7.65,APROVADO POR MÉDIA
-Cecilia Viviane,Design de Visualizacao de Informacoes,,2008,8.75,APROVADO POR MÉDIA
-Cecilia Viviane,Design para Longevidade,,2008,7.0,APROVADO POR MÉDIA
-Cecilia Viviane,Ecodesign,,2010,8.8,APROVADO POR MÉDIA
-Cecilia Viviane,Ergonomia,,2009,8.09,APROVADO POR MÉDIA
-Cecilia Viviane,Etica em Design,,2011,8.75,APROVADO POR MÉDIA
-Cecilia Viviane,FORMADO,,2012,,
-Cecilia Viviane,Gamificacao,,2009,9.5,APROVADO POR MÉDIA
-Cecilia Viviane,Gestao de Marcas,,2011,9.8,APROVADO POR MÉDIA
-Cecilia Viviane,INTEGRALIZADO,,2012,,
-Cecilia Viviane,Identidade Visual,,2008,7.75,APROVADO POR MÉDIA
-Cecilia Viviane,Impressao 3D,,2009,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Interacao Tangivel,,2010,,APROVADO POR FREQÜÊNCIA
-Cecilia Viviane,Manipulacao de Imagem,,2009,8.75,APROVADO POR MÉDIA
-Cecilia Viviane,Marketing de Produto,,2009,9.1,APROVADO POR MÉDIA
-Cecilia Viviane,Projeto Integrado,,2009,5.75,APROVADO
-Cecilia Viviane,Prototipagem em Papel,,2010,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,SemiÃ³tica,,2012,8.75,APROVADO POR MÉDIA
-Cecilia Viviane,Storytelling Visual,,2008,9.0,APROVADO POR MÉDIA
-Cecilia Viviane,Tecnicas de Iluminacao,,2012,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Teoria da Cor,,2011,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Teoria do Design,,2011,10.0,APROVADO POR MÉDIA
-Cecilia Viviane,Tipografia,,2009,9.0,APROVADO POR MÉDIA
-DOCENTE(S): -----------.,Computacao Grafica,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,DESVINCULADO,,2016,,
-DOCENTE(S): -----------.,Design Colaborativo,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,Design de Mobiliario,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,Design de Visualizacao de Informacoes,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,Design para Longevidade,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,Identidade Visual,,2016,,REPROVADO POR FALTA
-DOCENTE(S): -----------.,Storytelling Visual,,2016,,REPROVADO POR FALTA
-Eduardo Nathanael,Computacao Grafica,,2010,,REPROVADO POR FALTA
-Eduardo Nathanael,DESVINCULADO,,2010,,
-Eduardo Nathanael,Design Colaborativo,,2010,,REPROVADO POR FALTA
-Eduardo Nathanael,Design de Mobiliario,,2010,,APROVADO POR FREQÜÊNCIA
-Eduardo Nathanael,Design de Visualizacao de Informacoes,,2010,,REPROVADO POR FALTA
-Eduardo Nathanael,Design para Longevidade,,2010,,REPROVADO POR FALTA
-Eduardo Nathanael,Identidade Visual,,2010,,REPROVADO POR FALTA
-Eduardo Nathanael,Storytelling Visual,,2010,,REPROVADO POR FALTA
-Gabriel Fernando,Branding,,2013,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Computacao Grafica,,2012,8.75,APROVADO POR MÉDIA
-Gabriel Fernando,Comunicacao Visual,,2015,9.5,APROVADO POR MÉDIA
-Gabriel Fernando,Cultura Visual,,2014,8.75,APROVADO POR MÉDIA
-Gabriel Fernando,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO
-Gabriel Fernando,Design Biomimetico,,2015,9.5,APROVADO POR MÉDIA
-Gabriel Fernando,Design Cenico,,2015,9.5,APROVADO POR MÉDIA
-Gabriel Fernando,Design Cibernetico,,2014,7.2,APROVADO POR MÉDIA
-Gabriel Fernando,Design Colaborativo,,2012,5.82,APROVADO
-Gabriel Fernando,Design Computacional,,2014,6.47,APROVADO
-Gabriel Fernando,Design Digital,,2015,8.88,APROVADO POR MÉDIA
-Gabriel Fernando,Design Experimental,,2014,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design Parametrico,,2014,5.61,APROVADO
-Gabriel Fernando,Design Sonoro,,2016,8.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design Thinking,,2013,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Aprendizado,,2013,6.95,APROVADO
-Gabriel Fernando,Design de Apresentacoes,,2015,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Espacos Virtuais,,2014,7.35,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Experiencia em Museus,,2013,7.63,APROVADO
-Gabriel Fernando,Design de Impacto Social,,2016,10.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interacao Corporal,,2014,9.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interacao Cultural,,2014,9.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interacao Social,,2015,8.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interacao Tangivel,,2016,7.75,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interacao em Tempo Real,,2014,9.75,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Interfaces Neuromorficas,,2013,9.75,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Joias,,2013,7.65,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Mobiliario,,2012,,APROVADO POR FREQÜÊNCIA
-Gabriel Fernando,Design de Narrativa Espacial,,2014,10.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Produto,,2014,8.35,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Realidade Aumentada (AR) e Virtual (VR),,2014,8.5,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Redes Sociais,,2015,7.75,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Tecnologia Vestivel (Wearable),,2013,9.0,APROVADO POR MÉDIA
-Gabriel Fernando,Design de Visualizacao de Informacoes,,2012,6.25,APROVADO
-Gabriel Fernando,Design para Longevidade,,2012,7.25,APROVADO POR MÉDIA
-Gabriel Fernando,Ecodesign,,2014,7.25,APROVADO POR MÉDIA
-Gabriel Fernando,Ergonomia,,2013,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Etica em Design,,2015,7.75,APROVADO POR MÉDIA
-Gabriel Fernando,FORMADO,,2016,,
-Gabriel Fernando,Gamificacao,,2013,7.5,APROVADO POR MÉDIA
-Gabriel Fernando,Gestao de Marcas,,2015,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,INTEGRALIZADO,,2016,,
-Gabriel Fernando,Identidade Visual,,2012,9.75,APROVADO POR MÉDIA
-Gabriel Fernando,Impressao 3D,,2013,8.5,APROVADO POR MÉDIA
-Gabriel Fernando,Interacao Tangivel,,2014,8.0,APROVADO POR MÉDIA
-Gabriel Fernando,Manipulacao de Imagem,,2013,7.1,APROVADO POR MÉDIA
-Gabriel Fernando,Marketing de Produto,,2013,9.0,APROVADO POR MÉDIA
-Gabriel Fernando,Materiais e Processos,,2016,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Projeto Integrado,,2013,7.3,APROVADO POR MÉDIA
-Gabriel Fernando,Prototipagem em Papel,,2014,8.0,APROVADO POR MÉDIA
-Gabriel Fernando,SemiÃ³tica,,2016,8.0,APROVADO POR MÉDIA
-Gabriel Fernando,Storytelling Visual,,2012,7.0,APROVADO POR MÉDIA
-Gabriel Fernando,Tecnicas de Iluminacao,,2016,9.5,APROVADO POR MÉDIA
-Gabriel Fernando,Teoria da Cor,,2015,10.0,APROVADO POR MÉDIA
-Gabriel Fernando,Teoria do Design,,2015,7.9,APROVADO POR MÉDIA
-Gabriel Fernando,Tipografia,,2013,6.39,APROVADO
-Gustavo Matheus,Computacao Grafica,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,DESVINCULADO,,2016,,
-Gustavo Matheus,Design Colaborativo,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,Design de Mobiliario,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,Design de Visualizacao de Informacoes,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,Design para Longevidade,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,Identidade Visual,,2016,,REPROVADO POR FALTA
-Gustavo Matheus,Storytelling Visual,,2016,7.5,APROVADO POR MÉDIA
-Gustavo Rafael,DESVINCULADO,,2005,,
-Gustavo Rafael,TRANCAMENTO,,2005,,
-Isabela Maria,Computacao Grafica,,2006,,REPROVADO POR FALTA
-Isabela Maria,DESVINCULADO,,2007,,
-Isabela Maria,Design Colaborativo,,2006,,REPROVADO POR FALTA
-Isabela Maria,Design de Mobiliario,,2006,,REPROVADO POR FALTA
-Isabela Maria,Design de Visualizacao de Informacoes,,2006,,REPROVADO POR FALTA
-Isabela Maria,Design para Longevidade,,2006,,REPROVADO POR FALTA
-Isabela Maria,Identidade Visual,,2006,,REPROVADO POR FALTA
-Isabela Maria,Storytelling Visual,,2006,,REPROVADO POR FALTA
-Leonardo Luana,Computacao Grafica,,2015,,REPROVADO POR FALTA
-Leonardo Luana,DESVINCULADO,,2015,,
-Leonardo Luana,Design Colaborativo,,2015,,REPROVADO POR FALTA
-Leonardo Luana,Design de Mobiliario,,2015,,REPROVADO POR FALTA
-Leonardo Luana,Design de Visualizacao de Informacoes,,2015,,REPROVADO POR FALTA
-Leonardo Luana,Design para Longevidade,,2015,,REPROVADO POR FALTA
-Leonardo Luana,Identidade Visual,,2015,,REPROVADO POR FALTA
-Leonardo Luana,Storytelling Visual,,2015,,REPROVADO POR FALTA
-Luana Diego,Design Editorial,Gustavo Martins,2023,6.22,APROVADO
-Luana Diego,Design Estrategico,,2023,,CURSANDO
-Luana Diego,Design Sustentavel,,2023,,CURSANDO
-Luana Diego,Design de Acessibilidade,,2023,,CURSANDO
-Luana Diego,Design de Embalagens,Carla Souza,2023,7.55,APROVADO POR MÉDIA
-Luana Diego,Design de Instrumentos Musicais,,2023,,CURSANDO
-Luana Diego,Design de Interacao Emocional,,2023,,CURSANDO
-Luana Diego,Design de Intervencao,Joao Silva,2023,9.45,APROVADO POR MÉDIA
-Luana Diego,Design de Mobiliario Urbano,Marcos Ferreira,2023,8.5,APROVADO POR MÉDIA
-Luana Diego,Fabricacao Digital,Pedro Oliveira,2023,9.15,APROVADO POR MÉDIA
-Luana Diego,Principios de Design,Patricia Nunes,2023,2.0,REPROVADO
-Luana Diego,Visualizacao de Dados,,2023,,CURSANDO
-Luana Joao,Computacao Grafica,,2017,9.4,APROVADO POR MÉDIA
-Luana Joao,DESVINCULADO,,2018,,
-Luana Joao,Design Colaborativo,,2017,5.0,APROVADO
-Luana Joao,Design de Mobiliario,,2017,8.23,APROVADO POR MÉDIA
-Luana Joao,Design de Visualizacao de Informacoes,,2017,10.0,APROVADO POR MÉDIA
-Luana Joao,Design para Longevidade,,2017,,REPROVADO POR FALTA
-Luana Joao,Identidade Visual,,2017,8.25,APROVADO POR MÉDIA
-Luana Joao,MATRICULA VINCULO,,2017,,
-Luana Joao,Storytelling Visual,,2017,7.0,APROVADO POR MÉDIA
-Luana Joao,TRANCAMENTO,,2018,,
-Luana Lucas,Computacao Grafica,,2005,8.0,APROVADO POR MÉDIA
-Luana Lucas,DESVINCULADO,,2005,,
-Luana Lucas,Design Colaborativo,,2005,7.7,APROVADO POR MÉDIA
-Luana Lucas,Design de Mobiliario,,2005,10.0,APROVADO POR MÉDIA
-Luana Lucas,Design de Visualizacao de Informacoes,,2005,7.75,APROVADO POR MÉDIA
-Luana Lucas,Design para Longevidade,,2005,7.5,APROVADO POR MÉDIA
-Luana Lucas,Identidade Visual,,2005,,APROVADO POR FREQÜÊNCIA
-Luana Lucas,Storytelling Visual,,2005,,REPROVADO POR FALTA
-Maria Fernando,Criacao de Personagens,Juliana Rodrigues,2023,9.85,APROVADO POR MÉDIA
-Maria Fernando,Design Editorial,Gustavo Martins,2022,9.0,APROVADO POR MÉDIA
-Maria Fernando,Design Estrategico,Carla Souza,2022,9.75,APROVADO POR MÉDIA
-Maria Fernando,Design Generativo,Larissa Vieira,2023,9.0,APROVADO POR MÉDIA
-Maria Fernando,Design Participativo,Larissa Vieira,2023,9.0,APROVADO POR MÉDIA
-Maria Fernando,Design Sustentavel,Joao Silva,2022,7.5,APROVADO POR MÉDIA
-Maria Fernando,Design de Acessibilidade,Carla Souza,2022,9.55,APROVADO POR MÉDIA
-Maria Fernando,Design de Comportamento,Pedro Oliveira,2023,9.15,APROVADO POR MÉDIA
-Maria Fernando,Design de Embalagens,Carla Souza,2022,9.15,APROVADO POR MÉDIA
-Maria Fernando,Design de Experiencia em Varejo,,2023,,CURSANDO
-Maria Fernando,Design de Instrumentos Musicais,Andre Almeida,2022,7.5,APROVADO POR MÉDIA
-Maria Fernando,Design de Interacao Emocional,Pedro Oliveira,2022,7.75,APROVADO POR MÉDIA
-Maria Fernando,Design de Interface (UI),,2023,,CURSANDO
-Maria Fernando,Design de Intervencao,Joao Silva,2022,8.0,APROVADO POR MÉDIA
-Maria Fernando,Design de Mobiliario Urbano,Marcos Ferreira,2022,8.5,APROVADO POR MÉDIA
-Maria Fernando,Design de Rituais e Cerimonias,,2023,,CURSANDO
-Maria Fernando,Design de Veiculos,Juliana Rodrigues,2023,10.0,APROVADO POR MÉDIA
-Maria Fernando,Estrategias de Comunicacao,,2023,,CURSANDO
-Maria Fernando,Fabricacao Digital,Pedro Oliveira,2022,9.75,APROVADO POR MÉDIA
-Maria Fernando,Pesquisa em Design,Marcos Ferreira,2023,9.5,APROVADO POR MÉDIA
-Maria Fernando,Principios de Design,Patricia Nunes,2022,7.75,APROVADO POR MÉDIA
-Maria Fernando,Psicologia do Consumidor,,2023,,CURSANDO
-Maria Fernando,Visualizacao de Dados,Andre Almeida,2022,9.0,APROVADO POR MÉDIA
-Mariana Laura,Branding,,2022,7.5,APROVADO POR MÉDIA
-Mariana Laura,Computacao Grafica,Marcos Ferreira,2021,8.0,APROVADO POR MÉDIA
-Mariana Laura,Design Colaborativo,Fernanda Lima,2021,8.46,APROVADO POR MÉDIA
-Mariana Laura,Design Parametrico,Juliana Rodrigues,2023,7.2,APROVADO POR MÉDIA
-Mariana Laura,Design Thinking,Joao Silva,2023,9.5,APROVADO POR MÉDIA
-Mariana Laura,Design de Aprendizado,Ana Costa,2021,3.85,REPROVADO
-Mariana Laura,Design de Comportamento,Pedro Oliveira,2023,7.63,APROVADO POR MÉDIA
-Mariana Laura,Design de Experiencia em Museus,Pedro Oliveira,2021,5.78,APROVADO
-Mariana Laura,Design de Interacao em Tempo Real,,2022,10.0,APROVADO POR MÉDIA
-Mariana Laura,Design de Interface (UI),,2023,,CURSANDO
-Mariana Laura,Design de Interfaces Neuromorficas,Marcos Ferreira,2022,10.0,APROVADO POR MÉDIA
+nome,disciplina,ano,nota,situacao,semestre
+Vanessa Rafael,Storytelling Visual,2011,5.4,APROVADO,1
+Vanessa Rafael,Design Colaborativo,2011,1.65,REPROVADO,1
+Vanessa Rafael,Computacao Grafica,2011,7.25,APROVADO POR MÉDIA,1
+Vanessa Rafael,Design para Longevidade,2011,5.0,APROVADO,1
+Vanessa Rafael,Design de Mobiliario,2011,,APROVADO POR FREQÜÊNCIA,1
+Vanessa Rafael,Design de Visualizacao de Informacoes,2011,5.0,APROVADO,1
+Vanessa Rafael,Identidade Visual,2011,7.5,APROVADO POR MÉDIA,1
+Vanessa Rafael,Gamificacao,2011,7.5,APROVADO POR MÉDIA,2
+Vanessa Rafael,Design de Experiencia em Museus,2011,7.0,APROVADO POR MÉDIA,2
+Vanessa Rafael,Cultura Visual,2011,5.38,APROVADO,2
+Vanessa Rafael,Design de Joias,2011,3.55,REPROVADO,2
+Vanessa Rafael,Ergonomia,2011,7.5,APROVADO POR MÉDIA,2
+Vanessa Rafael,Design Colaborativo,2012,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design Thinking,2012,5.3,APROVADO,1
+Vanessa Rafael,Design de Interfaces Neuromorficas,2012,,REPROVADO POR FALTA,1
+Vanessa Rafael,Tipografia,2012,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Joias,2012,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),2012,,REPROVADO POR FALTA,2
+Vanessa Rafael,Design de Interfaces Neuromorficas,2012,,REPROVADO POR FALTA,2
+Vanessa Rafael,Tipografia,2012,,REPROVADO POR FALTA,2
+Vanessa Rafael,Design de Joias,2012,,REPROVADO POR FALTA,2
+Vanessa Rafael,Branding,2012,,REPROVADO POR FALTA,2
+Vanessa Rafael,Design Colaborativo,2013,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),2013,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Interfaces Neuromorficas,2013,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Joias,2013,,REPROVADO POR FALTA,1
+Vanessa Rafael,Branding,2013,,REPROVADO POR FALTA,1
+Vanessa Rafael,Design de Interfaces Neuromorficas,2013,,REPROVADO POR FALTA,2
+Vanessa Rafael,Design de Joias,2013,,REPROVADO POR FALTA,2
+Vanessa Rafael,Interacao Tangivel,2013,,REPROVADO POR FALTA,2
+Vanessa Rafael,DESVINCULADO,2014,,,1
+Mauricio Fernando,"Storytelling Visual
+DOCENTE(S): Maria Santos",2020,8.5,APROVADO POR MÉDIA,3
+Mauricio Fernando,"Design Colaborativo
+DOCENTE(S): Fernanda Lima",2020,7.3,APROVADO POR MÉDIA,3
+Mauricio Fernando,"Design de Visualizacao de Informacoes
+DOCENTE(S): Andre Almeida",2020,5.9,APROVADO,3
+Mauricio Fernando,"Identidade Visual
+DOCENTE(S): Joao Silva",2020,8.5,APROVADO POR MÉDIA,3
+Mauricio Fernando,"Computacao Grafica
+DOCENTE(S): Marcos Ferreira",2020,9.5,APROVADO POR MÉDIA,1
+Mauricio Fernando,"Design para Longevidade
+DOCENTE(S): Marcos Ferreira",2020,9.97,APROVADO POR MÉDIA,1
+Mauricio Fernando,"Design de Mobiliario
+DOCENTE(S): Fernanda Lima",2020,8.9,APROVADO POR MÉDIA,1
+Mauricio Fernando,"Gamificacao
+DOCENTE(S): Luiz Pereira",2020,8.9,APROVADO POR MÉDIA,1
+Mauricio Fernando,"Design de Experiencia em Museus
+DOCENTE(S): Pedro Oliveira",2020,10.0,APROVADO POR MÉDIA,1
+Mauricio Fernando,"Design de Aprendizado
+DOCENTE(S): Ana Costa",2020,6.0,APROVADO,2
+Mauricio Fernando,"Projeto Integrado
+DOCENTE(S): Fernanda Lima",2020,9.6,APROVADO POR MÉDIA,2
+Mauricio Fernando,"Design de Tecnologia Vestivel (Wearable)
+DOCENTE(S): Andre Almeida",2020,7.5,APROVADO POR MÉDIA,2
+Mauricio Fernando,"Design de Interfaces Neuromorficas
+DOCENTE(S): Marcos Ferreira",2020,7.0,APROVADO POR MÉDIA,2
+Mauricio Fernando,"Ergonomia
+DOCENTE(S): Pedro Oliveira",2020,7.5,APROVADO POR MÉDIA,2
+Mauricio Fernando,"Tipografia
+DOCENTE(S): Joao Silva",2021,3.4,REPROVADO,1
+Mauricio Fernando,"Ecodesign
+DOCENTE(S): Diego Cardoso",2021,7.1,APROVADO POR MÉDIA,2
+Mauricio Fernando,"Design Thinking
+DOCENTE(S): Joao Silva",2022,,REPROVADO POR FALTA,1
+Mauricio Fernando,DESVINCULADO,2022,,,2
+Luana Joao,Storytelling Visual,2017,7.0,APROVADO POR MÉDIA,1
+Luana Joao,Design Colaborativo,2017,5.0,APROVADO,1
+Luana Joao,Computacao Grafica,2017,9.4,APROVADO POR MÉDIA,1
+Luana Joao,Design para Longevidade,2017,,REPROVADO POR FALTA,1
+Luana Joao,Design de Mobiliario,2017,8.23,APROVADO POR MÉDIA,1
+Luana Joao,Design de Visualizacao de Informacoes,2017,10.0,APROVADO POR MÉDIA,1
+Luana Joao,Identidade Visual,2017,8.25,APROVADO POR MÉDIA,1
+Luana Joao,MATRICULA VINCULO,2017,,,2
+Luana Joao,TRANCAMENTO,2018,,,1
+Luana Joao,DESVINCULADO,2018,,,2
+Gustavo Matheus,Storytelling Visual,2016,7.5,APROVADO POR MÉDIA,1
+Gustavo Matheus,Design Colaborativo,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,Computacao Grafica,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,Design para Longevidade,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,Design de Mobiliario,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,Design de Visualizacao de Informacoes,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,Identidade Visual,2016,,REPROVADO POR FALTA,1
+Gustavo Matheus,DESVINCULADO,2016,,,2
+Wagner Isabela,"Fabricacao Digital
+DOCENTE(S): Pedro Oliveira",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,"Design de Mobiliario Urbano
+DOCENTE(S): Marcos Ferreira",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,"Principios de Design
+DOCENTE(S): Patricia Nunes",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,"Design de Embalagens
+DOCENTE(S): Carla Souza",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,"Design Editorial
+DOCENTE(S): Gustavo Martins",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,"Design de Intervencao
+DOCENTE(S): Joao Silva",2022,,REPROVADO POR FALTA,1
+Wagner Isabela,DESVINCULADO,2022,,,2
+DOCENTE(S): -----------.,Storytelling Visual,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Design Colaborativo,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Computacao Grafica,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Design para Longevidade,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Design de Mobiliario,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Design de Visualizacao de Informacoes,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,Identidade Visual,2016,,REPROVADO POR FALTA,1
+DOCENTE(S): -----------.,DESVINCULADO,2016,,,2
+Leonardo Luana,Storytelling Visual,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Design Colaborativo,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Computacao Grafica,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Design para Longevidade,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Design de Mobiliario,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Design de Visualizacao de Informacoes,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,Identidade Visual,2015,,REPROVADO POR FALTA,1
+Leonardo Luana,DESVINCULADO,2015,,,2
+Luana Diego,"Fabricacao Digital
+DOCENTE(S): Pedro Oliveira",2023,9.15,APROVADO POR MÉDIA,1
+Luana Diego,"Design de Mobiliario Urbano
+DOCENTE(S): Marcos Ferreira",2023,8.5,APROVADO POR MÉDIA,1
+Luana Diego,"Principios de Design
+DOCENTE(S): Patricia Nunes",2023,2.0,REPROVADO,1
+Luana Diego,"Design de Embalagens
+DOCENTE(S): Carla Souza",2023,7.55,APROVADO POR MÉDIA,1
+Luana Diego,"Design Editorial
+DOCENTE(S): Gustavo Martins",2023,6.22,APROVADO,1
+Luana Diego,"Design de Intervencao
+DOCENTE(S): Joao Silva",2023,9.45,APROVADO POR MÉDIA,1
+Luana Diego,Design Sustentavel,2023,,CURSANDO,2
+Luana Diego,Visualizacao de Dados,2023,,CURSANDO,2
+Luana Diego,Design de Interacao Emocional,2023,,CURSANDO,2
+Luana Diego,Design Estrategico,2023,,CURSANDO,2
+Luana Diego,Design de Acessibilidade,2023,,CURSANDO,2
+Luana Diego,Design de Instrumentos Musicais,2023,,CURSANDO,2
+Mariana Laura,"Storytelling Visual
+DOCENTE(S): Maria Santos",2021,8.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Design Colaborativo
+DOCENTE(S): Fernanda Lima",2021,8.46,APROVADO POR MÉDIA,1
+Mariana Laura,"Computacao Grafica
+DOCENTE(S): Marcos Ferreira",2021,8.0,APROVADO POR MÉDIA,1
+Mariana Laura,"Design para Longevidade
+DOCENTE(S): Marcos Ferreira",2021,2.75,REPROVADO,1
+Mariana Laura,"Design de Mobiliario
+DOCENTE(S): Fernanda Lima",2021,9.25,APROVADO POR MÉDIA,1
+Mariana Laura,"Design de Visualizacao de Informacoes
+DOCENTE(S): Andre Almeida",2021,8.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Identidade Visual
+DOCENTE(S): Joao Silva",2021,9.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Design de Aprendizado
+DOCENTE(S): Ana Costa",2021,3.85,REPROVADO,2
+Mariana Laura,"Projeto Integrado
+DOCENTE(S): Fernanda Lima",2021,2.15,REPROVADO,2
+Mariana Laura,"Design de Tecnologia Vestivel (Wearable)
+DOCENTE(S): Andre Almeida",2021,9.7,APROVADO POR MÉDIA,2
 Mariana Laura,"Design de Interfaces Neuromorficas
-
-DA SILVA (MESTRADO).",Marcos Ferreira,2021,3.78,REPROVADO
-Mariana Laura,Design de Joias,Gustavo Martins,2022,7.0,APROVADO POR MÉDIA
-Mariana Laura,Design de Mobiliario,Fernanda Lima,2021,9.25,APROVADO POR MÉDIA
-Mariana Laura,Design de Produto,,2022,7.45,APROVADO
-Mariana Laura,Design de Tecnologia Vestivel (Wearable),Andre Almeida,2021,9.7,APROVADO POR MÉDIA
-Mariana Laura,Design de Visualizacao de Informacoes,Andre Almeida,2021,8.5,APROVADO POR MÉDIA
-Mariana Laura,Design para Longevidade,Marcos Ferreira,2021,2.75,REPROVADO
-Mariana Laura,Ecodesign,Diego Cardoso,2022,7.13,APROVADO POR MÉDIA
-Mariana Laura,Ergonomia,Pedro Oliveira,2021,7.0,APROVADO POR MÉDIA
-Mariana Laura,Estrategias de Comunicacao,,2023,,CURSANDO
-Mariana Laura,Etica em Design,,2023,,CURSANDO
-Mariana Laura,Gamificacao,Luiz Pereira,2022,9.5,APROVADO POR MÉDIA
-Mariana Laura,Identidade Visual,Joao Silva,2021,9.5,APROVADO POR MÉDIA
-Mariana Laura,Impressao 3D,Marcos Ferreira,2022,8.05,APROVADO POR MÉDIA
-Mariana Laura,Interacao Tangivel,,2023,,CURSANDO
-Mariana Laura,Manipulacao de Imagem,Diego Cardoso,2023,7.25,APROVADO POR MÉDIA
-Mariana Laura,Projeto Integrado,Fernanda Lima,2021,2.15,REPROVADO
-Mariana Laura,Storytelling Visual,Maria Santos,2021,8.5,APROVADO POR MÉDIA
-Mariana Laura,Tipografia,Joao Silva,2022,4.15,REPROVADO
-Mauricio Fernando,Computacao Grafica,Marcos Ferreira,2020,9.5,APROVADO POR MÉDIA
-Mauricio Fernando,DESVINCULADO,,2022,,
-Mauricio Fernando,Design Colaborativo,Fernanda Lima,2020,7.3,APROVADO POR MÉDIA
-Mauricio Fernando,Design Thinking,Joao Silva,2022,,REPROVADO POR FALTA
-Mauricio Fernando,Design de Aprendizado,Ana Costa,2020,6.0,APROVADO
-Mauricio Fernando,Design de Experiencia em Museus,Pedro Oliveira,2020,10.0,APROVADO POR MÉDIA
-Mauricio Fernando,Design de Interfaces Neuromorficas,Marcos Ferreira,2020,7.0,APROVADO POR MÉDIA
-Mauricio Fernando,Design de Mobiliario,Fernanda Lima,2020,8.9,APROVADO POR MÉDIA
-Mauricio Fernando,Design de Tecnologia Vestivel (Wearable),Andre Almeida,2020,7.5,APROVADO POR MÉDIA
-Mauricio Fernando,Design de Visualizacao de Informacoes,Andre Almeida,2020,5.9,APROVADO
-Mauricio Fernando,Design para Longevidade,Marcos Ferreira,2020,9.97,APROVADO POR MÉDIA
-Mauricio Fernando,Ecodesign,Diego Cardoso,2021,7.1,APROVADO POR MÉDIA
-Mauricio Fernando,Ergonomia,Pedro Oliveira,2020,7.5,APROVADO POR MÉDIA
-Mauricio Fernando,Gamificacao,Luiz Pereira,2020,8.9,APROVADO POR MÉDIA
-Mauricio Fernando,Identidade Visual,Joao Silva,2020,8.5,APROVADO POR MÉDIA
-Mauricio Fernando,Projeto Integrado,Fernanda Lima,2020,9.6,APROVADO POR MÉDIA
-Mauricio Fernando,Storytelling Visual,Maria Santos,2020,8.5,APROVADO POR MÉDIA
-Mauricio Fernando,Tipografia,Joao Silva,2021,3.4,REPROVADO
-Miguel Nathanael,Branding,,2007,5.63,APROVADO
-Miguel Nathanael,Computacao Grafica,,2005,9.0,APROVADO POR MÉDIA
-Miguel Nathanael,Comunicacao Visual,,2008,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Cultura Visual,,2007,6.28,APROVADO
-Miguel Nathanael,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO
-Miguel Nathanael,Design Biomimetico,,2008,7.5,APROVADO POR MÉDIA
-Miguel Nathanael,Design Cenico,,2009,7.38,APROVADO POR MÉDIA
-Miguel Nathanael,Design Cibernetico,,2007,8.7,APROVADO POR MÉDIA
-Miguel Nathanael,Design Colaborativo,,2005,7.2,APROVADO POR MÉDIA
-Miguel Nathanael,Design Computacional,,2007,8.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design Digital,,2007,7.1,APROVADO
-Miguel Nathanael,Design Experimental,,2008,5.0,APROVADO
-Miguel Nathanael,Design Experimental,,2008,,REPROVADO POR FALTA
-Miguel Nathanael,Design Parametrico,,2007,7.38,APROVADO
-Miguel Nathanael,Design Sonoro,,2009,8.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design Thinking,,2007,7.5,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Aprendizado,,2006,,REPROVADO POR FALTA
-Miguel Nathanael,Design de Aprendizado,,2007,5.0,APROVADO
-Miguel Nathanael,Design de Apresentacoes,,2007,8.75,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Espacos Virtuais,,2008,,REPROVADO POR FALTA
-Miguel Nathanael,Design de Espacos Virtuais,,2009,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Espacos Virtuais,,2009,,REPROVADO POR FALTA
-Miguel Nathanael,Design de Experiencia em Museus,,2006,8.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Impressao e Publicacao,,2009,,CANCELADO COM ONUS
-Miguel Nathanael,Design de Interacao Corporal,,2007,8.25,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Interacao Cultural,,2008,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Interacao Tangivel,,2008,7.25,APROVADO
-Miguel Nathanael,Design de Interacao em Tempo Real,,2007,8.2,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Interfaces Neuromorficas,,2006,10.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Jogos,,2009,7.5,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Joias,,2006,8.05,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Mobiliario,,2005,,APROVADO POR FREQÜÊNCIA
-Miguel Nathanael,Design de Narrativa Espacial,,2007,7.35,APROVADO
-Miguel Nathanael,Design de Produto,,2008,8.0,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Produto,,2008,,REPROVADO POR FALTA
-Miguel Nathanael,Design de Realidade Aumentada (AR) e Virtual (VR),,2006,8.5,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Redes Sociais,,2008,7.95,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Tecnologia Vestivel (Wearable),,2006,7.5,APROVADO POR MÉDIA
-Miguel Nathanael,Design de Visualizacao de Informacoes,,2005,8.3,APROVADO POR MÉDIA
-Miguel Nathanael,Design para Longevidade,,2005,5.0,APROVADO
-Miguel Nathanael,Ecodesign,,2006,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Ergonomia,,2006,8.45,APROVADO POR MÉDIA
-Miguel Nathanael,Etica em Design,,2009,6.88,APROVADO
-Miguel Nathanael,FORMADO,,2009,,
-Miguel Nathanael,Gamificacao,,2006,7.75,APROVADO POR MÉDIA
-Miguel Nathanael,Gestao de Marcas,,2007,6.65,APROVADO
-Miguel Nathanael,INTEGRALIZADO,,2009,,
-Miguel Nathanael,Identidade Visual,,2005,2.0,REPROVADO
-Miguel Nathanael,Identidade Visual,,2007,5.0,APROVADO
-Miguel Nathanael,Impressao 3D,,2006,9.0,APROVADO POR MÉDIA
-Miguel Nathanael,Interacao Tangivel,,2007,,APROVADO POR FREQÜÊNCIA
-Miguel Nathanael,Manipulacao de Imagem,,2006,8.0,APROVADO
-Miguel Nathanael,Marketing de Produto,,2006,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Materiais e Processos,,2008,8.15,APROVADO POR MÉDIA
-Miguel Nathanael,Modelagem 3D,,2009,8.35,APROVADO POR MÉDIA
-Miguel Nathanael,Projeto Integrado,,2006,6.25,APROVADO
-Miguel Nathanael,Prototipagem em Papel,,2007,9.5,APROVADO POR MÉDIA
-Miguel Nathanael,SemiÃ³tica,,2008,8.5,APROVADO POR MÉDIA
-Miguel Nathanael,Storytelling Visual,,2005,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Tecnicas de Iluminacao,,2009,5.25,APROVADO
-Miguel Nathanael,Tecnicas de Iluminacao,,2009,,REPROVADO POR FALTA
-Miguel Nathanael,Teoria da Cor,,2008,,REPROVADO POR FALTA
-Miguel Nathanael,Teoria da Cor,,2009,7.0,APROVADO POR MÉDIA
-Miguel Nathanael,Teoria do Design,,2008,5.5,APROVADO
-Miguel Nathanael,Tipografia,,2006,5.88,APROVADO
-Rodrigo Pedro,DESLIGAMENTO,,2019,,
-Vanessa Rafael,Branding,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Branding,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Computacao Grafica,,2011,7.25,APROVADO POR MÉDIA
-Vanessa Rafael,Cultura Visual,,2011,5.38,APROVADO
-Vanessa Rafael,DESVINCULADO,,2014,,
-Vanessa Rafael,Design Colaborativo,,2011,1.65,REPROVADO
-Vanessa Rafael,Design Colaborativo,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design Colaborativo,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design Thinking,,2012,5.3,APROVADO
-Vanessa Rafael,Design de Experiencia em Museus,,2011,7.0,APROVADO POR MÉDIA
-Vanessa Rafael,Design de Interfaces Neuromorficas,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Interfaces Neuromorficas,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Interfaces Neuromorficas,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Interfaces Neuromorficas,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Joias,,2011,3.55,REPROVADO
-Vanessa Rafael,Design de Joias,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Joias,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Joias,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Joias,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Mobiliario,,2011,,APROVADO POR FREQÜÊNCIA
-Vanessa Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Realidade Aumentada (AR) e Virtual (VR),,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Design de Visualizacao de Informacoes,,2011,5.0,APROVADO
-Vanessa Rafael,Design para Longevidade,,2011,5.0,APROVADO
-Vanessa Rafael,Ergonomia,,2011,7.5,APROVADO POR MÉDIA
-Vanessa Rafael,Gamificacao,,2011,7.5,APROVADO POR MÉDIA
-Vanessa Rafael,Identidade Visual,,2011,7.5,APROVADO POR MÉDIA
-Vanessa Rafael,Interacao Tangivel,,2013,,REPROVADO POR FALTA
-Vanessa Rafael,Storytelling Visual,,2011,5.4,APROVADO
-Vanessa Rafael,Tipografia,,2012,,REPROVADO POR FALTA
-Vanessa Rafael,Tipografia,,2012,,REPROVADO POR FALTA
-Wagner Isabela,DESVINCULADO,,2022,,
-Wagner Isabela,Design Editorial,Gustavo Martins,2022,,REPROVADO POR FALTA
-Wagner Isabela,Design de Embalagens,Carla Souza,2022,,REPROVADO POR FALTA
-Wagner Isabela,Design de Intervencao,Joao Silva,2022,,REPROVADO POR FALTA
-Wagner Isabela,Design de Mobiliario Urbano,Marcos Ferreira,2022,,REPROVADO POR FALTA
-Wagner Isabela,Fabricacao Digital,Pedro Oliveira,2022,,REPROVADO POR FALTA
-Wagner Isabela,Principios de Design,Patricia Nunes,2022,,REPROVADO POR FALTA
+DOCENTE(S): Marcos Ferreira
+DA SILVA (MESTRADO).",2021,3.78,REPROVADO,2
+Mariana Laura,"Design de Experiencia em Museus
+DOCENTE(S): Pedro Oliveira",2021,5.78,APROVADO,2
+Mariana Laura,"Ergonomia
+DOCENTE(S): Pedro Oliveira",2021,7.0,APROVADO POR MÉDIA,2
+Mariana Laura,"Gamificacao
+DOCENTE(S): Luiz Pereira",2022,9.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Design de Interfaces Neuromorficas
+DOCENTE(S): Marcos Ferreira",2022,10.0,APROVADO POR MÉDIA,1
+Mariana Laura,"Tipografia
+DOCENTE(S): Joao Silva",2022,4.15,REPROVADO,1
+Mariana Laura,"Design de Joias
+DOCENTE(S): Gustavo Martins",2022,7.0,APROVADO POR MÉDIA,1
+Mariana Laura,Branding,2022,7.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Ecodesign
+DOCENTE(S): Diego Cardoso",2022,7.13,APROVADO POR MÉDIA,2
+Mariana Laura,Design de Interacao em Tempo Real,2022,10.0,APROVADO POR MÉDIA,2
+Mariana Laura,"Impressao 3D
+DOCENTE(S): Marcos Ferreira",2022,8.05,APROVADO POR MÉDIA,2
+Mariana Laura,Design de Produto,2022,7.45,APROVADO,2
+Mariana Laura,"Manipulacao de Imagem
+DOCENTE(S): Diego Cardoso",2023,7.25,APROVADO POR MÉDIA,1
+Mariana Laura,"Design Thinking
+DOCENTE(S): Joao Silva",2023,9.5,APROVADO POR MÉDIA,1
+Mariana Laura,"Design de Comportamento
+DOCENTE(S): Pedro Oliveira",2023,7.63,APROVADO POR MÉDIA,1
+Mariana Laura,"Design Parametrico
+DOCENTE(S): Juliana Rodrigues",2023,7.2,APROVADO POR MÉDIA,1
+Mariana Laura,Design de Interface (UI),2023,,CURSANDO,2
+Mariana Laura,Estrategias de Comunicacao,2023,,CURSANDO,2
+Mariana Laura,Interacao Tangivel,2023,,CURSANDO,2
+Mariana Laura,Etica em Design,2023,,CURSANDO,2
+Isabela Maria,Storytelling Visual,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Design Colaborativo,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Computacao Grafica,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Design para Longevidade,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Design de Mobiliario,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Design de Visualizacao de Informacoes,2006,,REPROVADO POR FALTA,2
+Isabela Maria,Identidade Visual,2006,,REPROVADO POR FALTA,2
+Isabela Maria,DESVINCULADO,2007,,,1
+Maria Fernando,"Fabricacao Digital
+DOCENTE(S): Pedro Oliveira",2022,9.75,APROVADO POR MÉDIA,1
+Maria Fernando,"Design de Mobiliario Urbano
+DOCENTE(S): Marcos Ferreira",2022,8.5,APROVADO POR MÉDIA,1
+Maria Fernando,"Principios de Design
+DOCENTE(S): Patricia Nunes",2022,7.75,APROVADO POR MÉDIA,1
+Maria Fernando,"Design de Embalagens
+DOCENTE(S): Carla Souza",2022,9.15,APROVADO POR MÉDIA,1
+Maria Fernando,"Design Editorial
+DOCENTE(S): Gustavo Martins",2022,9.0,APROVADO POR MÉDIA,1
+Maria Fernando,"Design de Intervencao
+DOCENTE(S): Joao Silva",2022,8.0,APROVADO POR MÉDIA,1
+Maria Fernando,"Design Sustentavel
+DOCENTE(S): Joao Silva",2022,7.5,APROVADO POR MÉDIA,2
+Maria Fernando,"Visualizacao de Dados
+DOCENTE(S): Andre Almeida",2022,9.0,APROVADO POR MÉDIA,2
+Maria Fernando,"Design de Interacao Emocional
+DOCENTE(S): Pedro Oliveira",2022,7.75,APROVADO POR MÉDIA,2
+Maria Fernando,"Design Estrategico
+DOCENTE(S): Carla Souza",2022,9.75,APROVADO POR MÉDIA,2
+Maria Fernando,"Design de Acessibilidade
+DOCENTE(S): Carla Souza",2022,9.55,APROVADO POR MÉDIA,2
+Maria Fernando,"Design de Instrumentos Musicais
+DOCENTE(S): Andre Almeida",2022,7.5,APROVADO POR MÉDIA,2
+Maria Fernando,"Design Generativo
+DOCENTE(S): Larissa Vieira",2023,9.0,APROVADO POR MÉDIA,1
+Maria Fernando,"Design Participativo
+DOCENTE(S): Larissa Vieira",2023,9.0,APROVADO POR MÉDIA,1
+Maria Fernando,"Pesquisa em Design
+DOCENTE(S): Marcos Ferreira",2023,9.5,APROVADO POR MÉDIA,1
+Maria Fernando,"Criacao de Personagens
+DOCENTE(S): Juliana Rodrigues",2023,9.85,APROVADO POR MÉDIA,1
+Maria Fernando,"Design de Veiculos
+DOCENTE(S): Juliana Rodrigues",2023,10.0,APROVADO POR MÉDIA,1
+Maria Fernando,"Design de Comportamento
+DOCENTE(S): Pedro Oliveira",2023,9.15,APROVADO POR MÉDIA,1
+Maria Fernando,Design de Interface (UI),2023,,CURSANDO,2
+Maria Fernando,Estrategias de Comunicacao,2023,,CURSANDO,2
+Maria Fernando,Design de Rituais e Cerimonias,2023,,CURSANDO,2
+Maria Fernando,Psicologia do Consumidor,2023,,CURSANDO,2
+Maria Fernando,Design de Experiencia em Varejo,2023,,CURSANDO,2
+Luana Lucas,Storytelling Visual,2005,,REPROVADO POR FALTA,1
+Luana Lucas,Design Colaborativo,2005,7.7,APROVADO POR MÉDIA,1
+Luana Lucas,Computacao Grafica,2005,8.0,APROVADO POR MÉDIA,1
+Luana Lucas,Design para Longevidade,2005,7.5,APROVADO POR MÉDIA,1
+Luana Lucas,Design de Mobiliario,2005,10.0,APROVADO POR MÉDIA,1
+Luana Lucas,Design de Visualizacao de Informacoes,2005,7.75,APROVADO POR MÉDIA,1
+Luana Lucas,Identidade Visual,2005,,APROVADO POR FREQÜÊNCIA,1
+Luana Lucas,DESVINCULADO,2005,,,2
+Miguel Nathanael,Storytelling Visual,2005,7.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design Colaborativo,2005,7.2,APROVADO POR MÉDIA,2
+Miguel Nathanael,Computacao Grafica,2005,9.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design para Longevidade,2005,5.0,APROVADO,2
+Miguel Nathanael,Design de Mobiliario,2005,,APROVADO POR FREQÜÊNCIA,2
+Miguel Nathanael,Design de Visualizacao de Informacoes,2005,8.3,APROVADO POR MÉDIA,2
+Miguel Nathanael,Identidade Visual,2005,2.0,REPROVADO,2
+Miguel Nathanael,Design de Aprendizado,2006,,REPROVADO POR FALTA,1
+Miguel Nathanael,Projeto Integrado,2006,6.25,APROVADO,1
+Miguel Nathanael,Design de Tecnologia Vestivel (Wearable),2006,7.5,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design de Interfaces Neuromorficas,2006,10.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design de Experiencia em Museus,2006,8.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Ergonomia,2006,8.45,APROVADO POR MÉDIA,1
+Miguel Nathanael,Ecodesign,2006,7.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Manipulacao de Imagem,2006,8.0,APROVADO,2
+Miguel Nathanael,Design de Realidade Aumentada (AR) e Virtual (VR),2006,8.5,APROVADO POR MÉDIA,2
+Miguel Nathanael,Gamificacao,2006,7.75,APROVADO POR MÉDIA,2
+Miguel Nathanael,Impressao 3D,2006,9.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Tipografia,2006,5.88,APROVADO,2
+Miguel Nathanael,Design de Joias,2006,8.05,APROVADO POR MÉDIA,2
+Miguel Nathanael,Marketing de Produto,2006,7.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Aprendizado,2007,5.0,APROVADO,1
+Miguel Nathanael,Design de Interacao em Tempo Real,2007,8.2,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design Cibernetico,2007,8.7,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design Thinking,2007,7.5,APROVADO POR MÉDIA,1
+Miguel Nathanael,Prototipagem em Papel,2007,9.5,APROVADO POR MÉDIA,1
+Miguel Nathanael,Identidade Visual,2007,5.0,APROVADO,1
+Miguel Nathanael,Design Computacional,2007,8.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Apresentacoes,2007,8.75,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Narrativa Espacial,2007,7.35,APROVADO,2
+Miguel Nathanael,Design Digital,2007,7.1,APROVADO,2
+Miguel Nathanael,Cultura Visual,2007,6.28,APROVADO,2
+Miguel Nathanael,Design de Interacao Corporal,2007,8.25,APROVADO POR MÉDIA,2
+Miguel Nathanael,Gestao de Marcas,2007,6.65,APROVADO,2
+Miguel Nathanael,Interacao Tangivel,2007,,APROVADO POR FREQÜÊNCIA,2
+Miguel Nathanael,Branding,2007,5.63,APROVADO,2
+Miguel Nathanael,Design Parametrico,2007,7.38,APROVADO,2
+Miguel Nathanael,Design de Interacao Cultural,2008,7.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Teoria da Cor,2008,,REPROVADO POR FALTA,1
+Miguel Nathanael,Design Experimental,2008,,REPROVADO POR FALTA,1
+Miguel Nathanael,Comunicacao Visual,2008,7.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Materiais e Processos,2008,8.15,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design de Produto,2008,,REPROVADO POR FALTA,1
+Miguel Nathanael,Design de Redes Sociais,2008,7.95,APROVADO POR MÉDIA,1
+Miguel Nathanael,SemiÃ³tica,2008,8.5,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design Biomimetico,2008,7.5,APROVADO POR MÉDIA,2
+Miguel Nathanael,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Miguel Nathanael,Design Experimental,2008,5.0,APROVADO,2
+Miguel Nathanael,Teoria do Design,2008,5.5,APROVADO,2
+Miguel Nathanael,Design de Produto,2008,8.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Interacao Tangivel,2008,7.25,APROVADO,2
+Miguel Nathanael,Design de Espacos Virtuais,2008,,REPROVADO POR FALTA,2
+Miguel Nathanael,Design Sonoro,2009,8.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Teoria da Cor,2009,7.0,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design Cenico,2009,7.38,APROVADO POR MÉDIA,1
+Miguel Nathanael,Design de Espacos Virtuais,2009,,REPROVADO POR FALTA,1
+Miguel Nathanael,Etica em Design,2009,6.88,APROVADO,1
+Miguel Nathanael,Tecnicas de Iluminacao,2009,,REPROVADO POR FALTA,1
+Miguel Nathanael,Design de Jogos,2009,7.5,APROVADO POR MÉDIA,2
+Miguel Nathanael,Modelagem 3D,2009,8.35,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Espacos Virtuais,2009,7.0,APROVADO POR MÉDIA,2
+Miguel Nathanael,Design de Impressao e Publicacao,2009,,CANCELADO COM ONUS,2
+Miguel Nathanael,Tecnicas de Iluminacao,2009,5.25,APROVADO,2
+Miguel Nathanael,INTEGRALIZADO,2009,,,2
+Miguel Nathanael,FORMADO,2009,,,2
+Eduardo Nathanael,Storytelling Visual,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,Design Colaborativo,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,Computacao Grafica,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,Design para Longevidade,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,Design de Mobiliario,2010,,APROVADO POR FREQÜÊNCIA,1
+Eduardo Nathanael,Design de Visualizacao de Informacoes,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,Identidade Visual,2010,,REPROVADO POR FALTA,1
+Eduardo Nathanael,DESVINCULADO,2010,,,2
+Caua Juliana,"Storytelling Visual
+DOCENTE(S): Maria Santos",2019,7.0,APROVADO POR MÉDIA,1
+Caua Juliana,"Design Colaborativo
+DOCENTE(S): Fernanda Lima",2019,6.0,APROVADO,1
+Caua Juliana,"Computacao Grafica
+DOCENTE(S): Marcos Ferreira",2019,7.0,APROVADO POR MÉDIA,1
+Caua Juliana,"Design para Longevidade
+DOCENTE(S): Marcos Ferreira",2019,,REPROVADO POR FALTA,1
+Caua Juliana,"Design de Mobiliario
+DOCENTE(S): Fernanda Lima",2019,8.9,APROVADO POR MÉDIA,1
+Caua Juliana,"Design de Visualizacao de Informacoes
+DOCENTE(S): Andre Almeida",2019,7.78,APROVADO,1
+Caua Juliana,"Identidade Visual
+DOCENTE(S): Joao Silva",2019,8.4,APROVADO POR MÉDIA,1
+Caua Juliana,"Design de Aprendizado
+DOCENTE(S): Ana Costa",2019,,REPROVADO POR FALTA,2
+Caua Juliana,"Projeto Integrado
+DOCENTE(S): Fernanda Lima",2019,,REPROVADO POR FALTA,2
+Caua Juliana,"Design de Tecnologia Vestivel (Wearable)
+DOCENTE(S): Andre Almeida",2019,7.75,APROVADO POR MÉDIA,2
+Caua Juliana,"Design de Interfaces Neuromorficas
+DOCENTE(S): Marcos Ferreira",2019,5.03,APROVADO,2
+Caua Juliana,"Design de Experiencia em Museus
+DOCENTE(S): Pedro Oliveira",2019,5.0,APROVADO,2
+Caua Juliana,"Cultura Visual
+DOCENTE(S): Patricia Nunes",2019,9.0,APROVADO POR MÉDIA,2
+Caua Juliana,"Ergonomia
+DOCENTE(S): Pedro Oliveira",2019,2.63,REPROVADO,2
+Caua Juliana,"Manipulacao de Imagem
+DOCENTE(S): Diego Cardoso",2020,8.8,APROVADO POR MÉDIA,3
+Caua Juliana,"Impressao 3D
+DOCENTE(S): Marcos Ferreira",2020,8.0,APROVADO POR MÉDIA,3
+Caua Juliana,"Tipografia
+DOCENTE(S): Joao Silva",2020,7.8,APROVADO POR MÉDIA,3
+Caua Juliana,"Design para Longevidade
+DOCENTE(S): Marcos Ferreira",2020,9.61,APROVADO POR MÉDIA,1
+Caua Juliana,"Gamificacao
+DOCENTE(S): Luiz Pereira",2020,,REPROVADO POR FALTA,1
+Caua Juliana,"Design de Joias
+DOCENTE(S): Gustavo Martins",2020,,REPROVADO POR FALTA,1
+Caua Juliana,"Branding
+DOCENTE(S): Rafaela Gomes",2020,7.25,APROVADO POR MÉDIA,1
+Caua Juliana,"Ecodesign
+DOCENTE(S): Diego Cardoso",2020,,REPROVADO POR FALTA,2
+Caua Juliana,"Design Cibernetico
+DOCENTE(S): Joao Silva",2020,,REPROVADO POR FALTA,2
+Caua Juliana,"Design de Realidade Aumentada (AR) e Virtual (VR)
+DOCENTE(S): Juliana Rodrigues",2020,7.0,APROVADO POR MÉDIA,2
+Caua Juliana,"Projeto Integrado
+DOCENTE(S): Fernanda Lima",2020,7.9,APROVADO POR MÉDIA,2
+Caua Juliana,"Design de Interacao Cultural
+DOCENTE(S): Gustavo Martins",2020,,REPROVADO POR FALTA,2
+Caua Juliana,"Prototipagem em Papel
+DOCENTE(S): Juliana Rodrigues",2020,,REPROVADO POR FALTA,2
+Caua Juliana,"Design de Produto
+DOCENTE(S): Carla Souza",2020,,REPROVADO POR FALTA,2
+Caua Juliana,DESLIGAMENTO,2021,,,1
+Gabriel Fernando,Storytelling Visual,2012,7.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design Colaborativo,2012,5.82,APROVADO,2
+Gabriel Fernando,Computacao Grafica,2012,8.75,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design para Longevidade,2012,7.25,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design de Mobiliario,2012,,APROVADO POR FREQÜÊNCIA,2
+Gabriel Fernando,Design de Visualizacao de Informacoes,2012,6.25,APROVADO,2
+Gabriel Fernando,Identidade Visual,2012,9.75,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design de Aprendizado,2013,6.95,APROVADO,1
+Gabriel Fernando,Projeto Integrado,2013,7.3,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Tecnologia Vestivel (Wearable),2013,9.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Interfaces Neuromorficas,2013,9.75,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Experiencia em Museus,2013,7.63,APROVADO,1
+Gabriel Fernando,Ergonomia,2013,7.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Manipulacao de Imagem,2013,7.1,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design Thinking,2013,7.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Gamificacao,2013,7.5,APROVADO POR MÉDIA,2
+Gabriel Fernando,Impressao 3D,2013,8.5,APROVADO POR MÉDIA,2
+Gabriel Fernando,Tipografia,2013,6.39,APROVADO,2
+Gabriel Fernando,Design de Joias,2013,7.65,APROVADO POR MÉDIA,2
+Gabriel Fernando,Marketing de Produto,2013,9.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Branding,2013,7.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Ecodesign,2014,7.25,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Interacao em Tempo Real,2014,9.75,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design Cibernetico,2014,7.2,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Realidade Aumentada (AR) e Virtual (VR),2014,8.5,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Interacao Cultural,2014,9.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Cultura Visual,2014,8.75,APROVADO POR MÉDIA,1
+Gabriel Fernando,Prototipagem em Papel,2014,8.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Produto,2014,8.35,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design Computacional,2014,6.47,APROVADO,2
+Gabriel Fernando,Design de Narrativa Espacial,2014,10.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design Experimental,2014,7.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design de Interacao Corporal,2014,9.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Interacao Tangivel,2014,8.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design de Espacos Virtuais,2014,7.35,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design Parametrico,2014,5.61,APROVADO,2
+Gabriel Fernando,Design Digital,2015,8.88,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design Cenico,2015,9.5,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Interacao Social,2015,8.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Gestao de Marcas,2015,7.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Etica em Design,2015,7.75,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Apresentacoes,2015,7.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Design Biomimetico,2015,9.5,APROVADO POR MÉDIA,2
+Gabriel Fernando,Teoria da Cor,2015,10.0,APROVADO POR MÉDIA,2
+Gabriel Fernando,Teoria do Design,2015,7.9,APROVADO POR MÉDIA,2
+Gabriel Fernando,Comunicacao Visual,2015,9.5,APROVADO POR MÉDIA,2
+Gabriel Fernando,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Gabriel Fernando,Design de Redes Sociais,2015,7.75,APROVADO POR MÉDIA,2
+Gabriel Fernando,SemiÃ³tica,2016,8.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design Sonoro,2016,8.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Impacto Social,2016,10.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Materiais e Processos,2016,7.0,APROVADO POR MÉDIA,1
+Gabriel Fernando,Design de Interacao Tangivel,2016,7.75,APROVADO POR MÉDIA,1
+Gabriel Fernando,Tecnicas de Iluminacao,2016,9.5,APROVADO POR MÉDIA,1
+Gabriel Fernando,INTEGRALIZADO,2016,,,1
+Gabriel Fernando,FORMADO,2016,,,2
+Rodrigo Pedro,DESLIGAMENTO,2019,,,1
+Gustavo Rafael,TRANCAMENTO,2005,,,1
+Gustavo Rafael,DESVINCULADO,2005,,,2
+Cecilia Viviane,Storytelling Visual,2008,9.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design Colaborativo,2008,7.25,APROVADO POR MÉDIA,2
+Cecilia Viviane,Computacao Grafica,2008,9.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design para Longevidade,2008,7.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Mobiliario,2008,9.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Visualizacao de Informacoes,2008,8.75,APROVADO POR MÉDIA,2
+Cecilia Viviane,Identidade Visual,2008,7.75,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Aprendizado,2009,8.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Projeto Integrado,2009,5.75,APROVADO,1
+Cecilia Viviane,Design de Tecnologia Vestivel (Wearable),2009,7.65,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Interfaces Neuromorficas,2009,9.55,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Experiencia em Museus,2009,9.15,APROVADO POR MÉDIA,1
+Cecilia Viviane,Ergonomia,2009,8.09,APROVADO POR MÉDIA,1
+Cecilia Viviane,Manipulacao de Imagem,2009,8.75,APROVADO POR MÉDIA,2
+Cecilia Viviane,Gamificacao,2009,9.5,APROVADO POR MÉDIA,2
+Cecilia Viviane,Impressao 3D,2009,10.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Tipografia,2009,9.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Joias,2009,9.75,APROVADO POR MÉDIA,2
+Cecilia Viviane,Marketing de Produto,2009,9.1,APROVADO POR MÉDIA,2
+Cecilia Viviane,Branding,2009,7.1,APROVADO POR MÉDIA,2
+Cecilia Viviane,Ecodesign,2010,8.8,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Interacao em Tempo Real,2010,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design Cibernetico,2010,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Realidade Aumentada (AR) e Virtual (VR),2010,8.5,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Interacao Cultural,2010,7.25,APROVADO POR MÉDIA,1
+Cecilia Viviane,Prototipagem em Papel,2010,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Produto,2010,7.75,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design Computacional,2010,10.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Narrativa Espacial,2010,8.8,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design Thinking,2010,7.5,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design Experimental,2010,8.5,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Interacao Corporal,2010,9.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Interacao Tangivel,2010,,APROVADO POR FREQÜÊNCIA,2
+Cecilia Viviane,Design de Espacos Virtuais,2010,9.25,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design Parametrico,2010,7.2,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Apresentacoes,2011,8.5,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design Digital,2011,7.7,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design Cenico,2011,9.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Cultura Visual,2011,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Teoria do Design,2011,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Gestao de Marcas,2011,9.8,APROVADO POR MÉDIA,1
+Cecilia Viviane,Etica em Design,2011,8.75,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Moda,2011,7.5,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design de Impacto Social,2011,8.05,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design Biomimetico,2011,9.3,APROVADO POR MÉDIA,2
+Cecilia Viviane,Teoria da Cor,2011,10.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,DISCIPLINA,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Cecilia Viviane,Comunicacao Visual,2011,8.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Interacao Tangivel,2011,8.0,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Redes Sociais,2011,8.65,APROVADO POR MÉDIA,2
+Cecilia Viviane,Design de Impressao e Publicacao,2011,9.5,APROVADO POR MÉDIA,2
+Cecilia Viviane,SemiÃ³tica,2012,8.75,APROVADO POR MÉDIA,1
+Cecilia Viviane,Design Sonoro,2012,9.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,Tecnicas de Iluminacao,2012,10.0,APROVADO POR MÉDIA,1
+Cecilia Viviane,INTEGRALIZADO,2012,,,1
+Cecilia Viviane,FORMADO,2012,,,1
