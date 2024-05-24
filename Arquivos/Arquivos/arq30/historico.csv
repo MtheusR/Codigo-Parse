@@ -1,0 +1,523 @@
+nome,disciplina,nome_docente,ano,nota,situacao,semestre
+Alana Juliana,Branding,Rafaela Gomes,2021,4.08,REPROVADO,1
+Alana Juliana,Branding,,2022,7.0,APROVADO POR MÉDIA,1
+Alana Juliana,Computacao Grafica,Marcos Ferreira,2020,7.5,APROVADO POR MÉDIA,1
+Alana Juliana,Comunicacao Visual,Luiz Pereira,2023,7.0,APROVADO POR MÉDIA,1
+Alana Juliana,Cultura Visual,Patricia Nunes,2022,7.1,APROVADO POR MÉDIA,2
+Alana Juliana,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Alana Juliana,"Design Biomimetico
+
+(DOUTORADO).",Carla Souza,2022,9.0,APROVADO POR MÉDIA,2
+Alana Juliana,Design Cibernetico,Joao Silva,2021,9.75,APROVADO POR MÉDIA,2
+Alana Juliana,Design Colaborativo,Fernanda Lima,2020,7.1,APROVADO POR MÉDIA,3
+Alana Juliana,Design Computacional,Maria Santos,2022,7.35,APROVADO POR MÉDIA,1
+Alana Juliana,Design Digital,,2023,,CURSANDO,2
+Alana Juliana,Design Experimental,Rafaela Gomes,2022,8.5,APROVADO POR MÉDIA,1
+Alana Juliana,Design Thinking,Joao Silva,2022,8.5,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Aprendizado,Ana Costa,2020,7.0,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Apresentacoes,Diego Cardoso,2023,10.0,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Espacos Virtuais,,2022,9.25,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Experiencia em Museus,Pedro Oliveira,2020,5.65,APROVADO,2
+Alana Juliana,Design de Interacao Corporal,Fernanda Lima,2022,9.0,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Interacao Cultural,Gustavo Martins,2021,7.5,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Interacao Social,,2023,,CURSANDO,2
+Alana Juliana,Design de Interacao em Tempo Real,Pedro Oliveira,2021,8.5,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Interfaces Neuromorficas,Marcos Ferreira,2020,8.0,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Joias,Gustavo Martins,2021,9.0,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Mobiliario,Fernanda Lima,2020,8.82,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Narrativa Espacial,Ana Costa,2023,9.25,APROVADO POR MÉDIA,1
+Alana Juliana,Design de Produto,,2022,4.38,REPROVADO,2
+Alana Juliana,Design de Realidade Aumentada (AR) e Virtual (VR),Juliana Rodrigues,2021,8.0,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Tecnologia Vestivel (Wearable),Andre Almeida,2020,8.45,APROVADO POR MÉDIA,2
+Alana Juliana,Design de Visualizacao de Informacoes,Andre Almeida,2020,8.8,APROVADO POR MÉDIA,1
+Alana Juliana,Design para Longevidade,Marcos Ferreira,2020,9.98,APROVADO POR MÉDIA,1
+Alana Juliana,Ecodesign,Diego Cardoso,2021,8.8,APROVADO POR MÉDIA,2
+Alana Juliana,Ergonomia,Pedro Oliveira,2020,7.0,APROVADO POR MÉDIA,2
+Alana Juliana,Gamificacao,Luiz Pereira,2021,8.25,APROVADO POR MÉDIA,1
+Alana Juliana,Gestao de Marcas,Maria Santos,2022,5.0,APROVADO,2
+Alana Juliana,Identidade Visual,Joao Silva,2020,9.5,APROVADO POR MÉDIA,3
+Alana Juliana,Impressao 3D,Marcos Ferreira,2021,7.25,APROVADO POR MÉDIA,1
+Alana Juliana,Interacao Tangivel,Gustavo Martins,2022,9.0,APROVADO POR MÉDIA,2
+Alana Juliana,Manipulacao de Imagem,Diego Cardoso,2021,,REPROVADO POR FALTA,1
+Alana Juliana,Marketing de Produto,Carla Souza,2021,8.75,APROVADO POR MÉDIA,1
+Alana Juliana,Projeto Integrado,Fernanda Lima,2020,8.1,APROVADO POR MÉDIA,2
+Alana Juliana,Prototipagem em Papel,Juliana Rodrigues,2021,8.5,APROVADO POR MÉDIA,2
+Alana Juliana,Storytelling Visual,Maria Santos,2020,9.0,APROVADO POR MÉDIA,3
+Alana Juliana,Teoria do Design,Marcos Ferreira,2023,9.5,APROVADO POR MÉDIA,1
+Alana Juliana,Tipografia,Joao Silva,2021,,REPROVADO POR FALTA,1
+Alana Juliana,,-----------,,,,
+Alice Jose,Computacao Grafica,,2005,8.0,APROVADO POR MÉDIA,2
+Alice Jose,DESVINCULADO,,2006,,,2
+Alice Jose,Design Colaborativo,,2005,2.2,REPROVADO,2
+Alice Jose,Design Colaborativo,,2006,,REPROVADO POR FALTA,1
+Alice Jose,Design de Mobiliario,,2005,,APROVADO POR FREQÜÊNCIA,2
+Alice Jose,Design de Visualizacao de Informacoes,,2005,2.05,REPROVADO,2
+Alice Jose,Design de Visualizacao de Informacoes,,2006,,REPROVADO POR FALTA,1
+Alice Jose,Design para Longevidade,,2005,,REPROVADO POR FALTA,2
+Alice Jose,Design para Longevidade,,2006,,REPROVADO POR FALTA,1
+Alice Jose,Gamificacao,,2006,,REPROVADO POR FALTA,1
+Alice Jose,Identidade Visual,,2005,,REPROVADO POR FALTA,2
+Alice Jose,Storytelling Visual,,2005,,REPROVADO POR FALTA,2
+Alice Jose,Storytelling Visual,,2006,,REPROVADO POR FALTA,1
+Bruno Michele,Computacao Grafica,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,DESVINCULADO,,2014,,,2
+Bruno Michele,Design Colaborativo,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,Design de Mobiliario,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,Design de Visualizacao de Informacoes,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,Design de Visualizacao de Informacoes,,2014,,REPROVADO POR FALTA,1
+Bruno Michele,Design para Longevidade,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,Ergonomia,,2014,,REPROVADO POR FALTA,1
+Bruno Michele,Identidade Visual,,2013,,REPROVADO POR FALTA,2
+Bruno Michele,Storytelling Visual,,2013,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Branding,,2015,6.22,APROVADO,1
+Eduarda Rodrigo,Computacao Grafica,,2014,8.25,APROVADO POR MÉDIA,1
+Eduarda Rodrigo,DESLIGAMENTO,,2017,,,1
+Eduarda Rodrigo,Design Cibernetico,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Design Colaborativo,,2014,8.0,APROVADO POR MÉDIA,1
+Eduarda Rodrigo,Design Thinking,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Design Thinking,,2016,,REPROVADO POR FALTA,1
+Eduarda Rodrigo,Design de Aprendizado,,2014,4.32,REPROVADO,2
+Eduarda Rodrigo,Design de Experiencia em Museus,,2014,5.0,APROVADO,2
+Eduarda Rodrigo,Design de Interfaces Neuromorficas,,2014,8.15,APROVADO POR MÉDIA,2
+Eduarda Rodrigo,Design de Joias,,2015,3.5,REPROVADO,1
+Eduarda Rodrigo,Design de Joias,,2016,,REPROVADO POR FALTA,1
+Eduarda Rodrigo,Design de Mobiliario,,2014,,APROVADO POR FREQÜÊNCIA,1
+Eduarda Rodrigo,Design de Produto,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Design de Tecnologia Vestivel (Wearable),,2014,7.0,APROVADO POR MÉDIA,2
+Eduarda Rodrigo,Design de Visualizacao de Informacoes,,2014,10.0,APROVADO POR MÉDIA,1
+Eduarda Rodrigo,Design para Longevidade,,2014,5.75,APROVADO,1
+Eduarda Rodrigo,Ecodesign,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Ergonomia,,2014,1.25,REPROVADO,2
+Eduarda Rodrigo,Ergonomia,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Gamificacao,,2015,7.5,APROVADO POR MÉDIA,1
+Eduarda Rodrigo,Identidade Visual,,2014,6.88,APROVADO,1
+Eduarda Rodrigo,Impressao 3D,,2015,5.57,APROVADO,1
+Eduarda Rodrigo,Manipulacao de Imagem,,2015,,REPROVADO POR FALTA,1
+Eduarda Rodrigo,Marketing de Produto,,2015,3.88,REPROVADO,1
+Eduarda Rodrigo,Marketing de Produto,,2016,,REPROVADO POR FALTA,1
+Eduarda Rodrigo,Projeto Integrado,,2014,7.3,APROVADO POR MÉDIA,2
+Eduarda Rodrigo,Prototipagem em Papel,,2015,,REPROVADO POR FALTA,2
+Eduarda Rodrigo,Storytelling Visual,,2014,8.0,APROVADO POR MÉDIA,1
+Eduarda Rodrigo,Tipografia,,2015,4.07,REPROVADO,1
+Eduarda Rodrigo,Tipografia,,2016,,REPROVADO POR FALTA,1
+Elisa Leticia,Branding,Rafaela Gomes,2018,7.0,APROVADO POR MÉDIA,1
+Elisa Leticia,Computacao Grafica,,2017,7.5,APROVADO POR MÉDIA,1
+Elisa Leticia,Cultura Visual,Patricia Nunes,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,DESVINCULADO,,2019,,,1
+Elisa Leticia,Design Cibernetico,Joao Silva,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,Design Colaborativo,Fernanda Lima,2018,,REPROVADO POR FALTA,1
+Elisa Leticia,Design Colaborativo,,2017,1.46,REPROVADO,1
+Elisa Leticia,Design de Experiencia em Museus,Pedro Oliveira,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,Design de Experiencia em Museus,,2017,1.73,REPROVADO,2
+Elisa Leticia,Design de Interacao Cultural,Gustavo Martins,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,Design de Interfaces Neuromorficas,,2017,5.4,APROVADO,2
+Elisa Leticia,Design de Joias,Gustavo Martins,2018,,REPROVADO POR FALTA,1
+Elisa Leticia,Design de Mobiliario,,2017,7.0,APROVADO POR MÉDIA,1
+Elisa Leticia,Design de Produto,Carla Souza,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,Design de Visualizacao de Informacoes,,2017,7.0,APROVADO POR MÉDIA,1
+Elisa Leticia,Design para Longevidade,Marcos Ferreira,2018,,REPROVADO POR FALTA,1
+Elisa Leticia,Design para Longevidade,,2017,,REPROVADO POR FALTA,1
+Elisa Leticia,Ergonomia,,2017,8.0,APROVADO POR MÉDIA,2
+Elisa Leticia,Identidade Visual,,2017,8.5,APROVADO POR MÉDIA,1
+Elisa Leticia,Impressao 3D,Marcos Ferreira,2018,9.0,APROVADO POR MÉDIA,1
+Elisa Leticia,Prototipagem em Papel,Juliana Rodrigues,2018,,REPROVADO POR FALTA,2
+Elisa Leticia,Storytelling Visual,,2017,7.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Branding,,2008,8.75,APROVADO POR MÉDIA,2
+Elisa Valentina,Computacao Grafica,,2007,7.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Comunicacao Visual,,2010,7.5,APROVADO POR MÉDIA,2
+Elisa Valentina,Cultura Visual,,2008,8.0,APROVADO POR MÉDIA,1
+Elisa Valentina,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Elisa Valentina,Design Biomimetico,,2010,7.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Design Cenico,,2010,7.95,APROVADO POR MÉDIA,1
+Elisa Valentina,Design Cibernetico,,2009,7.6,APROVADO POR MÉDIA,2
+Elisa Valentina,Design Colaborativo,,2007,7.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Design Computacional,,2010,7.79,APROVADO POR MÉDIA,1
+Elisa Valentina,Design Digital,,2010,8.2,APROVADO POR MÉDIA,1
+Elisa Valentina,Design Experimental,,2009,8.5,APROVADO POR MÉDIA,2
+Elisa Valentina,Design Parametrico,,2009,7.75,APROVADO POR MÉDIA,1
+Elisa Valentina,Design Sonoro,,2011,7.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Design Thinking,,2009,,REPROVADO POR FALTA,1
+Elisa Valentina,Design Thinking,,2010,,DISPENSADO,1
+Elisa Valentina,Design de Aprendizado,,2008,8.5,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Apresentacoes,,2008,,CANCELADO COM ONUS,1
+Elisa Valentina,Design de Apresentacoes,,2010,8.5,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Espacos Virtuais,,2009,7.4,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Experiencia em Museus,,2008,8.5,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Impressao e Publicacao,,2010,8.75,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Interacao Corporal,,2010,8.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Interacao Cultural,,2009,6.0,APROVADO,2
+Elisa Valentina,Design de Interacao Tangivel,,2010,8.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Interacao em Tempo Real,,2009,8.8,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Interfaces Neuromorficas,,2008,8.3,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Joias,,2008,7.25,APROVADO,2
+Elisa Valentina,Design de Mobiliario,,2007,10.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Narrativa Espacial,,2010,10.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Produto,,2009,8.75,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Realidade Aumentada (AR) e Virtual (VR),,2009,8.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Realidade Hibrida,,2011,,CANCELADO COM ONUS,1
+Elisa Valentina,Design de Redes Sociais,,2010,8.15,APROVADO POR MÉDIA,2
+Elisa Valentina,Design de Tecnologia Vestivel (Wearable),,2008,9.5,APROVADO POR MÉDIA,1
+Elisa Valentina,Design de Visualizacao de Informacoes,,2007,4.2,REPROVADO,2
+Elisa Valentina,Design de Visualizacao de Informacoes,,2008,9.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Design para Longevidade,,2007,7.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Ecodesign,,2008,8.25,APROVADO POR MÉDIA,2
+Elisa Valentina,Ergonomia,,2008,7.6,APROVADO POR MÉDIA,1
+Elisa Valentina,Etica em Design,,2010,7.5,APROVADO POR MÉDIA,1
+Elisa Valentina,FORMADO,,2011,,,2
+Elisa Valentina,Fotografia,,2011,9.25,APROVADO POR MÉDIA,1
+Elisa Valentina,Gamificacao,,2008,8.75,APROVADO POR MÉDIA,2
+Elisa Valentina,Gestao de Marcas,,2009,8.5,APROVADO POR MÉDIA,1
+Elisa Valentina,INTEGRALIZADO,,2011,,,2
+Elisa Valentina,Identidade Visual,,2007,8.25,APROVADO POR MÉDIA,2
+Elisa Valentina,Impressao 3D,,2009,9.18,APROVADO POR MÉDIA,1
+Elisa Valentina,Interacao Tangivel,,2009,,APROVADO POR FREQÜÊNCIA,2
+Elisa Valentina,Manipulacao de Imagem,,2009,9.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Marketing de Produto,,2008,8.25,APROVADO POR MÉDIA,2
+Elisa Valentina,Materiais e Processos,,2011,9.5,APROVADO POR MÉDIA,1
+Elisa Valentina,Projeto Integrado,,2008,7.0,APROVADO POR MÉDIA,1
+Elisa Valentina,Prototipagem em Papel,,2009,7.5,APROVADO POR MÉDIA,2
+Elisa Valentina,SemiÃ³tica,,2011,9.75,APROVADO POR MÉDIA,1
+Elisa Valentina,Storytelling Visual,,2007,7.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Tecnicas de Iluminacao,,2011,10.0,APROVADO POR MÉDIA,2
+Elisa Valentina,Tecnicas de Iluminacao,,2011,,REPROVADO POR FALTA,1
+Elisa Valentina,Teoria da Cor,,2010,8.25,APROVADO POR MÉDIA,2
+Elisa Valentina,Teoria do Design,,2010,,DISPENSADO,1
+Elisa Valentina,Tipografia,,2009,8.5,APROVADO POR MÉDIA,1
+Isadora Natalia,Branding,Rafaela Gomes,2018,4.5,REPROVADO,1
+Isadora Natalia,Computacao Grafica,,2017,6.25,APROVADO,1
+Isadora Natalia,Cultura Visual,,2017,7.45,APROVADO POR MÉDIA,2
+Isadora Natalia,DESVINCULADO,,2018,,,2
+Isadora Natalia,DESVINCULADO,,2019,,,2
+Isadora Natalia,Design Biomimetico,Carla Souza,2019,,REPROVADO POR FALTA,1
+Isadora Natalia,Design Colaborativo,Fernanda Lima,2018,,REPROVADO POR FALTA,1
+Isadora Natalia,Design Colaborativo,Fernanda Lima,2019,,REPROVADO POR FALTA,1
+Isadora Natalia,Design Colaborativo,,2017,,REPROVADO POR FALTA,1
+Isadora Natalia,Design de Joias,Gustavo Martins,2018,,REPROVADO POR FALTA,1
+Isadora Natalia,Design de Joias,Gustavo Martins,2019,,REPROVADO POR FALTA,1
+Isadora Natalia,Design de Mobiliario,,2017,7.95,APROVADO POR MÉDIA,1
+Isadora Natalia,Design de Visualizacao de Informacoes,Andre Almeida,2018,4.63,REPROVADO,1
+Isadora Natalia,Design de Visualizacao de Informacoes,Andre Almeida,2019,,REPROVADO POR FALTA,1
+Isadora Natalia,Design de Visualizacao de Informacoes,,2017,,REPROVADO POR FALTA,1
+Isadora Natalia,Design para Longevidade,Marcos Ferreira,2018,,REPROVADO POR FALTA,1
+Isadora Natalia,Design para Longevidade,Marcos Ferreira,2019,,REPROVADO POR FALTA,1
+Isadora Natalia,Design para Longevidade,,2017,,REPROVADO POR FALTA,1
+Isadora Natalia,Ergonomia,,2017,7.5,APROVADO POR MÉDIA,2
+Isadora Natalia,Identidade Visual,,2017,7.0,APROVADO POR MÉDIA,1
+Isadora Natalia,Interacao Tangivel,,2017,8.0,APROVADO POR MÉDIA,2
+Isadora Natalia,REINTEGRAÇÃO,,2019,,,1
+Isadora Natalia,Storytelling Visual,,2017,8.25,APROVADO POR MÉDIA,1
+Joao Gabriel,Branding,,2008,6.25,APROVADO,2
+Joao Gabriel,Computacao Grafica,,2007,7.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Comunicacao Visual,,2012,5.32,APROVADO,2
+Joao Gabriel,Cultura Visual,,2008,7.65,APROVADO POR MÉDIA,1
+Joao Gabriel,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Joao Gabriel,Design Biomimetico,,2011,,REPROVADO POR FALTA,2
+Joao Gabriel,Design Biomimetico,,2012,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Design Cenico,,2010,7.75,APROVADO POR MÉDIA,2
+Joao Gabriel,Design Cenico,,2010,,REPROVADO POR FALTA,1
+Joao Gabriel,Design Cibernetico,,2009,2.6,REPROVADO,1
+Joao Gabriel,Design Cibernetico,,2009,7.0,APROVADO POR MÉDIA,2
+Joao Gabriel,Design Colaborativo,,2007,5.0,APROVADO,2
+Joao Gabriel,Design Computacional,,2010,8.54,APROVADO POR MÉDIA,1
+Joao Gabriel,Design Digital,,2011,7.6,APROVADO POR MÉDIA,1
+Joao Gabriel,Design Experimental,,2011,7.65,APROVADO POR MÉDIA,2
+Joao Gabriel,Design Parametrico,,2010,,REPROVADO POR FALTA,2
+Joao Gabriel,Design Parametrico,,2011,3.17,REPROVADO,1
+Joao Gabriel,Design Parametrico,,2012,6.13,APROVADO,1
+Joao Gabriel,Design Sonoro,,2012,6.43,APROVADO,2
+Joao Gabriel,Design Thinking,,2011,7.6,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Aprendizado,,2008,2.75,REPROVADO,1
+Joao Gabriel,Design de Aprendizado,,2008,,REPROVADO POR FALTA,2
+Joao Gabriel,Design de Aprendizado,,2011,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Apresentacoes,,2009,7.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Design de Espacos Virtuais,,2009,7.0,APROVADO POR MÉDIA,2
+Joao Gabriel,Design de Experiencia em Museus,,2008,5.05,APROVADO,1
+Joao Gabriel,Design de Impacto Social,,2011,7.03,APROVADO,2
+Joao Gabriel,Design de Interacao Corporal,,2010,9.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Interacao Cultural,,2009,,REPROVADO POR FALTA,2
+Joao Gabriel,Design de Interacao Cultural,,2010,5.63,APROVADO,2
+Joao Gabriel,Design de Interacao Tangivel,,2011,7.25,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Interacao em Tempo Real,,2010,7.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Design de Interfaces Neuromorficas,,2008,7.65,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Joias,,2009,,REPROVADO POR FALTA,1
+Joao Gabriel,Design de Joias,,2010,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Mobiliario,,2007,10.0,APROVADO POR MÉDIA,2
+Joao Gabriel,Design de Narrativa Espacial,,2011,7.4,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Produto,,2009,8.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Design de Realidade Aumentada (AR) e Virtual (VR),,2009,5.0,APROVADO,1
+Joao Gabriel,Design de Realidade Hibrida,,2012,8.5,APROVADO POR MÉDIA,1
+Joao Gabriel,Design de Redes Sociais,,2012,5.8,APROVADO,2
+Joao Gabriel,Design de Tecnologia Vestivel (Wearable),,2011,6.0,APROVADO,1
+Joao Gabriel,Design de Visualizacao de Informacoes,,2007,5.03,APROVADO,2
+Joao Gabriel,Design para Longevidade,,2007,5.25,APROVADO,2
+Joao Gabriel,Ecodesign,,2013,8.5,APROVADO POR MÉDIA,1
+Joao Gabriel,Ergonomia,,2008,5.38,APROVADO,1
+Joao Gabriel,Etica em Design,,2010,5.5,APROVADO,1
+Joao Gabriel,FORMADO,,2013,,,2
+Joao Gabriel,Gamificacao,,2008,8.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Gestao de Marcas,,2011,4.0,REPROVADO,2
+Joao Gabriel,Gestao de Marcas,,2012,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,INTEGRALIZADO,,2013,,,1
+Joao Gabriel,Identidade Visual,,2007,7.45,APROVADO POR MÉDIA,2
+Joao Gabriel,Impressao 3D,,2008,7.25,APROVADO,2
+Joao Gabriel,Interacao Tangivel,,2010,,APROVADO POR FREQÜÊNCIA,1
+Joao Gabriel,Manipulacao de Imagem,,2008,,REPROVADO POR FALTA,2
+Joao Gabriel,Manipulacao de Imagem,,2010,3.75,REPROVADO,1
+Joao Gabriel,Manipulacao de Imagem,,2010,5.5,APROVADO,2
+Joao Gabriel,Marketing de Produto,,2010,,REPROVADO POR FALTA,2
+Joao Gabriel,Marketing de Produto,,2011,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Materiais e Processos,,2012,8.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Projeto Integrado,,2008,1.5,REPROVADO,1
+Joao Gabriel,Projeto Integrado,,2008,,REPROVADO POR FALTA,2
+Joao Gabriel,Projeto Integrado,,2009,5.0,APROVADO,1
+Joao Gabriel,Prototipagem em Papel,,2009,5.0,APROVADO,2
+Joao Gabriel,Prototipagem em Papel,,2009,,REPROVADO POR FALTA,1
+Joao Gabriel,SemiÃ³tica,,2011,7.65,APROVADO POR MÉDIA,2
+Joao Gabriel,Storytelling Visual,,2007,3.5,REPROVADO,2
+Joao Gabriel,Storytelling Visual,,2009,4.63,REPROVADO,1
+Joao Gabriel,Storytelling Visual,,2010,7.0,APROVADO POR MÉDIA,2
+Joao Gabriel,Tecnicas de Iluminacao,,2012,8.5,APROVADO POR MÉDIA,2
+Joao Gabriel,Teoria da Cor,,2011,7.0,APROVADO POR MÉDIA,2
+Joao Gabriel,Teoria do Design,,2011,,REPROVADO POR FALTA,2
+Joao Gabriel,Teoria do Design,,2012,7.0,APROVADO POR MÉDIA,1
+Joao Gabriel,Tipografia,,2009,,REPROVADO POR FALTA,2
+Joao Gabriel,Tipografia,,2010,3.88,REPROVADO,1
+Joao Gabriel,Tipografia,,2010,5.18,APROVADO,2
+Lara Carolina,Branding,Rafaela Gomes,2021,6.7,APROVADO,1
+Lara Carolina,Computacao Grafica,Marcos Ferreira,2020,7.5,APROVADO POR MÉDIA,1
+Lara Carolina,Comunicacao Visual,Luiz Pereira,2023,8.0,APROVADO POR MÉDIA,1
+Lara Carolina,Cultura Visual,Patricia Nunes,2022,9.15,APROVADO POR MÉDIA,2
+Lara Carolina,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Lara Carolina,Design Biomimetico,,2023,,CURSANDO,2
+Lara Carolina,Design Cenico,Ana Costa,2022,7.0,APROVADO POR MÉDIA,2
+Lara Carolina,Design Cibernetico,Joao Silva,2021,9.25,APROVADO POR MÉDIA,2
+Lara Carolina,Design Colaborativo,Fernanda Lima,2020,7.25,APROVADO POR MÉDIA,3
+Lara Carolina,Design Computacional,Maria Santos,2022,8.45,APROVADO POR MÉDIA,1
+Lara Carolina,Design Experimental,,2022,7.0,APROVADO POR MÉDIA,1
+Lara Carolina,Design Parametrico,Juliana Rodrigues,2022,6.57,APROVADO,1
+Lara Carolina,Design Thinking,Joao Silva,2022,10.0,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Aprendizado,Ana Costa,2020,7.0,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Apresentacoes,Diego Cardoso,2023,8.5,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Experiencia em Museus,Pedro Oliveira,2020,6.53,APROVADO,2
+Lara Carolina,Design de Impacto Social,Rafaela Gomes,2023,7.0,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Interacao Corporal,Fernanda Lima,2022,7.38,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Interacao Cultural,Gustavo Martins,2021,7.5,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Interacao Tangivel,,2023,,CURSANDO,2
+Lara Carolina,Design de Interacao em Tempo Real,Pedro Oliveira,2021,7.0,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Interfaces Neuromorficas,Marcos Ferreira,2020,8.75,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Joias,Gustavo Martins,2021,7.0,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Mobiliario,Fernanda Lima,2020,7.69,APROVADO,1
+Lara Carolina,Design de Moda,Fernanda Lima,2022,9.5,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Narrativa Espacial,Ana Costa,2022,9.5,APROVADO POR MÉDIA,1
+Lara Carolina,Design de Produto,Carla Souza,2021,7.0,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Realidade Aumentada (AR) e Virtual (VR),Juliana Rodrigues,2021,,REPROVADO POR FALTA,2
+Lara Carolina,Design de Realidade Hibrida,,2023,,CURSANDO,2
+Lara Carolina,Design de Realidade Simulada,Larissa Vieira,2022,10.0,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Redes Sociais,Larissa Vieira,2023,6.39,APROVADO,1
+Lara Carolina,Design de Tecnologia Vestivel (Wearable),Andre Almeida,2020,8.15,APROVADO POR MÉDIA,2
+Lara Carolina,Design de Visualizacao de Informacoes,Andre Almeida,2020,5.4,APROVADO,3
+Lara Carolina,Design para Longevidade,Marcos Ferreira,2020,9.98,APROVADO POR MÉDIA,1
+Lara Carolina,Ecodesign,Diego Cardoso,2021,8.75,APROVADO POR MÉDIA,2
+Lara Carolina,Ergonomia,Pedro Oliveira,2020,8.55,APROVADO POR MÉDIA,2
+Lara Carolina,Etica em Design,Juliana Rodrigues,2022,8.5,APROVADO POR MÉDIA,2
+Lara Carolina,Gamificacao,Luiz Pereira,2021,8.75,APROVADO POR MÉDIA,1
+Lara Carolina,Gestao de Marcas,Maria Santos,2022,8.6,APROVADO POR MÉDIA,2
+Lara Carolina,Identidade Visual,Joao Silva,2020,9.5,APROVADO POR MÉDIA,3
+Lara Carolina,Impressao 3D,Marcos Ferreira,2021,7.0,APROVADO POR MÉDIA,1
+Lara Carolina,Interacao Tangivel,Gustavo Martins,2022,8.0,APROVADO POR MÉDIA,2
+Lara Carolina,Manipulacao de Imagem,Diego Cardoso,2021,,REPROVADO POR FALTA,1
+Lara Carolina,Manipulacao de Imagem,Diego Cardoso,2022,7.5,APROVADO POR MÉDIA,1
+Lara Carolina,Marketing de Produto,Carla Souza,2021,9.05,APROVADO POR MÉDIA,1
+Lara Carolina,Materiais e Processos,Juliana Rodrigues,2023,9.5,APROVADO POR MÉDIA,1
+Lara Carolina,Projeto Integrado,Fernanda Lima,2020,8.6,APROVADO POR MÉDIA,2
+Lara Carolina,Prototipagem em Papel,Juliana Rodrigues,2021,8.5,APROVADO POR MÉDIA,2
+Lara Carolina,SemiÃ³tica,,2023,,CURSANDO,2
+Lara Carolina,Storytelling Visual,Maria Santos,2020,8.0,APROVADO POR MÉDIA,3
+Lara Carolina,Tecnicas de Iluminacao,,2023,,CURSANDO,2
+Lara Carolina,Teoria da Cor,Ana Costa,2023,7.0,APROVADO POR MÉDIA,1
+Lara Carolina,Teoria do Design,Marcos Ferreira,2023,8.32,APROVADO POR MÉDIA,1
+Lara Carolina,Tipografia,Joao Silva,2021,8.0,APROVADO POR MÉDIA,1
+Lara Carolina,,-----------,,,,
+Luciana Joao,Branding,Rafaela Gomes,2019,,REPROVADO POR FALTA,1
+Luciana Joao,Computacao Grafica,Marcos Ferreira,2018,6.53,APROVADO,1
+Luciana Joao,Design Colaborativo,Fernanda Lima,2018,,REPROVADO POR FALTA,1
+Luciana Joao,Design Colaborativo,Fernanda Lima,2019,,REPROVADO POR FALTA,1
+Luciana Joao,Design de Experiencia em Museus,Pedro Oliveira,2018,,REPROVADO POR FALTA,2
+Luciana Joao,Design de Experiencia em Museus,Pedro Oliveira,2019,,REPROVADO POR FALTA,2
+Luciana Joao,Design de Interfaces Neuromorficas,Marcos Ferreira,2018,,REPROVADO POR FALTA,2
+Luciana Joao,Design de Interfaces Neuromorficas,Marcos Ferreira,2019,,REPROVADO POR FALTA,2
+Luciana Joao,Design de Joias,Gustavo Martins,2019,,REPROVADO POR FALTA,1
+Luciana Joao,Design de Mobiliario,Fernanda Lima,2018,8.98,APROVADO POR MÉDIA,1
+Luciana Joao,Design de Visualizacao de Informacoes,Andre Almeida,2018,7.7,APROVADO POR MÉDIA,1
+Luciana Joao,Design para Longevidade,Marcos Ferreira,2018,,REPROVADO POR FALTA,1
+Luciana Joao,Ergonomia,Pedro Oliveira,2018,8.75,APROVADO POR MÉDIA,2
+Luciana Joao,Gamificacao,Luiz Pereira,2019,,REPROVADO POR FALTA,1
+Luciana Joao,Identidade Visual,Joao Silva,2018,7.5,APROVADO POR MÉDIA,1
+Luciana Joao,Interacao Tangivel,Gustavo Martins,2018,,REPROVADO POR FALTA,2
+Luciana Joao,Storytelling Visual,Maria Santos,2018,8.0,APROVADO POR MÉDIA,1
+Marcos Gabriel,Computacao Grafica,,2007,9.75,APROVADO POR MÉDIA,2
+Marcos Gabriel,DESLIGAMENTO,,2008,,,1
+Marcos Gabriel,Design Colaborativo,,2007,8.75,APROVADO POR MÉDIA,2
+Marcos Gabriel,Design de Mobiliario,,2007,10.0,APROVADO POR MÉDIA,2
+Marcos Gabriel,Design de Visualizacao de Informacoes,,2007,7.0,APROVADO POR MÉDIA,2
+Marcos Gabriel,Design para Longevidade,,2007,9.5,APROVADO POR MÉDIA,2
+Marcos Gabriel,Identidade Visual,,2007,9.2,APROVADO POR MÉDIA,2
+Marcos Gabriel,Storytelling Visual,,2007,9.5,APROVADO POR MÉDIA,2
+Maria Marcelo,Branding,,2006,7.25,APROVADO POR MÉDIA,2
+Maria Marcelo,Computacao Grafica,,2005,8.0,APROVADO POR MÉDIA,2
+Maria Marcelo,DESVINCULADO,,2007,,,2
+Maria Marcelo,Design Colaborativo,,2005,5.13,APROVADO,2
+Maria Marcelo,Design de Aprendizado,,2006,,REPROVADO POR FALTA,2
+Maria Marcelo,Design de Mobiliario,,2005,,APROVADO POR FREQÜÊNCIA,2
+Maria Marcelo,Design de Tecnologia Vestivel (Wearable),,2006,5.45,APROVADO,2
+Maria Marcelo,Design de Visualizacao de Informacoes,,2005,2.0,REPROVADO,2
+Maria Marcelo,Design de Visualizacao de Informacoes,,2006,2.75,REPROVADO,1
+Maria Marcelo,Design de Visualizacao de Informacoes,,2006,,CANCELADO COM ONUS,2
+Maria Marcelo,Design para Longevidade,,2005,3.25,REPROVADO,2
+Maria Marcelo,Design para Longevidade,,2006,5.25,APROVADO,1
+Maria Marcelo,Ergonomia,,2006,5.22,APROVADO,1
+Maria Marcelo,Gamificacao,,2006,7.75,APROVADO POR MÉDIA,2
+Maria Marcelo,Identidade Visual,,2005,5.13,APROVADO,2
+Maria Marcelo,Projeto Integrado,,2006,,REPROVADO POR FALTA,2
+Maria Marcelo,Storytelling Visual,,2005,8.65,APROVADO POR MÉDIA,2
+Maria Marcelo,TRANCAMENTO,,2007,,,1
+Miguel Valentina,Branding,,2007,8.25,APROVADO POR MÉDIA,2
+Miguel Valentina,Computacao Grafica,,2006,8.0,APROVADO POR MÉDIA,2
+Miguel Valentina,Cultura Visual,,2010,,REPROVADO POR FALTA,1
+Miguel Valentina,Cultura Visual,,2010,,REPROVADO POR FALTA,2
+Miguel Valentina,DESVINCULADO,,2012,,,1
+Miguel Valentina,Design Colaborativo,,2006,2.75,REPROVADO,2
+Miguel Valentina,Design Colaborativo,,2007,1.75,REPROVADO,1
+Miguel Valentina,Design Colaborativo,,2007,5.0,APROVADO,2
+Miguel Valentina,Design Thinking,,2008,,REPROVADO POR FALTA,2
+Miguel Valentina,Design Thinking,,2009,,REPROVADO POR FALTA,1
+Miguel Valentina,Design de Mobiliario,,2006,10.0,APROVADO POR MÉDIA,2
+Miguel Valentina,Design de Produto,,2008,7.5,APROVADO POR MÉDIA,1
+Miguel Valentina,Design de Realidade Aumentada (AR) e Virtual (VR),,2008,5.01,APROVADO,1
+Miguel Valentina,Design de Visualizacao de Informacoes,,2006,,REPROVADO POR FALTA,2
+Miguel Valentina,Design de Visualizacao de Informacoes,,2007,3.72,REPROVADO,1
+Miguel Valentina,Design de Visualizacao de Informacoes,,2008,,REPROVADO POR FALTA,2
+Miguel Valentina,Design de Visualizacao de Informacoes,,2009,,REPROVADO POR FALTA,2
+Miguel Valentina,Design para Longevidade,,2006,5.0,APROVADO,2
+Miguel Valentina,Ergonomia,,2007,4.63,REPROVADO,2
+Miguel Valentina,Ergonomia,,2009,,REPROVADO POR FALTA,1
+Miguel Valentina,Gamificacao,,2007,7.25,APROVADO POR MÉDIA,2
+Miguel Valentina,Gamificacao,,2007,,REPROVADO POR FALTA,1
+Miguel Valentina,Identidade Visual,,2006,7.0,APROVADO POR MÉDIA,2
+Miguel Valentina,Interacao Tangivel,,2009,,APROVADO POR FREQÜÊNCIA,1
+Miguel Valentina,Projeto Integrado,,2008,2.5,REPROVADO,1
+Miguel Valentina,Projeto Integrado,,2011,,REPROVADO POR FALTA,1
+Miguel Valentina,Storytelling Visual,,2006,3.88,REPROVADO,2
+Miguel Valentina,Storytelling Visual,,2007,7.0,APROVADO POR MÉDIA,1
+Paula Paula,Branding,,2015,7.6,APROVADO POR MÉDIA,1
+Paula Paula,Computacao Grafica,,2013,8.65,APROVADO POR MÉDIA,2
+Paula Paula,Cultura Visual,,2014,9.0,APROVADO POR MÉDIA,2
+Paula Paula,DESLIGAMENTO,,2016,,,1
+Paula Paula,Design Colaborativo,,2013,7.0,APROVADO POR MÉDIA,2
+Paula Paula,Design Parametrico,,2015,5.78,APROVADO,2
+Paula Paula,Design Thinking,,2015,7.15,APROVADO POR MÉDIA,1
+Paula Paula,Design de Aprendizado,,2014,,REPROVADO POR FALTA,1
+Paula Paula,Design de Aprendizado,,2015,,REPROVADO POR FALTA,2
+Paula Paula,Design de Apresentacoes,,2015,7.0,APROVADO POR MÉDIA,1
+Paula Paula,Design de Experiencia em Museus,,2015,7.0,APROVADO POR MÉDIA,2
+Paula Paula,Design de Interacao em Tempo Real,,2015,7.15,APROVADO POR MÉDIA,1
+Paula Paula,Design de Interfaces Neuromorficas,,2015,,REPROVADO POR FALTA,2
+Paula Paula,Design de Joias,,2014,6.13,APROVADO,2
+Paula Paula,Design de Mobiliario,,2013,,APROVADO POR FREQÜÊNCIA,2
+Paula Paula,Design de Produto,,2015,,REPROVADO POR FALTA,2
+Paula Paula,Design de Tecnologia Vestivel (Wearable),,2014,7.25,APROVADO POR MÉDIA,1
+Paula Paula,Design de Visualizacao de Informacoes,,2013,,REPROVADO POR FALTA,2
+Paula Paula,Design de Visualizacao de Informacoes,,2014,8.5,APROVADO POR MÉDIA,2
+Paula Paula,Design de Visualizacao de Informacoes,,2014,,REPROVADO POR FALTA,1
+Paula Paula,Design para Longevidade,,2013,7.75,APROVADO POR MÉDIA,2
+Paula Paula,Ecodesign,,2015,6.13,APROVADO,1
+Paula Paula,Ergonomia,,2014,,REPROVADO POR FALTA,1
+Paula Paula,Ergonomia,,2015,,REPROVADO POR FALTA,2
+Paula Paula,Gamificacao,,2014,7.75,APROVADO POR MÉDIA,2
+Paula Paula,Identidade Visual,,2013,8.5,APROVADO POR MÉDIA,2
+Paula Paula,Projeto Integrado,,2014,,REPROVADO POR FALTA,1
+Paula Paula,Projeto Integrado,,2015,1.8,REPROVADO,2
+Paula Paula,Storytelling Visual,,2013,5.63,APROVADO,2
+Renan Ricardo,Computacao Grafica,,2011,8.5,APROVADO POR MÉDIA,1
+Renan Ricardo,DESLIGAMENTO,,2011,,,2
+Renan Ricardo,Design Colaborativo,,2011,9.75,APROVADO POR MÉDIA,1
+Renan Ricardo,Design de Mobiliario,,2011,,APROVADO POR FREQÜÊNCIA,1
+Renan Ricardo,Design de Visualizacao de Informacoes,,2011,10.0,APROVADO POR MÉDIA,1
+Renan Ricardo,Design para Longevidade,,2011,10.0,APROVADO POR MÉDIA,1
+Renan Ricardo,Identidade Visual,,2011,8.0,APROVADO POR MÉDIA,1
+Renan Ricardo,Storytelling Visual,,2011,8.2,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Branding,,2007,9.5,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Computacao Grafica,,2006,8.8,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Design Colaborativo,,2006,7.05,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Design de Aprendizado,,2006,7.75,APROVADO POR MÉDIA,2
+Vinicius Vinicius,Design de Experiencia em Museus,,2006,8.7,APROVADO POR MÉDIA,2
+Vinicius Vinicius,Design de Interfaces Neuromorficas,,2006,7.5,APROVADO POR MÉDIA,2
+Vinicius Vinicius,Design de Joias,,2007,9.55,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Design de Mobiliario,,2006,9.5,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Design de Tecnologia Vestivel (Wearable),,2006,,CANCELADO COM ONUS,2
+Vinicius Vinicius,Design de Tecnologia Vestivel (Wearable),,2007,,DISPENSADO,1
+Vinicius Vinicius,Design de Visualizacao de Informacoes,,2006,7.5,APROVADO,1
+Vinicius Vinicius,Design para Longevidade,,2006,8.0,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Ergonomia,,2006,9.15,APROVADO POR MÉDIA,2
+Vinicius Vinicius,Gamificacao,,2007,8.25,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Identidade Visual,,2006,,APROVADO POR FREQÜÊNCIA,1
+Vinicius Vinicius,Impressao 3D,,2007,,REPROVADO POR FALTA,1
+Vinicius Vinicius,Manipulacao de Imagem,,2007,2.25,REPROVADO,1
+Vinicius Vinicius,Marketing de Produto,,2007,9.0,APROVADO POR MÉDIA,1
+Vinicius Vinicius,Projeto Integrado,,2006,8.35,APROVADO POR MÉDIA,2
+Vinicius Vinicius,Storytelling Visual,,2006,8.75,APROVADO POR MÉDIA,1
+Vinicius Vinicius,TRANCAMENTO,,2007,,,2
+Vinicius Vinicius,Tipografia,,2007,5.78,APROVADO,1
+Vitoria Bruna,Branding,Rafaela Gomes,2018,7.25,APROVADO POR MÉDIA,1
+Vitoria Bruna,Computacao Grafica,,2015,6.88,APROVADO,1
+Vitoria Bruna,Cultura Visual,,2017,7.4,APROVADO POR MÉDIA,2
+Vitoria Bruna,DESVINCULADO,,2019,,,2
+Vitoria Bruna,DISCIPLINA,,ANO,NOTA FINAL,SITUAÇÃO CONCEITO,"SE
+MES
+TRE"
+Vitoria Bruna,Design Biomimetico,Carla Souza,2018,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design Biomimetico,Carla Souza,2019,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design Colaborativo,,2015,3.67,REPROVADO,1
+Vitoria Bruna,Design Colaborativo,,2017,7.82,APROVADO POR MÉDIA,1
+Vitoria Bruna,Design Sonoro,Patricia Nunes,2019,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design Thinking,,2017,7.5,APROVADO POR MÉDIA,1
+Vitoria Bruna,Design de Aprendizado,Ana Costa,2018,,REPROVADO POR FALTA,2
+Vitoria Bruna,Design de Aprendizado,,2017,,REPROVADO POR FALTA,2
+Vitoria Bruna,Design de Apresentacoes,Diego Cardoso,2018,7.9,APROVADO POR MÉDIA,1
+Vitoria Bruna,Design de Experiencia em Museus,Pedro Oliveira,2018,7.68,APROVADO POR MÉDIA,2
+Vitoria Bruna,Design de Interacao Tangivel,Rafaela Gomes,2018,7.7,APROVADO POR MÉDIA,2
+Vitoria Bruna,Design de Interfaces Neuromorficas,Marcos Ferreira,2018,8.5,APROVADO POR MÉDIA,2
+Vitoria Bruna,Design de Joias,Gustavo Martins,2018,2.95,REPROVADO,1
+Vitoria Bruna,Design de Joias,Gustavo Martins,2019,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design de Joias,,2017,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design de Mobiliario,,2015,,APROVADO POR FREQÜÊNCIA,1
+Vitoria Bruna,Design de Produto,Carla Souza,2018,8.5,APROVADO POR MÉDIA,2
+Vitoria Bruna,Design de Tecnologia Vestivel (Wearable),,2017,7.63,APROVADO,2
+Vitoria Bruna,Design de Visualizacao de Informacoes,Andre Almeida,2018,5.82,APROVADO,1
+Vitoria Bruna,Design de Visualizacao de Informacoes,,2015,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design de Visualizacao de Informacoes,,2017,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design para Longevidade,Marcos Ferreira,2018,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design para Longevidade,Marcos Ferreira,2019,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design para Longevidade,,2015,,REPROVADO POR FALTA,1
+Vitoria Bruna,Design para Longevidade,,2017,,REPROVADO POR FALTA,1
+Vitoria Bruna,Ecodesign,Diego Cardoso,2018,7.0,APROVADO POR MÉDIA,2
+Vitoria Bruna,Ergonomia,,2015,,REPROVADO POR FALTA,2
+Vitoria Bruna,Ergonomia,,2016,9.0,APROVADO POR MÉDIA,2
+Vitoria Bruna,Gamificacao,Luiz Pereira,2018,8.0,APROVADO POR MÉDIA,1
+Vitoria Bruna,Identidade Visual,,2015,8.25,APROVADO POR MÉDIA,1
+Vitoria Bruna,Impressao 3D,Marcos Ferreira,2019,10.0,APROVADO POR MÉDIA,1
+Vitoria Bruna,Interacao Tangivel,,2017,8.6,APROVADO POR MÉDIA,2
+Vitoria Bruna,Manipulacao de Imagem,Diego Cardoso,2019,5.98,APROVADO,1
+Vitoria Bruna,Projeto Integrado,Fernanda Lima,2018,,REPROVADO POR FALTA,2
+Vitoria Bruna,Projeto Integrado,,2017,1.59,REPROVADO,2
+Vitoria Bruna,Storytelling Visual,,2015,7.0,APROVADO POR MÉDIA,1
+Vitoria Bruna,TRANCAMENTO,,2016,,,1
+Vitoria Bruna,Tipografia,Joao Silva,2019,,REPROVADO POR FALTA,1
